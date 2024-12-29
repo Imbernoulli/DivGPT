@@ -1,0 +1,1118 @@
+[
+    {
+        "title": "Combine Two Tables",
+        "link": "https://leetcode.com/problems/combine-two-tables"
+    },
+    {
+        "title": "Second Highest Salary",
+        "link": "https://leetcode.com/problems/second-highest-salary"
+    },
+    {
+        "title": "Nth Highest Salary",
+        "link": "https://leetcode.com/problems/nth-highest-salary"
+    },
+    {
+        "title": "Rank Scores",
+        "link": "https://leetcode.com/problems/rank-scores"
+    },
+    {
+        "title": "Consecutive Numbers",
+        "link": "https://leetcode.com/problems/consecutive-numbers"
+    },
+    {
+        "title": "Employees Earning More Than Their Managers",
+        "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers"
+    },
+    {
+        "title": "Duplicate Emails",
+        "link": "https://leetcode.com/problems/duplicate-emails"
+    },
+    {
+        "title": "Customers Who Never Order",
+        "link": "https://leetcode.com/problems/customers-who-never-order"
+    },
+    {
+        "title": "Department Highest Salary",
+        "link": "https://leetcode.com/problems/department-highest-salary"
+    },
+    {
+        "title": "Department Top Three Salaries",
+        "link": "https://leetcode.com/problems/department-top-three-salaries"
+    },
+    {
+        "title": "Delete Duplicate Emails",
+        "link": "https://leetcode.com/problems/delete-duplicate-emails"
+    },
+    {
+        "title": "Rising Temperature",
+        "link": "https://leetcode.com/problems/rising-temperature"
+    },
+    {
+        "title": "Trips and Users",
+        "link": "https://leetcode.com/problems/trips-and-users"
+    },
+    {
+        "title": "Median Employee Salary",
+        "link": "https://leetcode.com/problems/median-employee-salary"
+    },
+    {
+        "title": "Managers with at Least 5 Direct Reports",
+        "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports"
+    },
+    {
+        "title": "Find Median Given Frequency of Numbers",
+        "link": "https://leetcode.com/problems/find-median-given-frequency-of-numbers"
+    },
+    {
+        "title": "Winning Candidate",
+        "link": "https://leetcode.com/problems/winning-candidate"
+    },
+    {
+        "title": "Employee Bonus",
+        "link": "https://leetcode.com/problems/employee-bonus"
+    },
+    {
+        "title": "Get Highest Answer Rate Question",
+        "link": "https://leetcode.com/problems/get-highest-answer-rate-question"
+    },
+    {
+        "title": "Find Cumulative Salary of an Employee",
+        "link": "https://leetcode.com/problems/find-cumulative-salary-of-an-employee"
+    },
+    {
+        "title": "Count Student Number in Departments",
+        "link": "https://leetcode.com/problems/count-student-number-in-departments"
+    },
+    {
+        "title": "Find Customer Referee",
+        "link": "https://leetcode.com/problems/find-customer-referee"
+    },
+    {
+        "title": "Investments in 2016",
+        "link": "https://leetcode.com/problems/investments-in-2016"
+    },
+    {
+        "title": "Customer Placing the Largest Number of Orders",
+        "link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders"
+    },
+    {
+        "title": "Big Countries",
+        "link": "https://leetcode.com/problems/big-countries"
+    },
+    {
+        "title": "Classes More Than 5 Students",
+        "link": "https://leetcode.com/problems/classes-more-than-5-students"
+    },
+    {
+        "title": "Friend Requests I: Overall Acceptance Rate",
+        "link": "https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate"
+    },
+    {
+        "title": "Human Traffic of Stadium",
+        "link": "https://leetcode.com/problems/human-traffic-of-stadium"
+    },
+    {
+        "title": "Friend Requests II: Who Has the Most Friends",
+        "link": "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends"
+    },
+    {
+        "title": "Consecutive Available Seats",
+        "link": "https://leetcode.com/problems/consecutive-available-seats"
+    },
+    {
+        "title": "Sales Person",
+        "link": "https://leetcode.com/problems/sales-person"
+    },
+    {
+        "title": "Tree Node",
+        "link": "https://leetcode.com/problems/tree-node"
+    },
+    {
+        "title": "Triangle Judgement",
+        "link": "https://leetcode.com/problems/triangle-judgement"
+    },
+    {
+        "title": "Shortest Distance in a Plane",
+        "link": "https://leetcode.com/problems/shortest-distance-in-a-plane"
+    },
+    {
+        "title": "Shortest Distance in a Line",
+        "link": "https://leetcode.com/problems/shortest-distance-in-a-line"
+    },
+    {
+        "title": "Second Degree Follower",
+        "link": "https://leetcode.com/problems/second-degree-follower"
+    },
+    {
+        "title": "Average Salary: Departments VS Company",
+        "link": "https://leetcode.com/problems/average-salary-departments-vs-company"
+    },
+    {
+        "title": "Students Report By Geography",
+        "link": "https://leetcode.com/problems/students-report-by-geography"
+    },
+    {
+        "title": "Biggest Single Number",
+        "link": "https://leetcode.com/problems/biggest-single-number"
+    },
+    {
+        "title": "Not Boring Movies",
+        "link": "https://leetcode.com/problems/not-boring-movies"
+    },
+    {
+        "title": "Exchange Seats",
+        "link": "https://leetcode.com/problems/exchange-seats"
+    },
+    {
+        "title": "Swap Salary",
+        "link": "https://leetcode.com/problems/swap-salary"
+    },
+    {
+        "title": "Customers Who Bought All Products",
+        "link": "https://leetcode.com/problems/customers-who-bought-all-products"
+    },
+    {
+        "title": "Actors and Directors Who Cooperated At Least Three Times",
+        "link": "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times"
+    },
+    {
+        "title": "Product Sales Analysis I",
+        "link": "https://leetcode.com/problems/product-sales-analysis-i"
+    },
+    {
+        "title": "Product Sales Analysis II",
+        "link": "https://leetcode.com/problems/product-sales-analysis-ii"
+    },
+    {
+        "title": "Product Sales Analysis III",
+        "link": "https://leetcode.com/problems/product-sales-analysis-iii"
+    },
+    {
+        "title": "Project Employees I",
+        "link": "https://leetcode.com/problems/project-employees-i"
+    },
+    {
+        "title": "Project Employees II",
+        "link": "https://leetcode.com/problems/project-employees-ii"
+    },
+    {
+        "title": "Project Employees III",
+        "link": "https://leetcode.com/problems/project-employees-iii"
+    },
+    {
+        "title": "Sales Analysis I",
+        "link": "https://leetcode.com/problems/sales-analysis-i"
+    },
+    {
+        "title": "Sales Analysis II",
+        "link": "https://leetcode.com/problems/sales-analysis-ii"
+    },
+    {
+        "title": "Sales Analysis III",
+        "link": "https://leetcode.com/problems/sales-analysis-iii"
+    },
+    {
+        "title": "Game Play Analysis I",
+        "link": "https://leetcode.com/problems/game-play-analysis-i"
+    },
+    {
+        "title": "Game Play Analysis II",
+        "link": "https://leetcode.com/problems/game-play-analysis-ii"
+    },
+    {
+        "title": "Game Play Analysis III",
+        "link": "https://leetcode.com/problems/game-play-analysis-iii"
+    },
+    {
+        "title": "Game Play Analysis IV",
+        "link": "https://leetcode.com/problems/game-play-analysis-iv"
+    },
+    {
+        "title": "Game Play Analysis V",
+        "link": "https://leetcode.com/problems/game-play-analysis-v"
+    },
+    {
+        "title": "Unpopular Books",
+        "link": "https://leetcode.com/problems/unpopular-books"
+    },
+    {
+        "title": "New Users Daily Count",
+        "link": "https://leetcode.com/problems/new-users-daily-count"
+    },
+    {
+        "title": "Highest Grade For Each Student",
+        "link": "https://leetcode.com/problems/highest-grade-for-each-student"
+    },
+    {
+        "title": "Reported Posts",
+        "link": "https://leetcode.com/problems/reported-posts"
+    },
+    {
+        "title": "Active Businesses",
+        "link": "https://leetcode.com/problems/active-businesses"
+    },
+    {
+        "title": "User Purchase Platform",
+        "link": "https://leetcode.com/problems/user-purchase-platform"
+    },
+    {
+        "title": "Reported Posts II",
+        "link": "https://leetcode.com/problems/reported-posts-ii"
+    },
+    {
+        "title": "User Activity for the Past 30 Days I",
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i"
+    },
+    {
+        "title": "User Activity for the Past 30 Days II",
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii"
+    },
+    {
+        "title": "Article Views I",
+        "link": "https://leetcode.com/problems/article-views-i"
+    },
+    {
+        "title": "Article Views II",
+        "link": "https://leetcode.com/problems/article-views-ii"
+    },
+    {
+        "title": "Market Analysis I",
+        "link": "https://leetcode.com/problems/market-analysis-i"
+    },
+    {
+        "title": "Market Analysis II",
+        "link": "https://leetcode.com/problems/market-analysis-ii"
+    },
+    {
+        "title": "Product Price at a Given Date",
+        "link": "https://leetcode.com/problems/product-price-at-a-given-date"
+    },
+    {
+        "title": "Immediate Food Delivery I",
+        "link": "https://leetcode.com/problems/immediate-food-delivery-i"
+    },
+    {
+        "title": "Immediate Food Delivery II",
+        "link": "https://leetcode.com/problems/immediate-food-delivery-ii"
+    },
+    {
+        "title": "Reformat Department Table",
+        "link": "https://leetcode.com/problems/reformat-department-table"
+    },
+    {
+        "title": "Monthly Transactions I",
+        "link": "https://leetcode.com/problems/monthly-transactions-i"
+    },
+    {
+        "title": "Tournament Winners",
+        "link": "https://leetcode.com/problems/tournament-winners"
+    },
+    {
+        "title": "Last Person to Fit in the Bus",
+        "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus"
+    },
+    {
+        "title": "Monthly Transactions II",
+        "link": "https://leetcode.com/problems/monthly-transactions-ii"
+    },
+    {
+        "title": "Queries Quality and Percentage",
+        "link": "https://leetcode.com/problems/queries-quality-and-percentage"
+    },
+    {
+        "title": "Team Scores in Football Tournament",
+        "link": "https://leetcode.com/problems/team-scores-in-football-tournament"
+    },
+    {
+        "title": "Report Contiguous Dates",
+        "link": "https://leetcode.com/problems/report-contiguous-dates"
+    },
+    {
+        "title": "Number of Comments per Post",
+        "link": "https://leetcode.com/problems/number-of-comments-per-post"
+    },
+    {
+        "title": "Average Selling Price",
+        "link": "https://leetcode.com/problems/average-selling-price"
+    },
+    {
+        "title": "Page Recommendations",
+        "link": "https://leetcode.com/problems/page-recommendations"
+    },
+    {
+        "title": "All People Report to the Given Manager",
+        "link": "https://leetcode.com/problems/all-people-report-to-the-given-manager"
+    },
+    {
+        "title": "Students and Examinations",
+        "link": "https://leetcode.com/problems/students-and-examinations"
+    },
+    {
+        "title": "Find the Start and End Number of Continuous Ranges",
+        "link": "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges"
+    },
+    {
+        "title": "Weather Type in Each Country",
+        "link": "https://leetcode.com/problems/weather-type-in-each-country"
+    },
+    {
+        "title": "Find the Team Size",
+        "link": "https://leetcode.com/problems/find-the-team-size"
+    },
+    {
+        "title": "Running Total for Different Genders",
+        "link": "https://leetcode.com/problems/running-total-for-different-genders"
+    },
+    {
+        "title": "Restaurant Growth",
+        "link": "https://leetcode.com/problems/restaurant-growth"
+    },
+    {
+        "title": "Ads Performance",
+        "link": "https://leetcode.com/problems/ads-performance"
+    },
+    {
+        "title": "List the Products Ordered in a Period",
+        "link": "https://leetcode.com/problems/list-the-products-ordered-in-a-period"
+    },
+    {
+        "title": "Number of Transactions per Visit",
+        "link": "https://leetcode.com/problems/number-of-transactions-per-visit"
+    },
+    {
+        "title": "Movie Rating",
+        "link": "https://leetcode.com/problems/movie-rating"
+    },
+    {
+        "title": "Students With Invalid Departments",
+        "link": "https://leetcode.com/problems/students-with-invalid-departments"
+    },
+    {
+        "title": "Activity Participants",
+        "link": "https://leetcode.com/problems/activity-participants"
+    },
+    {
+        "title": "Number of Trusted Contacts of a Customer",
+        "link": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer"
+    },
+    {
+        "title": "Get the Second Most Recent Activity",
+        "link": "https://leetcode.com/problems/get-the-second-most-recent-activity"
+    },
+    {
+        "title": "Replace Employee ID With The Unique Identifier",
+        "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
+    },
+    {
+        "title": "Total Sales Amount by Year",
+        "link": "https://leetcode.com/problems/total-sales-amount-by-year"
+    },
+    {
+        "title": "Capital Gain/Loss",
+        "link": "https://leetcode.com/problems/capital-gainloss"
+    },
+    {
+        "title": "Customers Who Bought Products A and B but Not C",
+        "link": "https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c"
+    },
+    {
+        "title": "Top Travellers",
+        "link": "https://leetcode.com/problems/top-travellers"
+    },
+    {
+        "title": "Find the Quiet Students in All Exams",
+        "link": "https://leetcode.com/problems/find-the-quiet-students-in-all-exams"
+    },
+    {
+        "title": "NPV Queries",
+        "link": "https://leetcode.com/problems/npv-queries"
+    },
+    {
+        "title": "Create a Session Bar Chart",
+        "link": "https://leetcode.com/problems/create-a-session-bar-chart"
+    },
+    {
+        "title": "Evaluate Boolean Expression",
+        "link": "https://leetcode.com/problems/evaluate-boolean-expression"
+    },
+    {
+        "title": "Apples & Oranges",
+        "link": "https://leetcode.com/problems/apples-oranges"
+    },
+    {
+        "title": "Active Users",
+        "link": "https://leetcode.com/problems/active-users"
+    },
+    {
+        "title": "Rectangles Area",
+        "link": "https://leetcode.com/problems/rectangles-area"
+    },
+    {
+        "title": "Calculate Salaries",
+        "link": "https://leetcode.com/problems/calculate-salaries"
+    },
+    {
+        "title": "Sales by Day of the Week",
+        "link": "https://leetcode.com/problems/sales-by-day-of-the-week"
+    },
+    {
+        "title": "Group Sold Products By The Date",
+        "link": "https://leetcode.com/problems/group-sold-products-by-the-date"
+    },
+    {
+        "title": "Friendly Movies Streamed Last Month",
+        "link": "https://leetcode.com/problems/friendly-movies-streamed-last-month"
+    },
+    {
+        "title": "Countries You Can Safely Invest In",
+        "link": "https://leetcode.com/problems/countries-you-can-safely-invest-in"
+    },
+    {
+        "title": "Customer Order Frequency",
+        "link": "https://leetcode.com/problems/customer-order-frequency"
+    },
+    {
+        "title": "Find Users With Valid E-Mails",
+        "link": "https://leetcode.com/problems/find-users-with-valid-e-mails"
+    },
+    {
+        "title": "Patients With a Condition",
+        "link": "https://leetcode.com/problems/patients-with-a-condition"
+    },
+    {
+        "title": "The Most Recent Three Orders",
+        "link": "https://leetcode.com/problems/the-most-recent-three-orders"
+    },
+    {
+        "title": "Fix Product Name Format",
+        "link": "https://leetcode.com/problems/fix-product-name-format"
+    },
+    {
+        "title": "The Most Recent Orders for Each Product",
+        "link": "https://leetcode.com/problems/the-most-recent-orders-for-each-product"
+    },
+    {
+        "title": "Bank Account Summary",
+        "link": "https://leetcode.com/problems/bank-account-summary"
+    },
+    {
+        "title": "Unique Orders and Customers Per Month",
+        "link": "https://leetcode.com/problems/unique-orders-and-customers-per-month"
+    },
+    {
+        "title": "Warehouse Manager",
+        "link": "https://leetcode.com/problems/warehouse-manager"
+    },
+    {
+        "title": "Customer Who Visited but Did Not Make Any Transactions",
+        "link": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions"
+    },
+    {
+        "title": "Bank Account Summary II",
+        "link": "https://leetcode.com/problems/bank-account-summary-ii"
+    },
+    {
+        "title": "The Most Frequently Ordered Products for Each Customer",
+        "link": "https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer"
+    },
+    {
+        "title": "Sellers With No Sales",
+        "link": "https://leetcode.com/problems/sellers-with-no-sales"
+    },
+    {
+        "title": "Find the Missing IDs",
+        "link": "https://leetcode.com/problems/find-the-missing-ids"
+    },
+    {
+        "title": "All Valid Triplets That Can Represent a Country",
+        "link": "https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country"
+    },
+    {
+        "title": "Percentage of Users Attended a Contest",
+        "link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest"
+    },
+    {
+        "title": "Hopper Company Queries I",
+        "link": "https://leetcode.com/problems/hopper-company-queries-i"
+    },
+    {
+        "title": "Hopper Company Queries II",
+        "link": "https://leetcode.com/problems/hopper-company-queries-ii"
+    },
+    {
+        "title": "Hopper Company Queries III",
+        "link": "https://leetcode.com/problems/hopper-company-queries-iii"
+    },
+    {
+        "title": "Average Time of Process per Machine",
+        "link": "https://leetcode.com/problems/average-time-of-process-per-machine"
+    },
+    {
+        "title": "Fix Names in a Table",
+        "link": "https://leetcode.com/problems/fix-names-in-a-table"
+    },
+    {
+        "title": "Product's Worth Over Invoices",
+        "link": "https://leetcode.com/problems/products-worth-over-invoices"
+    },
+    {
+        "title": "Invalid Tweets",
+        "link": "https://leetcode.com/problems/invalid-tweets"
+    },
+    {
+        "title": "Daily Leads and Partners",
+        "link": "https://leetcode.com/problems/daily-leads-and-partners"
+    },
+    {
+        "title": "Number of Calls Between Two Persons",
+        "link": "https://leetcode.com/problems/number-of-calls-between-two-persons"
+    },
+    {
+        "title": "Biggest Window Between Visits",
+        "link": "https://leetcode.com/problems/biggest-window-between-visits"
+    },
+    {
+        "title": "Count Apples and Oranges",
+        "link": "https://leetcode.com/problems/count-apples-and-oranges"
+    },
+    {
+        "title": "Find Followers Count",
+        "link": "https://leetcode.com/problems/find-followers-count"
+    },
+    {
+        "title": "The Number of Employees Which Report to Each Employee",
+        "link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee"
+    },
+    {
+        "title": "Find Total Time Spent by Each Employee",
+        "link": "https://leetcode.com/problems/find-total-time-spent-by-each-employee"
+    },
+    {
+        "title": "Leetflex Banned Accounts",
+        "link": "https://leetcode.com/problems/leetflex-banned-accounts"
+    },
+    {
+        "title": "Recyclable and Low Fat Products",
+        "link": "https://leetcode.com/problems/recyclable-and-low-fat-products"
+    },
+    {
+        "title": "Find the Subtasks That Did Not Execute",
+        "link": "https://leetcode.com/problems/find-the-subtasks-that-did-not-execute"
+    },
+    {
+        "title": "Product's Price for Each Store",
+        "link": "https://leetcode.com/problems/products-price-for-each-store"
+    },
+    {
+        "title": "Grand Slam Titles",
+        "link": "https://leetcode.com/problems/grand-slam-titles"
+    },
+    {
+        "title": "Primary Department for Each Employee",
+        "link": "https://leetcode.com/problems/primary-department-for-each-employee"
+    },
+    {
+        "title": "Rearrange Products Table",
+        "link": "https://leetcode.com/problems/rearrange-products-table"
+    },
+    {
+        "title": "Ad-Free Sessions",
+        "link": "https://leetcode.com/problems/ad-free-sessions"
+    },
+    {
+        "title": "Find Interview Candidates",
+        "link": "https://leetcode.com/problems/find-interview-candidates"
+    },
+    {
+        "title": "Find Customers With Positive Revenue this Year",
+        "link": "https://leetcode.com/problems/find-customers-with-positive-revenue-this-year"
+    },
+    {
+        "title": "Maximum Transaction Each Day",
+        "link": "https://leetcode.com/problems/maximum-transaction-each-day"
+    },
+    {
+        "title": "League Statistics",
+        "link": "https://leetcode.com/problems/league-statistics"
+    },
+    {
+        "title": "Suspicious Bank Accounts",
+        "link": "https://leetcode.com/problems/suspicious-bank-accounts"
+    },
+    {
+        "title": "Convert Date Format",
+        "link": "https://leetcode.com/problems/convert-date-format"
+    },
+    {
+        "title": "Orders With Maximum Quantity Above Average",
+        "link": "https://leetcode.com/problems/orders-with-maximum-quantity-above-average"
+    },
+    {
+        "title": "Calculate Special Bonus",
+        "link": "https://leetcode.com/problems/calculate-special-bonus"
+    },
+    {
+        "title": "Group Employees of the Same Salary",
+        "link": "https://leetcode.com/problems/group-employees-of-the-same-salary"
+    },
+    {
+        "title": "The Latest Login in 2020",
+        "link": "https://leetcode.com/problems/the-latest-login-in-2020"
+    },
+    {
+        "title": "Page Recommendations II",
+        "link": "https://leetcode.com/problems/page-recommendations-ii"
+    },
+    {
+        "title": "Count Salary Categories",
+        "link": "https://leetcode.com/problems/count-salary-categories"
+    },
+    {
+        "title": "Leetcodify Friends Recommendations",
+        "link": "https://leetcode.com/problems/leetcodify-friends-recommendations"
+    },
+    {
+        "title": "Leetcodify Similar Friends",
+        "link": "https://leetcode.com/problems/leetcodify-similar-friends"
+    },
+    {
+        "title": "Confirmation Rate",
+        "link": "https://leetcode.com/problems/confirmation-rate"
+    },
+    {
+        "title": "Users That Actively Request Confirmation Messages",
+        "link": "https://leetcode.com/problems/users-that-actively-request-confirmation-messages"
+    },
+    {
+        "title": "Strong Friendship",
+        "link": "https://leetcode.com/problems/strong-friendship"
+    },
+    {
+        "title": "All the Pairs With the Maximum Number of Common Followers",
+        "link": "https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers"
+    },
+    {
+        "title": "Employees With Missing Information",
+        "link": "https://leetcode.com/problems/employees-with-missing-information"
+    },
+    {
+        "title": "First and Last Call On the Same Day",
+        "link": "https://leetcode.com/problems/first-and-last-call-on-the-same-day"
+    },
+    {
+        "title": "Employees Whose Manager Left the Company",
+        "link": "https://leetcode.com/problems/employees-whose-manager-left-the-company"
+    },
+    {
+        "title": "Find Cutoff Score for Each School",
+        "link": "https://leetcode.com/problems/find-cutoff-score-for-each-school"
+    },
+    {
+        "title": "Count the Number of Experiments",
+        "link": "https://leetcode.com/problems/count-the-number-of-experiments"
+    },
+    {
+        "title": "The Number of Seniors and Juniors to Join the Company",
+        "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company"
+    },
+    {
+        "title": "The Number of Seniors and Juniors to Join the Company II",
+        "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii"
+    },
+    {
+        "title": "Number of Accounts That Did Not Stream",
+        "link": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream"
+    },
+    {
+        "title": "Low-Quality Problems",
+        "link": "https://leetcode.com/problems/low-quality-problems"
+    },
+    {
+        "title": "Accepted Candidates From the Interviews",
+        "link": "https://leetcode.com/problems/accepted-candidates-from-the-interviews"
+    },
+    {
+        "title": "The Category of Each Member in the Store",
+        "link": "https://leetcode.com/problems/the-category-of-each-member-in-the-store"
+    },
+    {
+        "title": "Account Balance",
+        "link": "https://leetcode.com/problems/account-balance"
+    },
+    {
+        "title": "The Winner University",
+        "link": "https://leetcode.com/problems/the-winner-university"
+    },
+    {
+        "title": "The Number of Rich Customers",
+        "link": "https://leetcode.com/problems/the-number-of-rich-customers"
+    },
+    {
+        "title": "Drop Type 1 Orders for Customers With Type 0 Orders",
+        "link": "https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders"
+    },
+    {
+        "title": "The Airport With the Most Traffic",
+        "link": "https://leetcode.com/problems/the-airport-with-the-most-traffic"
+    },
+    {
+        "title": "Build the Equation",
+        "link": "https://leetcode.com/problems/build-the-equation"
+    },
+    {
+        "title": "The Number of Passengers in Each Bus I",
+        "link": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i"
+    },
+    {
+        "title": "The Number of Passengers in Each Bus II",
+        "link": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii"
+    },
+    {
+        "title": "Order Two Columns Independently",
+        "link": "https://leetcode.com/problems/order-two-columns-independently"
+    },
+    {
+        "title": "Longest Winning Streak",
+        "link": "https://leetcode.com/problems/longest-winning-streak"
+    },
+    {
+        "title": "The Change in Global Rankings",
+        "link": "https://leetcode.com/problems/the-change-in-global-rankings"
+    },
+    {
+        "title": "Finding the Topic of Each Post",
+        "link": "https://leetcode.com/problems/finding-the-topic-of-each-post"
+    },
+    {
+        "title": "The Number of Users That Are Eligible for Discount",
+        "link": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount"
+    },
+    {
+        "title": "Users With Two Purchases Within Seven Days",
+        "link": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days"
+    },
+    {
+        "title": "The Users That Are Eligible for Discount",
+        "link": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount"
+    },
+    {
+        "title": "Number of Times a Driver Was a Passenger",
+        "link": "https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger"
+    },
+    {
+        "title": "Dynamic Pivoting of a Table",
+        "link": "https://leetcode.com/problems/dynamic-pivoting-of-a-table"
+    },
+    {
+        "title": "Dynamic Unpivoting of a Table",
+        "link": "https://leetcode.com/problems/dynamic-unpivoting-of-a-table"
+    },
+    {
+        "title": "Products With Three or More Orders in Two Consecutive Years",
+        "link": "https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years"
+    },
+    {
+        "title": "Tasks Count in the Weekend",
+        "link": "https://leetcode.com/problems/tasks-count-in-the-weekend"
+    },
+    {
+        "title": "Arrange Table by Gender",
+        "link": "https://leetcode.com/problems/arrange-table-by-gender"
+    },
+    {
+        "title": "The First Day of the Maximum Recorded Degree in Each City",
+        "link": "https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city"
+    },
+    {
+        "title": "Product Sales Analysis IV",
+        "link": "https://leetcode.com/problems/product-sales-analysis-iv"
+    },
+    {
+        "title": "Product Sales Analysis V",
+        "link": "https://leetcode.com/problems/product-sales-analysis-v"
+    },
+    {
+        "title": "All the Matches of the League",
+        "link": "https://leetcode.com/problems/all-the-matches-of-the-league"
+    },
+    {
+        "title": "Compute the Rank as a Percentage",
+        "link": "https://leetcode.com/problems/compute-the-rank-as-a-percentage"
+    },
+    {
+        "title": "Number of Unique Subjects Taught by Each Teacher",
+        "link": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher"
+    },
+    {
+        "title": "Generate the Invoice",
+        "link": "https://leetcode.com/problems/generate-the-invoice"
+    },
+    {
+        "title": "Calculate the Influence of Each Salesperson",
+        "link": "https://leetcode.com/problems/calculate-the-influence-of-each-salesperson"
+    },
+    {
+        "title": "Sort the Olympic Table",
+        "link": "https://leetcode.com/problems/sort-the-olympic-table"
+    },
+    {
+        "title": "Change Null Values in a Table to the Previous Value",
+        "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value"
+    },
+    {
+        "title": "Employees With Deductions",
+        "link": "https://leetcode.com/problems/employees-with-deductions"
+    },
+    {
+        "title": "Customers With Strictly Increasing Purchases",
+        "link": "https://leetcode.com/problems/customers-with-strictly-increasing-purchases"
+    },
+    {
+        "title": "Form a Chemical Bond",
+        "link": "https://leetcode.com/problems/form-a-chemical-bond"
+    },
+    {
+        "title": "Merge Overlapping Events in the Same Hall",
+        "link": "https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall"
+    },
+    {
+        "title": "Concatenate the Name and the Profession",
+        "link": "https://leetcode.com/problems/concatenate-the-name-and-the-profession"
+    },
+    {
+        "title": "Find Latest Salaries",
+        "link": "https://leetcode.com/problems/find-latest-salaries"
+    },
+    {
+        "title": "Count Artist Occurrences On Spotify Ranking List",
+        "link": "https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list"
+    },
+    {
+        "title": "Immediate Food Delivery III",
+        "link": "https://leetcode.com/problems/immediate-food-delivery-iii"
+    },
+    {
+        "title": "Bikes Last Time Used",
+        "link": "https://leetcode.com/problems/bikes-last-time-used"
+    },
+    {
+        "title": "Find Active Users",
+        "link": "https://leetcode.com/problems/find-active-users"
+    },
+    {
+        "title": "Customers with Maximum Number of Transactions on Consecutive Days",
+        "link": "https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days"
+    },
+    {
+        "title": "Consecutive Transactions with Increasing Amounts",
+        "link": "https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts"
+    },
+    {
+        "title": "Popularity Percentage",
+        "link": "https://leetcode.com/problems/popularity-percentage"
+    },
+    {
+        "title": "Count Occurrences in Text",
+        "link": "https://leetcode.com/problems/count-occurrences-in-text"
+    },
+    {
+        "title": "Flight Occupancy and Waitlist Analysis",
+        "link": "https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis"
+    },
+    {
+        "title": "Total Traveled Distance",
+        "link": "https://leetcode.com/problems/total-traveled-distance"
+    },
+    {
+        "title": "Highest Salaries Difference",
+        "link": "https://leetcode.com/problems/highest-salaries-difference"
+    },
+    {
+        "title": "Rolling Average Steps",
+        "link": "https://leetcode.com/problems/rolling-average-steps"
+    },
+    {
+        "title": "Calculate Orders Within Each Interval",
+        "link": "https://leetcode.com/problems/calculate-orders-within-each-interval"
+    },
+    {
+        "title": "Market Analysis III",
+        "link": "https://leetcode.com/problems/market-analysis-iii"
+    },
+    {
+        "title": "Symmetric Coordinates",
+        "link": "https://leetcode.com/problems/symmetric-coordinates"
+    },
+    {
+        "title": "Pizza Toppings Cost Analysis",
+        "link": "https://leetcode.com/problems/pizza-toppings-cost-analysis"
+    },
+    {
+        "title": "Find Candidates for Data Scientist Position",
+        "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position"
+    },
+    {
+        "title": "Maximize Items",
+        "link": "https://leetcode.com/problems/maximize-items"
+    },
+    {
+        "title": "Classifying Triangles by Lengths",
+        "link": "https://leetcode.com/problems/classifying-triangles-by-lengths"
+    },
+    {
+        "title": "Binary Tree Nodes",
+        "link": "https://leetcode.com/problems/binary-tree-nodes"
+    },
+    {
+        "title": "Find Peak Calling Hours for Each City",
+        "link": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city"
+    },
+    {
+        "title": "Calculate Compressed Mean",
+        "link": "https://leetcode.com/problems/calculate-compressed-mean"
+    },
+    {
+        "title": "Find Third Transaction",
+        "link": "https://leetcode.com/problems/find-third-transaction"
+    },
+    {
+        "title": "Find Expensive Cities",
+        "link": "https://leetcode.com/problems/find-expensive-cities"
+    },
+    {
+        "title": "Manager of the Largest Department",
+        "link": "https://leetcode.com/problems/manager-of-the-largest-department"
+    },
+    {
+        "title": "Class Performance",
+        "link": "https://leetcode.com/problems/class-performance"
+    },
+    {
+        "title": "Loan Types",
+        "link": "https://leetcode.com/problems/loan-types"
+    },
+    {
+        "title": "Top Three Wineries",
+        "link": "https://leetcode.com/problems/top-three-wineries"
+    },
+    {
+        "title": "Friday Purchases I",
+        "link": "https://leetcode.com/problems/friday-purchases-i"
+    },
+    {
+        "title": "Friday Purchases II",
+        "link": "https://leetcode.com/problems/friday-purchases-ii"
+    },
+    {
+        "title": "Viewers Turned Streamers",
+        "link": "https://leetcode.com/problems/viewers-turned-streamers"
+    },
+    {
+        "title": "Top Percentile Fraud",
+        "link": "https://leetcode.com/problems/top-percentile-fraud"
+    },
+    {
+        "title": "Snaps Analysis",
+        "link": "https://leetcode.com/problems/snaps-analysis"
+    },
+    {
+        "title": "Employees Project Allocation",
+        "link": "https://leetcode.com/problems/employees-project-allocation"
+    },
+    {
+        "title": "Friends With No Mutual Friends",
+        "link": "https://leetcode.com/problems/friends-with-no-mutual-friends"
+    },
+    {
+        "title": "Find All Unique Email Domains",
+        "link": "https://leetcode.com/problems/find-all-unique-email-domains"
+    },
+    {
+        "title": "User Activities within Time Bounds",
+        "link": "https://leetcode.com/problems/user-activities-within-time-bounds"
+    },
+    {
+        "title": "Calculate Trapping Rain Water",
+        "link": "https://leetcode.com/problems/calculate-trapping-rain-water"
+    },
+    {
+        "title": "Find Trending Hashtags",
+        "link": "https://leetcode.com/problems/find-trending-hashtags"
+    },
+    {
+        "title": "Find Bursty Behavior",
+        "link": "https://leetcode.com/problems/find-bursty-behavior"
+    },
+    {
+        "title": "Find Trending Hashtags II",
+        "link": "https://leetcode.com/problems/find-trending-hashtags-ii"
+    },
+    {
+        "title": "Friday Purchase III",
+        "link": "https://leetcode.com/problems/friday-purchase-iii"
+    },
+    {
+        "title": "Find Longest Calls",
+        "link": "https://leetcode.com/problems/find-longest-calls"
+    },
+    {
+        "title": "Server Utilization Time",
+        "link": "https://leetcode.com/problems/server-utilization-time"
+    },
+    {
+        "title": "Consecutive Available Seats II",
+        "link": "https://leetcode.com/problems/consecutive-available-seats-ii"
+    },
+    {
+        "title": "Invalid Tweets II",
+        "link": "https://leetcode.com/problems/invalid-tweets-ii"
+    },
+    {
+        "title": "Employee Task Duration and Concurrent Tasks",
+        "link": "https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks"
+    },
+    {
+        "title": "Calculate Parking Fees and Duration",
+        "link": "https://leetcode.com/problems/calculate-parking-fees-and-duration"
+    },
+    {
+        "title": "Second Day Verification",
+        "link": "https://leetcode.com/problems/second-day-verification"
+    },
+    {
+        "title": "Find Top Scoring Students",
+        "link": "https://leetcode.com/problems/find-top-scoring-students"
+    },
+    {
+        "title": "Find Top Scoring Students II",
+        "link": "https://leetcode.com/problems/find-top-scoring-students-ii"
+    },
+    {
+        "title": "Find Cities in Each State",
+        "link": "https://leetcode.com/problems/find-cities-in-each-state"
+    },
+    {
+        "title": "Bitwise User Permissions Analysis",
+        "link": "https://leetcode.com/problems/bitwise-user-permissions-analysis"
+    },
+    {
+        "title": "Year on Year Growth Rate",
+        "link": "https://leetcode.com/problems/year-on-year-growth-rate"
+    },
+    {
+        "title": "Odd and Even Transactions",
+        "link": "https://leetcode.com/problems/odd-and-even-transactions"
+    },
+    {
+        "title": "Customer Purchasing Behavior Analysis",
+        "link": "https://leetcode.com/problems/customer-purchasing-behavior-analysis"
+    },
+    {
+        "title": "CEO Subordinate Hierarchy",
+        "link": "https://leetcode.com/problems/ceo-subordinate-hierarchy"
+    },
+    {
+        "title": "Premier League Table Ranking",
+        "link": "https://leetcode.com/problems/premier-league-table-ranking"
+    }
+]

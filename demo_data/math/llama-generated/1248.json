@@ -1,0 +1,8 @@
+{
+    "gpu_id": 7,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nThe teacher told the class that if they averaged at least 75% on their final exam, they could have a pizza party. Everyone took the exam on Monday, except for William, who was allowed to take it on Tuesday. If there are 30 people in the class, and the average before he took the test was a 74%, what score does he have to get to make sure they get to have a pizza party?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "94"
+}

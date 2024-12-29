@@ -1,0 +1,246 @@
+[
+    {
+        "title": "Trapping Rain Water",
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+        "title": "Largest Rectangle in Histogram",
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+    },
+    {
+        "title": "Maximal Rectangle",
+        "link": "https://leetcode.com/problems/maximal-rectangle"
+    },
+    {
+        "title": "Verify Preorder Sequence in Binary Search Tree",
+        "link": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree"
+    },
+    {
+        "title": "Remove Duplicate Letters",
+        "link": "https://leetcode.com/problems/remove-duplicate-letters"
+    },
+    {
+        "title": "Create Maximum Number",
+        "link": "https://leetcode.com/problems/create-maximum-number"
+    },
+    {
+        "title": "Remove K Digits",
+        "link": "https://leetcode.com/problems/remove-k-digits"
+    },
+    {
+        "title": "132 Pattern",
+        "link": "https://leetcode.com/problems/132-pattern"
+    },
+    {
+        "title": "Next Greater Element I",
+        "link": "https://leetcode.com/problems/next-greater-element-i"
+    },
+    {
+        "title": "Next Greater Element II",
+        "link": "https://leetcode.com/problems/next-greater-element-ii"
+    },
+    {
+        "title": "Shortest Unsorted Continuous Subarray",
+        "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray"
+    },
+    {
+        "title": "Maximum Binary Tree",
+        "link": "https://leetcode.com/problems/maximum-binary-tree"
+    },
+    {
+        "title": "Daily Temperatures",
+        "link": "https://leetcode.com/problems/daily-temperatures"
+    },
+    {
+        "title": "Max Chunks To Make Sorted II",
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii"
+    },
+    {
+        "title": "Max Chunks To Make Sorted",
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted"
+    },
+    {
+        "title": "Car Fleet",
+        "link": "https://leetcode.com/problems/car-fleet"
+    },
+    {
+        "title": "Online Stock Span",
+        "link": "https://leetcode.com/problems/online-stock-span"
+    },
+    {
+        "title": "Sum of Subarray Minimums",
+        "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+    },
+    {
+        "title": "Maximum Width Ramp",
+        "link": "https://leetcode.com/problems/maximum-width-ramp"
+    },
+    {
+        "title": "Odd Even Jump",
+        "link": "https://leetcode.com/problems/odd-even-jump"
+    },
+    {
+        "title": "Construct Binary Search Tree from Preorder Traversal",
+        "link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal"
+    },
+    {
+        "title": "Number of Valid Subarrays",
+        "link": "https://leetcode.com/problems/number-of-valid-subarrays"
+    },
+    {
+        "title": "Next Greater Node In Linked List",
+        "link": "https://leetcode.com/problems/next-greater-node-in-linked-list"
+    },
+    {
+        "title": "Smallest Subsequence of Distinct Characters",
+        "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
+    },
+    {
+        "title": "Longest Well-Performing Interval",
+        "link": "https://leetcode.com/problems/longest-well-performing-interval"
+    },
+    {
+        "title": "Minimum Cost Tree From Leaf Values",
+        "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
+    },
+    {
+        "title": "Number of Visible People in a Queue",
+        "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue"
+    },
+    {
+        "title": "Final Prices With a Special Discount in a Shop",
+        "link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop"
+    },
+    {
+        "title": "Count Submatrices With All Ones",
+        "link": "https://leetcode.com/problems/count-submatrices-with-all-ones"
+    },
+    {
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+    },
+    {
+        "title": "Shortest Subarray to be Removed to Make Array Sorted",
+        "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted"
+    },
+    {
+        "title": "Find the Most Competitive Subsequence",
+        "link": "https://leetcode.com/problems/find-the-most-competitive-subsequence"
+    },
+    {
+        "title": "Car Fleet II",
+        "link": "https://leetcode.com/problems/car-fleet-ii"
+    },
+    {
+        "title": "Buildings With an Ocean View",
+        "link": "https://leetcode.com/problems/buildings-with-an-ocean-view"
+    },
+    {
+        "title": "Maximum Score of a Good Subarray",
+        "link": "https://leetcode.com/problems/maximum-score-of-a-good-subarray"
+    },
+    {
+        "title": "Maximum Subarray Min-Product",
+        "link": "https://leetcode.com/problems/maximum-subarray-min-product"
+    },
+    {
+        "title": "Jump Game VIII",
+        "link": "https://leetcode.com/problems/jump-game-viii"
+    },
+    {
+        "title": "Maximum of Minimum Values in All Subarrays",
+        "link": "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays"
+    },
+    {
+        "title": "The Number of Weak Characters in the Game",
+        "link": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game"
+    },
+    {
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter"
+    },
+    {
+        "title": "Sum of Subarray Ranges",
+        "link": "https://leetcode.com/problems/sum-of-subarray-ranges"
+    },
+    {
+        "title": "Sum of Total Strength of Wizards",
+        "link": "https://leetcode.com/problems/sum-of-total-strength-of-wizards"
+    },
+    {
+        "title": "Steps to Make Array Non-decreasing",
+        "link": "https://leetcode.com/problems/steps-to-make-array-non-decreasing"
+    },
+    {
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold"
+    },
+    {
+        "title": "Number of People That Can Be Seen in a Grid",
+        "link": "https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid"
+    },
+    {
+        "title": "Finding the Number of Visible Mountains",
+        "link": "https://leetcode.com/problems/finding-the-number-of-visible-mountains"
+    },
+    {
+        "title": "Maximum Number of Books You Can Take",
+        "link": "https://leetcode.com/problems/maximum-number-of-books-you-can-take"
+    },
+    {
+        "title": "Next Greater Element IV",
+        "link": "https://leetcode.com/problems/next-greater-element-iv"
+    },
+    {
+        "title": "Remove Nodes From Linked List",
+        "link": "https://leetcode.com/problems/remove-nodes-from-linked-list"
+    },
+    {
+        "title": "Minimum Number of Visited Cells in a Grid",
+        "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+    },
+    {
+        "title": "Maximum Sum Queries",
+        "link": "https://leetcode.com/problems/maximum-sum-queries"
+    },
+    {
+        "title": "Apply Operations to Maximize Score",
+        "link": "https://leetcode.com/problems/apply-operations-to-maximize-score"
+    },
+    {
+        "title": "Maximal Range That Each Element Is Maximum in It",
+        "link": "https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it"
+    },
+    {
+        "title": "Beautiful Towers II",
+        "link": "https://leetcode.com/problems/beautiful-towers-ii"
+    },
+    {
+        "title": "Beautiful Towers I",
+        "link": "https://leetcode.com/problems/beautiful-towers-i"
+    },
+    {
+        "title": "Find Building Where Alice and Bob Can Meet",
+        "link": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet"
+    },
+    {
+        "title": "Find Maximum Non-decreasing Array Length",
+        "link": "https://leetcode.com/problems/find-maximum-non-decreasing-array-length"
+    },
+    {
+        "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "link": "https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum"
+    },
+    {
+        "title": "Minimum Operations to Make Array Equal to Target",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target"
+    },
+    {
+        "title": "Maximum Array Hopping Score I",
+        "link": "https://leetcode.com/problems/maximum-array-hopping-score-i"
+    },
+    {
+        "title": "Maximum Array Hopping Score II",
+        "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii"
+    }
+]

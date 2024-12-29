@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Two Sum III - Data structure design",
+        "link": "https://leetcode.com/problems/two-sum-iii-data-structure-design"
+    },
+    {
+        "title": "Find Median from Data Stream",
+        "link": "https://leetcode.com/problems/find-median-from-data-stream"
+    },
+    {
+        "title": "Moving Average from Data Stream",
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream"
+    },
+    {
+        "title": "Logger Rate Limiter",
+        "link": "https://leetcode.com/problems/logger-rate-limiter"
+    },
+    {
+        "title": "Design Hit Counter",
+        "link": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+        "title": "Design Search Autocomplete System",
+        "link": "https://leetcode.com/problems/design-search-autocomplete-system"
+    },
+    {
+        "title": "Kth Largest Element in a Stream",
+        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream"
+    },
+    {
+        "title": "Online Stock Span",
+        "link": "https://leetcode.com/problems/online-stock-span"
+    },
+    {
+        "title": "Number of Recent Calls",
+        "link": "https://leetcode.com/problems/number-of-recent-calls"
+    },
+    {
+        "title": "Stream of Characters",
+        "link": "https://leetcode.com/problems/stream-of-characters"
+    },
+    {
+        "title": "First Unique Number",
+        "link": "https://leetcode.com/problems/first-unique-number"
+    },
+    {
+        "title": "Product of the Last K Numbers",
+        "link": "https://leetcode.com/problems/product-of-the-last-k-numbers"
+    },
+    {
+        "title": "Design Browser History",
+        "link": "https://leetcode.com/problems/design-browser-history"
+    },
+    {
+        "title": "Design a File Sharing System",
+        "link": "https://leetcode.com/problems/design-a-file-sharing-system"
+    },
+    {
+        "title": "Design Front Middle Back Queue",
+        "link": "https://leetcode.com/problems/design-front-middle-back-queue"
+    },
+    {
+        "title": "Design an Ordered Stream",
+        "link": "https://leetcode.com/problems/design-an-ordered-stream"
+    },
+    {
+        "title": "Finding MK Average",
+        "link": "https://leetcode.com/problems/finding-mk-average"
+    },
+    {
+        "title": "Stock Price Fluctuation",
+        "link": "https://leetcode.com/problems/stock-price-fluctuation"
+    },
+    {
+        "title": "Sequentially Ordinal Rank Tracker",
+        "link": "https://leetcode.com/problems/sequentially-ordinal-rank-tracker"
+    },
+    {
+        "title": "Find Consecutive Integers from a Data Stream",
+        "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream"
+    }
+]

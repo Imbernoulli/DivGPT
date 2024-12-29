@@ -1,0 +1,310 @@
+[
+    {
+        "title": "Add Two Numbers",
+        "link": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+        "title": "Remove Nth Node From End of List",
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+    },
+    {
+        "title": "Merge Two Sorted Lists",
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+        "title": "Merge k Sorted Lists",
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+        "title": "Swap Nodes in Pairs",
+        "link": "https://leetcode.com/problems/swap-nodes-in-pairs"
+    },
+    {
+        "title": "Reverse Nodes in k-Group",
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+    },
+    {
+        "title": "Rotate List",
+        "link": "https://leetcode.com/problems/rotate-list"
+    },
+    {
+        "title": "Remove Duplicates from Sorted List II",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii"
+    },
+    {
+        "title": "Remove Duplicates from Sorted List",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list"
+    },
+    {
+        "title": "Partition List",
+        "link": "https://leetcode.com/problems/partition-list"
+    },
+    {
+        "title": "Reverse Linked List II",
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii"
+    },
+    {
+        "title": "Convert Sorted List to Binary Search Tree",
+        "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree"
+    },
+    {
+        "title": "Flatten Binary Tree to Linked List",
+        "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+    },
+    {
+        "title": "Populating Next Right Pointers in Each Node",
+        "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node"
+    },
+    {
+        "title": "Populating Next Right Pointers in Each Node II",
+        "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii"
+    },
+    {
+        "title": "Copy List with Random Pointer",
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+    },
+    {
+        "title": "Linked List Cycle",
+        "link": "https://leetcode.com/problems/linked-list-cycle"
+    },
+    {
+        "title": "Linked List Cycle II",
+        "link": "https://leetcode.com/problems/linked-list-cycle-ii"
+    },
+    {
+        "title": "Reorder List",
+        "link": "https://leetcode.com/problems/reorder-list"
+    },
+    {
+        "title": "LRU Cache",
+        "link": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+        "title": "Insertion Sort List",
+        "link": "https://leetcode.com/problems/insertion-sort-list"
+    },
+    {
+        "title": "Sort List",
+        "link": "https://leetcode.com/problems/sort-list"
+    },
+    {
+        "title": "Intersection of Two Linked Lists",
+        "link": "https://leetcode.com/problems/intersection-of-two-linked-lists"
+    },
+    {
+        "title": "Remove Linked List Elements",
+        "link": "https://leetcode.com/problems/remove-linked-list-elements"
+    },
+    {
+        "title": "Reverse Linked List",
+        "link": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+        "title": "Palindrome Linked List",
+        "link": "https://leetcode.com/problems/palindrome-linked-list"
+    },
+    {
+        "title": "Delete Node in a Linked List",
+        "link": "https://leetcode.com/problems/delete-node-in-a-linked-list"
+    },
+    {
+        "title": "Odd Even Linked List",
+        "link": "https://leetcode.com/problems/odd-even-linked-list"
+    },
+    {
+        "title": "Design Twitter",
+        "link": "https://leetcode.com/problems/design-twitter"
+    },
+    {
+        "title": "Plus One Linked List",
+        "link": "https://leetcode.com/problems/plus-one-linked-list"
+    },
+    {
+        "title": "Design Phone Directory",
+        "link": "https://leetcode.com/problems/design-phone-directory"
+    },
+    {
+        "title": "Linked List Random Node",
+        "link": "https://leetcode.com/problems/linked-list-random-node"
+    },
+    {
+        "title": "All O`one Data Structure",
+        "link": "https://leetcode.com/problems/all-oone-data-structure"
+    },
+    {
+        "title": "Add Two Numbers II",
+        "link": "https://leetcode.com/problems/add-two-numbers-ii"
+    },
+    {
+        "title": "LFU Cache",
+        "link": "https://leetcode.com/problems/lfu-cache"
+    },
+    {
+        "title": "Swapping Nodes in a Linked List",
+        "link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list"
+    },
+    {
+        "title": "Max Stack",
+        "link": "https://leetcode.com/problems/max-stack"
+    },
+    {
+        "title": "Split Linked List in Parts",
+        "link": "https://leetcode.com/problems/split-linked-list-in-parts"
+    },
+    {
+        "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list"
+    },
+    {
+        "title": "Flatten a Multilevel Doubly Linked List",
+        "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list"
+    },
+    {
+        "title": "Design HashSet",
+        "link": "https://leetcode.com/problems/design-hashset"
+    },
+    {
+        "title": "Design HashMap",
+        "link": "https://leetcode.com/problems/design-hashmap"
+    },
+    {
+        "title": "Linked List Components",
+        "link": "https://leetcode.com/problems/linked-list-components"
+    },
+    {
+        "title": "Design Linked List",
+        "link": "https://leetcode.com/problems/design-linked-list"
+    },
+    {
+        "title": "Insert into a Sorted Circular Linked List",
+        "link": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list"
+    },
+    {
+        "title": "Design Circular Deque",
+        "link": "https://leetcode.com/problems/design-circular-deque"
+    },
+    {
+        "title": "Design Circular Queue",
+        "link": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+        "title": "Middle of the Linked List",
+        "link": "https://leetcode.com/problems/middle-of-the-linked-list"
+    },
+    {
+        "title": "Next Greater Node In Linked List",
+        "link": "https://leetcode.com/problems/next-greater-node-in-linked-list"
+    },
+    {
+        "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+        "link": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list"
+    },
+    {
+        "title": "Design Skiplist",
+        "link": "https://leetcode.com/problems/design-skiplist"
+    },
+    {
+        "title": "Print Immutable Linked List in Reverse",
+        "link": "https://leetcode.com/problems/print-immutable-linked-list-in-reverse"
+    },
+    {
+        "title": "Convert Binary Number in a Linked List to Integer",
+        "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer"
+    },
+    {
+        "title": "Linked List in Binary Tree",
+        "link": "https://leetcode.com/problems/linked-list-in-binary-tree"
+    },
+    {
+        "title": "Design Browser History",
+        "link": "https://leetcode.com/problems/design-browser-history"
+    },
+    {
+        "title": "Delete N Nodes After M Nodes of a Linked List",
+        "link": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list"
+    },
+    {
+        "title": "Merge In Between Linked Lists",
+        "link": "https://leetcode.com/problems/merge-in-between-linked-lists"
+    },
+    {
+        "title": "Design Front Middle Back Queue",
+        "link": "https://leetcode.com/problems/design-front-middle-back-queue"
+    },
+    {
+        "title": "Add Two Polynomials Represented as Linked Lists",
+        "link": "https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists"
+    },
+    {
+        "title": "Design Authentication Manager",
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+    },
+    {
+        "title": "Remove Duplicates From an Unsorted Linked List",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list"
+    },
+    {
+        "title": "Sort Linked List Already Sorted Using Absolute Values",
+        "link": "https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values"
+    },
+    {
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
+    },
+    {
+        "title": "Reverse Nodes in Even Length Groups",
+        "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+    },
+    {
+        "title": "Delete the Middle Node of a Linked List",
+        "link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list"
+    },
+    {
+        "title": "Maximum Twin Sum of a Linked List",
+        "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list"
+    },
+    {
+        "title": "Merge Nodes in Between Zeros",
+        "link": "https://leetcode.com/problems/merge-nodes-in-between-zeros"
+    },
+    {
+        "title": "Steps to Make Array Non-decreasing",
+        "link": "https://leetcode.com/problems/steps-to-make-array-non-decreasing"
+    },
+    {
+        "title": "Design a Text Editor",
+        "link": "https://leetcode.com/problems/design-a-text-editor"
+    },
+    {
+        "title": "Spiral Matrix IV",
+        "link": "https://leetcode.com/problems/spiral-matrix-iv"
+    },
+    {
+        "title": "Remove Nodes From Linked List",
+        "link": "https://leetcode.com/problems/remove-nodes-from-linked-list"
+    },
+    {
+        "title": "Split a Circular Linked List",
+        "link": "https://leetcode.com/problems/split-a-circular-linked-list"
+    },
+    {
+        "title": "Double a Number Represented as a Linked List",
+        "link": "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list"
+    },
+    {
+        "title": "Insert Greatest Common Divisors in Linked List",
+        "link": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list"
+    },
+    {
+        "title": "Linked List Frequency",
+        "link": "https://leetcode.com/problems/linked-list-frequency"
+    },
+    {
+        "title": "Winner of the Linked List Game",
+        "link": "https://leetcode.com/problems/winner-of-the-linked-list-game"
+    },
+    {
+        "title": "Delete Nodes From Linked List Present in Array",
+        "link": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array"
+    }
+]

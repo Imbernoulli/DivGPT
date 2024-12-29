@@ -1,0 +1,8 @@
+{
+    "gpu_id": 3,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nJay has decided to save money from his paycheck every week. He has decided that he will increase the amount he saves each week by 10 dollars. If he started by saving 20 dollars this week, how much will he have saved in a month from now?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "60"
+}

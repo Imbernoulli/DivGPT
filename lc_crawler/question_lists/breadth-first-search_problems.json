@@ -1,0 +1,926 @@
+[
+    {
+        "title": "Same Tree",
+        "link": "https://leetcode.com/problems/same-tree"
+    },
+    {
+        "title": "Symmetric Tree",
+        "link": "https://leetcode.com/problems/symmetric-tree"
+    },
+    {
+        "title": "Binary Tree Level Order Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal"
+    },
+    {
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal"
+    },
+    {
+        "title": "Maximum Depth of Binary Tree",
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+    },
+    {
+        "title": "Binary Tree Level Order Traversal II",
+        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii"
+    },
+    {
+        "title": "Minimum Depth of Binary Tree",
+        "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree"
+    },
+    {
+        "title": "Path Sum",
+        "link": "https://leetcode.com/problems/path-sum"
+    },
+    {
+        "title": "Populating Next Right Pointers in Each Node",
+        "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node"
+    },
+    {
+        "title": "Populating Next Right Pointers in Each Node II",
+        "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii"
+    },
+    {
+        "title": "Word Ladder II",
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+    },
+    {
+        "title": "Word Ladder",
+        "link": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+        "title": "Surrounded Regions",
+        "link": "https://leetcode.com/problems/surrounded-regions"
+    },
+    {
+        "title": "Clone Graph",
+        "link": "https://leetcode.com/problems/clone-graph"
+    },
+    {
+        "title": "Binary Tree Right Side View",
+        "link": "https://leetcode.com/problems/binary-tree-right-side-view"
+    },
+    {
+        "title": "Number of Islands",
+        "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+        "title": "Course Schedule",
+        "link": "https://leetcode.com/problems/course-schedule"
+    },
+    {
+        "title": "Course Schedule II",
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+        "title": "Invert Binary Tree",
+        "link": "https://leetcode.com/problems/invert-binary-tree"
+    },
+    {
+        "title": "Graph Valid Tree",
+        "link": "https://leetcode.com/problems/graph-valid-tree"
+    },
+    {
+        "title": "Alien Dictionary",
+        "link": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+        "title": "Perfect Squares",
+        "link": "https://leetcode.com/problems/perfect-squares"
+    },
+    {
+        "title": "Walls and Gates",
+        "link": "https://leetcode.com/problems/walls-and-gates"
+    },
+    {
+        "title": "Serialize and Deserialize Binary Tree",
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    },
+    {
+        "title": "Remove Invalid Parentheses",
+        "link": "https://leetcode.com/problems/remove-invalid-parentheses"
+    },
+    {
+        "title": "Smallest Rectangle Enclosing Black Pixels",
+        "link": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels"
+    },
+    {
+        "title": "Minimum Height Trees",
+        "link": "https://leetcode.com/problems/minimum-height-trees"
+    },
+    {
+        "title": "Binary Tree Vertical Order Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    },
+    {
+        "title": "Shortest Distance from All Buildings",
+        "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+    },
+    {
+        "title": "Coin Change",
+        "link": "https://leetcode.com/problems/coin-change"
+    },
+    {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+    },
+    {
+        "title": "Longest Increasing Path in a Matrix",
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+    },
+    {
+        "title": "Nested List Weight Sum",
+        "link": "https://leetcode.com/problems/nested-list-weight-sum"
+    },
+    {
+        "title": "Nested List Weight Sum II",
+        "link": "https://leetcode.com/problems/nested-list-weight-sum-ii"
+    },
+    {
+        "title": "Water and Jug Problem",
+        "link": "https://leetcode.com/problems/water-and-jug-problem"
+    },
+    {
+        "title": "Evaluate Division",
+        "link": "https://leetcode.com/problems/evaluate-division"
+    },
+    {
+        "title": "Sum of Left Leaves",
+        "link": "https://leetcode.com/problems/sum-of-left-leaves"
+    },
+    {
+        "title": "Trapping Rain Water II",
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii"
+    },
+    {
+        "title": "Pacific Atlantic Water Flow",
+        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow"
+    },
+    {
+        "title": "Minimum Genetic Mutation",
+        "link": "https://leetcode.com/problems/minimum-genetic-mutation"
+    },
+    {
+        "title": "Serialize and Deserialize BST",
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-bst"
+    },
+    {
+        "title": "Island Perimeter",
+        "link": "https://leetcode.com/problems/island-perimeter"
+    },
+    {
+        "title": "Zuma Game",
+        "link": "https://leetcode.com/problems/zuma-game"
+    },
+    {
+        "title": "The Maze",
+        "link": "https://leetcode.com/problems/the-maze"
+    },
+    {
+        "title": "The Maze III",
+        "link": "https://leetcode.com/problems/the-maze-iii"
+    },
+    {
+        "title": "The Maze II",
+        "link": "https://leetcode.com/problems/the-maze-ii"
+    },
+    {
+        "title": "Find Bottom Left Tree Value",
+        "link": "https://leetcode.com/problems/find-bottom-left-tree-value"
+    },
+    {
+        "title": "Freedom Trail",
+        "link": "https://leetcode.com/problems/freedom-trail"
+    },
+    {
+        "title": "Find Largest Value in Each Tree Row",
+        "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row"
+    },
+    {
+        "title": "Minesweeper",
+        "link": "https://leetcode.com/problems/minesweeper"
+    },
+    {
+        "title": "Minimum Absolute Difference in BST",
+        "link": "https://leetcode.com/problems/minimum-absolute-difference-in-bst"
+    },
+    {
+        "title": "01 Matrix",
+        "link": "https://leetcode.com/problems/01-matrix"
+    },
+    {
+        "title": "Number of Provinces",
+        "link": "https://leetcode.com/problems/number-of-provinces"
+    },
+    {
+        "title": "Shortest Path to Get Food",
+        "link": "https://leetcode.com/problems/shortest-path-to-get-food"
+    },
+    {
+        "title": "Kill Process",
+        "link": "https://leetcode.com/problems/kill-process"
+    },
+    {
+        "title": "Merge Two Binary Trees",
+        "link": "https://leetcode.com/problems/merge-two-binary-trees"
+    },
+    {
+        "title": "Add One Row to Tree",
+        "link": "https://leetcode.com/problems/add-one-row-to-tree"
+    },
+    {
+        "title": "Average of Levels in Binary Tree",
+        "link": "https://leetcode.com/problems/average-of-levels-in-binary-tree"
+    },
+    {
+        "title": "Two Sum IV - Input is a BST",
+        "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst"
+    },
+    {
+        "title": "Print Binary Tree",
+        "link": "https://leetcode.com/problems/print-binary-tree"
+    },
+    {
+        "title": "Maximum Width of Binary Tree",
+        "link": "https://leetcode.com/problems/maximum-width-of-binary-tree"
+    },
+    {
+        "title": "Bulb Switcher II",
+        "link": "https://leetcode.com/problems/bulb-switcher-ii"
+    },
+    {
+        "title": "Cut Off Trees for Golf Event",
+        "link": "https://leetcode.com/problems/cut-off-trees-for-golf-event"
+    },
+    {
+        "title": "Redundant Connection",
+        "link": "https://leetcode.com/problems/redundant-connection"
+    },
+    {
+        "title": "Redundant Connection II",
+        "link": "https://leetcode.com/problems/redundant-connection-ii"
+    },
+    {
+        "title": "Employee Importance",
+        "link": "https://leetcode.com/problems/employee-importance"
+    },
+    {
+        "title": "Number of Distinct Islands",
+        "link": "https://leetcode.com/problems/number-of-distinct-islands"
+    },
+    {
+        "title": "Max Area of Island",
+        "link": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+        "title": "Number of Distinct Islands II",
+        "link": "https://leetcode.com/problems/number-of-distinct-islands-ii"
+    },
+    {
+        "title": "Accounts Merge",
+        "link": "https://leetcode.com/problems/accounts-merge"
+    },
+    {
+        "title": "Flood Fill",
+        "link": "https://leetcode.com/problems/flood-fill"
+    },
+    {
+        "title": "Sentence Similarity II",
+        "link": "https://leetcode.com/problems/sentence-similarity-ii"
+    },
+    {
+        "title": "Closest Leaf in a Binary Tree",
+        "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree"
+    },
+    {
+        "title": "Network Delay Time",
+        "link": "https://leetcode.com/problems/network-delay-time"
+    },
+    {
+        "title": "Contain Virus",
+        "link": "https://leetcode.com/problems/contain-virus"
+    },
+    {
+        "title": "Open the Lock",
+        "link": "https://leetcode.com/problems/open-the-lock"
+    },
+    {
+        "title": "Pyramid Transition Matrix",
+        "link": "https://leetcode.com/problems/pyramid-transition-matrix"
+    },
+    {
+        "title": "N-ary Tree Level Order Traversal",
+        "link": "https://leetcode.com/problems/n-ary-tree-level-order-traversal"
+    },
+    {
+        "title": "Serialize and Deserialize N-ary Tree",
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree"
+    },
+    {
+        "title": "Couples Holding Hands",
+        "link": "https://leetcode.com/problems/couples-holding-hands"
+    },
+    {
+        "title": "Encode N-ary Tree to Binary Tree",
+        "link": "https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree"
+    },
+    {
+        "title": "Maximum Depth of N-ary Tree",
+        "link": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree"
+    },
+    {
+        "title": "Sliding Puzzle",
+        "link": "https://leetcode.com/problems/sliding-puzzle"
+    },
+    {
+        "title": "Swim in Rising Water",
+        "link": "https://leetcode.com/problems/swim-in-rising-water"
+    },
+    {
+        "title": "Minimum Distance Between BST Nodes",
+        "link": "https://leetcode.com/problems/minimum-distance-between-bst-nodes"
+    },
+    {
+        "title": "Is Graph Bipartite?",
+        "link": "https://leetcode.com/problems/is-graph-bipartite"
+    },
+    {
+        "title": "Cheapest Flights Within K Stops",
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    },
+    {
+        "title": "All Paths From Source to Target",
+        "link": "https://leetcode.com/problems/all-paths-from-source-to-target"
+    },
+    {
+        "title": "Find Eventual Safe States",
+        "link": "https://leetcode.com/problems/find-eventual-safe-states"
+    },
+    {
+        "title": "Bus Routes",
+        "link": "https://leetcode.com/problems/bus-routes"
+    },
+    {
+        "title": "Making A Large Island",
+        "link": "https://leetcode.com/problems/making-a-large-island"
+    },
+    {
+        "title": "Similar String Groups",
+        "link": "https://leetcode.com/problems/similar-string-groups"
+    },
+    {
+        "title": "Keys and Rooms",
+        "link": "https://leetcode.com/problems/keys-and-rooms"
+    },
+    {
+        "title": "Shortest Path Visiting All Nodes",
+        "link": "https://leetcode.com/problems/shortest-path-visiting-all-nodes"
+    },
+    {
+        "title": "K-Similar Strings",
+        "link": "https://leetcode.com/problems/k-similar-strings"
+    },
+    {
+        "title": "All Nodes Distance K in Binary Tree",
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+    },
+    {
+        "title": "Shortest Path to Get All Keys",
+        "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    },
+    {
+        "title": "Smallest Subtree with all the Deepest Nodes",
+        "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes"
+    },
+    {
+        "title": "Possible Bipartition",
+        "link": "https://leetcode.com/problems/possible-bipartition"
+    },
+    {
+        "title": "Snakes and Ladders",
+        "link": "https://leetcode.com/problems/snakes-and-ladders"
+    },
+    {
+        "title": "Complete Binary Tree Inserter",
+        "link": "https://leetcode.com/problems/complete-binary-tree-inserter"
+    },
+    {
+        "title": "Minimize Malware Spread",
+        "link": "https://leetcode.com/problems/minimize-malware-spread"
+    },
+    {
+        "title": "Minimize Malware Spread II",
+        "link": "https://leetcode.com/problems/minimize-malware-spread-ii"
+    },
+    {
+        "title": "Shortest Bridge",
+        "link": "https://leetcode.com/problems/shortest-bridge"
+    },
+    {
+        "title": "Check Completeness of a Binary Tree",
+        "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree"
+    },
+    {
+        "title": "Regions Cut By Slashes",
+        "link": "https://leetcode.com/problems/regions-cut-by-slashes"
+    },
+    {
+        "title": "Univalued Binary Tree",
+        "link": "https://leetcode.com/problems/univalued-binary-tree"
+    },
+    {
+        "title": "Numbers With Same Consecutive Differences",
+        "link": "https://leetcode.com/problems/numbers-with-same-consecutive-differences"
+    },
+    {
+        "title": "Vertical Order Traversal of a Binary Tree",
+        "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+    },
+    {
+        "title": "Cousins in Binary Tree",
+        "link": "https://leetcode.com/problems/cousins-in-binary-tree"
+    },
+    {
+        "title": "Rotting Oranges",
+        "link": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+        "title": "Number of Enclaves",
+        "link": "https://leetcode.com/problems/number-of-enclaves"
+    },
+    {
+        "title": "Brace Expansion",
+        "link": "https://leetcode.com/problems/brace-expansion"
+    },
+    {
+        "title": "Path With Maximum Minimum Value",
+        "link": "https://leetcode.com/problems/path-with-maximum-minimum-value"
+    },
+    {
+        "title": "Coloring A Border",
+        "link": "https://leetcode.com/problems/coloring-a-border"
+    },
+    {
+        "title": "Escape a Large Maze",
+        "link": "https://leetcode.com/problems/escape-a-large-maze"
+    },
+    {
+        "title": "Maximum Level Sum of a Binary Tree",
+        "link": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree"
+    },
+    {
+        "title": "As Far from Land as Possible",
+        "link": "https://leetcode.com/problems/as-far-from-land-as-possible"
+    },
+    {
+        "title": "Flower Planting With No Adjacent",
+        "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent"
+    },
+    {
+        "title": "Minimum Knight Moves",
+        "link": "https://leetcode.com/problems/minimum-knight-moves"
+    },
+    {
+        "title": "Stepping Numbers",
+        "link": "https://leetcode.com/problems/stepping-numbers"
+    },
+    {
+        "title": "Shortest Path in Binary Matrix",
+        "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix"
+    },
+    {
+        "title": "Tree Diameter",
+        "link": "https://leetcode.com/problems/tree-diameter"
+    },
+    {
+        "title": "Brace Expansion II",
+        "link": "https://leetcode.com/problems/brace-expansion-ii"
+    },
+    {
+        "title": "Smallest Common Region",
+        "link": "https://leetcode.com/problems/smallest-common-region"
+    },
+    {
+        "title": "Delete Tree Nodes",
+        "link": "https://leetcode.com/problems/delete-tree-nodes"
+    },
+    {
+        "title": "Lowest Common Ancestor of Deepest Leaves",
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves"
+    },
+    {
+        "title": "Shortest Path with Alternating Colors",
+        "link": "https://leetcode.com/problems/shortest-path-with-alternating-colors"
+    },
+    {
+        "title": "Sum of Nodes with Even-Valued Grandparent",
+        "link": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent"
+    },
+    {
+        "title": "Deepest Leaves Sum",
+        "link": "https://leetcode.com/problems/deepest-leaves-sum"
+    },
+    {
+        "title": "Web Crawler",
+        "link": "https://leetcode.com/problems/web-crawler"
+    },
+    {
+        "title": "Validate Binary Tree Nodes",
+        "link": "https://leetcode.com/problems/validate-binary-tree-nodes"
+    },
+    {
+        "title": "Kth Ancestor of a Tree Node",
+        "link": "https://leetcode.com/problems/kth-ancestor-of-a-tree-node"
+    },
+    {
+        "title": "Smallest String With Swaps",
+        "link": "https://leetcode.com/problems/smallest-string-with-swaps"
+    },
+    {
+        "title": "Sort Items by Groups Respecting Dependencies",
+        "link": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies"
+    },
+    {
+        "title": "Minimum Moves to Reach Target with Rotations",
+        "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations"
+    },
+    {
+        "title": "Distance to a Cycle in Undirected Graph",
+        "link": "https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph"
+    },
+    {
+        "title": "Web Crawler Multithreaded",
+        "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+        "title": "Number of Closed Islands",
+        "link": "https://leetcode.com/problems/number-of-closed-islands"
+    },
+    {
+        "title": "Find Elements in a Contaminated Binary Tree",
+        "link": "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree"
+    },
+    {
+        "title": "Minimum Moves to Move a Box to Their Target Location",
+        "link": "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location"
+    },
+    {
+        "title": "Count Servers that Communicate",
+        "link": "https://leetcode.com/problems/count-servers-that-communicate"
+    },
+    {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix"
+    },
+    {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
+    },
+    {
+        "title": "Maximum Candies You Can Get from Boxes",
+        "link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
+    },
+    {
+        "title": "Jump Game III",
+        "link": "https://leetcode.com/problems/jump-game-iii"
+    },
+    {
+        "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+        "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph"
+    },
+    {
+        "title": "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+        "link": "https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree"
+    },
+    {
+        "title": "Get Watched Videos by Your Friends",
+        "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends"
+    },
+    {
+        "title": "Number of Operations to Make Network Connected",
+        "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+    },
+    {
+        "title": "Jump Game IV",
+        "link": "https://leetcode.com/problems/jump-game-iv"
+    },
+    {
+        "title": "Linked List in Binary Tree",
+        "link": "https://leetcode.com/problems/linked-list-in-binary-tree"
+    },
+    {
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+    },
+    {
+        "title": "Time Needed to Inform All Employees",
+        "link": "https://leetcode.com/problems/time-needed-to-inform-all-employees"
+    },
+    {
+        "title": "Frog Position After T Seconds",
+        "link": "https://leetcode.com/problems/frog-position-after-t-seconds"
+    },
+    {
+        "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+        "link": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree"
+    },
+    {
+        "title": "Check if There is a Valid Path in a Grid",
+        "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid"
+    },
+    {
+        "title": "Count Good Nodes in Binary Tree",
+        "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree"
+    },
+    {
+        "title": "Minimum Time to Collect All Apples in a Tree",
+        "link": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree"
+    },
+    {
+        "title": "Course Schedule IV",
+        "link": "https://leetcode.com/problems/course-schedule-iv"
+    },
+    {
+        "title": "Pseudo-Palindromic Paths in a Binary Tree",
+        "link": "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree"
+    },
+    {
+        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+    },
+    {
+        "title": "Find All The Lonely Nodes",
+        "link": "https://leetcode.com/problems/find-all-the-lonely-nodes"
+    },
+    {
+        "title": "Clone Binary Tree With Random Pointer",
+        "link": "https://leetcode.com/problems/clone-binary-tree-with-random-pointer"
+    },
+    {
+        "title": "Clone N-ary Tree",
+        "link": "https://leetcode.com/problems/clone-n-ary-tree"
+    },
+    {
+        "title": "Number of Nodes in the Sub-Tree With the Same Label",
+        "link": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label"
+    },
+    {
+        "title": "Detect Cycles in 2D Grid",
+        "link": "https://leetcode.com/problems/detect-cycles-in-2d-grid"
+    },
+    {
+        "title": "Minimum Number of Days to Disconnect Island",
+        "link": "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island"
+    },
+    {
+        "title": "Even Odd Tree",
+        "link": "https://leetcode.com/problems/even-odd-tree"
+    },
+    {
+        "title": "Find Nearest Right Node in Binary Tree",
+        "link": "https://leetcode.com/problems/find-nearest-right-node-in-binary-tree"
+    },
+    {
+        "title": "Lexicographically Smallest String After Applying Operations",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations"
+    },
+    {
+        "title": "Path With Minimum Effort",
+        "link": "https://leetcode.com/problems/path-with-minimum-effort"
+    },
+    {
+        "title": "Minimum Jumps to Reach Home",
+        "link": "https://leetcode.com/problems/minimum-jumps-to-reach-home"
+    },
+    {
+        "title": "Correct a Binary Tree",
+        "link": "https://leetcode.com/problems/correct-a-binary-tree"
+    },
+    {
+        "title": "Map of Highest Peak",
+        "link": "https://leetcode.com/problems/map-of-highest-peak"
+    },
+    {
+        "title": "Find Distance in a Binary Tree",
+        "link": "https://leetcode.com/problems/find-distance-in-a-binary-tree"
+    },
+    {
+        "title": "Shortest Path in a Hidden Grid",
+        "link": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid"
+    },
+    {
+        "title": "Minimum Path Cost in a Hidden Grid",
+        "link": "https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid"
+    },
+    {
+        "title": "Count Sub Islands",
+        "link": "https://leetcode.com/problems/count-sub-islands"
+    },
+    {
+        "title": "Nearest Exit from Entrance in Maze",
+        "link": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze"
+    },
+    {
+        "title": "Last Day Where You Can Still Cross",
+        "link": "https://leetcode.com/problems/last-day-where-you-can-still-cross"
+    },
+    {
+        "title": "Find All Groups of Farmland",
+        "link": "https://leetcode.com/problems/find-all-groups-of-farmland"
+    },
+    {
+        "title": "Operations on Tree",
+        "link": "https://leetcode.com/problems/operations-on-tree"
+    },
+    {
+        "title": "Find if Path Exists in Graph",
+        "link": "https://leetcode.com/problems/find-if-path-exists-in-graph"
+    },
+    {
+        "title": "The Time When the Network Becomes Idle",
+        "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle"
+    },
+    {
+        "title": "Second Minimum Time to Reach Destination",
+        "link": "https://leetcode.com/problems/second-minimum-time-to-reach-destination"
+    },
+    {
+        "title": "Minimum Operations to Convert Number",
+        "link": "https://leetcode.com/problems/minimum-operations-to-convert-number"
+    },
+    {
+        "title": "Detonate the Maximum Bombs",
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+    },
+    {
+        "title": "Find All People With Secret",
+        "link": "https://leetcode.com/problems/find-all-people-with-secret"
+    },
+    {
+        "title": "K Highest Ranked Items Within a Price Range",
+        "link": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range"
+    },
+    {
+        "title": "Remove All Ones With Row and Column Flips II",
+        "link": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii"
+    },
+    {
+        "title": "Escape the Spreading Fire",
+        "link": "https://leetcode.com/problems/escape-the-spreading-fire"
+    },
+    {
+        "title": "Minimum Obstacle Removal to Reach Corner",
+        "link": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner"
+    },
+    {
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph"
+    },
+    {
+        "title": "Number of Increasing Paths in a Grid",
+        "link": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid"
+    },
+    {
+        "title": "Closest Node to Path in Tree",
+        "link": "https://leetcode.com/problems/closest-node-to-path-in-tree"
+    },
+    {
+        "title": "Reachable Nodes With Restrictions",
+        "link": "https://leetcode.com/problems/reachable-nodes-with-restrictions"
+    },
+    {
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected"
+    },
+    {
+        "title": "Reverse Odd Levels of Binary Tree",
+        "link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree"
+    },
+    {
+        "title": "Height of Binary Tree After Subtree Removal Queries",
+        "link": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries"
+    },
+    {
+        "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level"
+    },
+    {
+        "title": "Most Profitable Path in a Tree",
+        "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree"
+    },
+    {
+        "title": "Minimum Fuel Cost to Report to the Capital",
+        "link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital"
+    },
+    {
+        "title": "Minimum Score of a Path Between Two Cities",
+        "link": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities"
+    },
+    {
+        "title": "Divide Nodes Into the Maximum Number of Groups",
+        "link": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups"
+    },
+    {
+        "title": "Number of Nodes With Value One",
+        "link": "https://leetcode.com/problems/number-of-nodes-with-value-one"
+    },
+    {
+        "title": "Maximum Number of Points From Grid Queries",
+        "link": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries"
+    },
+    {
+        "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+        "link": "https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip"
+    },
+    {
+        "title": "Kth Largest Sum in a Binary Tree",
+        "link": "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree"
+    },
+    {
+        "title": "Check Knight Tour Configuration",
+        "link": "https://leetcode.com/problems/check-knight-tour-configuration"
+    },
+    {
+        "title": "Shortest Cycle in a Graph",
+        "link": "https://leetcode.com/problems/shortest-cycle-in-a-graph"
+    },
+    {
+        "title": "Cousins in Binary Tree II",
+        "link": "https://leetcode.com/problems/cousins-in-binary-tree-ii"
+    },
+    {
+        "title": "Minimum Number of Visited Cells in a Grid",
+        "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+    },
+    {
+        "title": "Minimum Time to Visit a Cell In a Grid",
+        "link": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid"
+    },
+    {
+        "title": "Minimum Reverse Operations",
+        "link": "https://leetcode.com/problems/minimum-reverse-operations"
+    },
+    {
+        "title": "Maximum Number of Fish in a Grid",
+        "link": "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid"
+    },
+    {
+        "title": "Count the Number of Complete Components",
+        "link": "https://leetcode.com/problems/count-the-number-of-complete-components"
+    },
+    {
+        "title": "Find the Safest Path in a Grid",
+        "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid"
+    },
+    {
+        "title": "Height of Special Binary Tree",
+        "link": "https://leetcode.com/problems/height-of-special-binary-tree"
+    },
+    {
+        "title": "Minimum Time Takes to Reach Destination Without Drowning",
+        "link": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning"
+    },
+    {
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid"
+    },
+    {
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+    },
+    {
+        "title": "Sum of Remoteness of All Cells",
+        "link": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells"
+    },
+    {
+        "title": "Minimum Number of Operations to Make X and Y Equal",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal"
+    },
+    {
+        "title": "Count the Number of Houses at a Certain Distance I",
+        "link": "https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i"
+    },
+    {
+        "title": "Find Edges in Shortest Paths",
+        "link": "https://leetcode.com/problems/find-edges-in-shortest-paths"
+    },
+    {
+        "title": "Find Minimum Diameter After Merging Two Trees",
+        "link": "https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees"
+    },
+    {
+        "title": "Maximum Hamming Distances",
+        "link": "https://leetcode.com/problems/maximum-hamming-distances"
+    },
+    {
+        "title": "Find the Level of Tree with Minimum Sum",
+        "link": "https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum"
+    },
+    {
+        "title": "Check if the Rectangle Corner Is Reachable",
+        "link": "https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable"
+    },
+    {
+        "title": "Shortest Distance After Road Addition Queries I",
+        "link": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i"
+    }
+]

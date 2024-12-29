@@ -1,0 +1,8 @@
+{
+    "gpu_id": 2,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nKate's hair is half as long as Emily's hair. Emily’s hair is 6 inches longer than Logan's hair. If Logan hair is 20 inches, how many inches is Kate’s hair?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "7"
+}

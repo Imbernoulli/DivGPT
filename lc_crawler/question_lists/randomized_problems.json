@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Insert Delete GetRandom O(1)",
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+    },
+    {
+        "title": "Linked List Random Node",
+        "link": "https://leetcode.com/problems/linked-list-random-node"
+    },
+    {
+        "title": "Shuffle an Array",
+        "link": "https://leetcode.com/problems/shuffle-an-array"
+    },
+    {
+        "title": "Random Pick Index",
+        "link": "https://leetcode.com/problems/random-pick-index"
+    },
+    {
+        "title": "Random Pick with Blacklist",
+        "link": "https://leetcode.com/problems/random-pick-with-blacklist"
+    },
+    {
+        "title": "Implement Rand10() Using Rand7()",
+        "link": "https://leetcode.com/problems/implement-rand10-using-rand7"
+    },
+    {
+        "title": "Random Pick with Weight",
+        "link": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+        "title": "Random Flip Matrix",
+        "link": "https://leetcode.com/problems/random-flip-matrix"
+    },
+    {
+        "title": "Random Point in Non-overlapping Rectangles",
+        "link": "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles"
+    },
+    {
+        "title": "Generate Random Point in a Circle",
+        "link": "https://leetcode.com/problems/generate-random-point-in-a-circle"
+    },
+    {
+        "title": "Best Position for a Service Centre",
+        "link": "https://leetcode.com/problems/best-position-for-a-service-centre"
+    }
+]

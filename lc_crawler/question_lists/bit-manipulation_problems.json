@@ -1,0 +1,878 @@
+[
+    {
+        "title": "Divide Two Integers",
+        "link": "https://leetcode.com/problems/divide-two-integers"
+    },
+    {
+        "title": "Add Binary",
+        "link": "https://leetcode.com/problems/add-binary"
+    },
+    {
+        "title": "Subsets",
+        "link": "https://leetcode.com/problems/subsets"
+    },
+    {
+        "title": "Gray Code",
+        "link": "https://leetcode.com/problems/gray-code"
+    },
+    {
+        "title": "Subsets II",
+        "link": "https://leetcode.com/problems/subsets-ii"
+    },
+    {
+        "title": "Single Number",
+        "link": "https://leetcode.com/problems/single-number"
+    },
+    {
+        "title": "Single Number II",
+        "link": "https://leetcode.com/problems/single-number-ii"
+    },
+    {
+        "title": "Repeated DNA Sequences",
+        "link": "https://leetcode.com/problems/repeated-dna-sequences"
+    },
+    {
+        "title": "Reverse Bits",
+        "link": "https://leetcode.com/problems/reverse-bits"
+    },
+    {
+        "title": "Number of 1 Bits",
+        "link": "https://leetcode.com/problems/number-of-1-bits"
+    },
+    {
+        "title": "Bitwise AND of Numbers Range",
+        "link": "https://leetcode.com/problems/bitwise-and-of-numbers-range"
+    },
+    {
+        "title": "Count Complete Tree Nodes",
+        "link": "https://leetcode.com/problems/count-complete-tree-nodes"
+    },
+    {
+        "title": "Power of Two",
+        "link": "https://leetcode.com/problems/power-of-two"
+    },
+    {
+        "title": "Single Number III",
+        "link": "https://leetcode.com/problems/single-number-iii"
+    },
+    {
+        "title": "Palindrome Permutation",
+        "link": "https://leetcode.com/problems/palindrome-permutation"
+    },
+    {
+        "title": "Missing Number",
+        "link": "https://leetcode.com/problems/missing-number"
+    },
+    {
+        "title": "Find the Duplicate Number",
+        "link": "https://leetcode.com/problems/find-the-duplicate-number"
+    },
+    {
+        "title": "Maximum Product of Word Lengths",
+        "link": "https://leetcode.com/problems/maximum-product-of-word-lengths"
+    },
+    {
+        "title": "Generalized Abbreviation",
+        "link": "https://leetcode.com/problems/generalized-abbreviation"
+    },
+    {
+        "title": "Counting Bits",
+        "link": "https://leetcode.com/problems/counting-bits"
+    },
+    {
+        "title": "Power of Four",
+        "link": "https://leetcode.com/problems/power-of-four"
+    },
+    {
+        "title": "Android Unlock Patterns",
+        "link": "https://leetcode.com/problems/android-unlock-patterns"
+    },
+    {
+        "title": "Sum of Two Integers",
+        "link": "https://leetcode.com/problems/sum-of-two-integers"
+    },
+    {
+        "title": "Find the Difference",
+        "link": "https://leetcode.com/problems/find-the-difference"
+    },
+    {
+        "title": "UTF-8 Validation",
+        "link": "https://leetcode.com/problems/utf-8-validation"
+    },
+    {
+        "title": "Integer Replacement",
+        "link": "https://leetcode.com/problems/integer-replacement"
+    },
+    {
+        "title": "Binary Watch",
+        "link": "https://leetcode.com/problems/binary-watch"
+    },
+    {
+        "title": "Convert a Number to Hexadecimal",
+        "link": "https://leetcode.com/problems/convert-a-number-to-hexadecimal"
+    },
+    {
+        "title": "Minimum Unique Word Abbreviation",
+        "link": "https://leetcode.com/problems/minimum-unique-word-abbreviation"
+    },
+    {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array"
+    },
+    {
+        "title": "Hamming Distance",
+        "link": "https://leetcode.com/problems/hamming-distance"
+    },
+    {
+        "title": "Can I Win",
+        "link": "https://leetcode.com/problems/can-i-win"
+    },
+    {
+        "title": "Optimal Account Balancing",
+        "link": "https://leetcode.com/problems/optimal-account-balancing"
+    },
+    {
+        "title": "Matchsticks to Square",
+        "link": "https://leetcode.com/problems/matchsticks-to-square"
+    },
+    {
+        "title": "Number Complement",
+        "link": "https://leetcode.com/problems/number-complement"
+    },
+    {
+        "title": "Total Hamming Distance",
+        "link": "https://leetcode.com/problems/total-hamming-distance"
+    },
+    {
+        "title": "Non-decreasing Subsequences",
+        "link": "https://leetcode.com/problems/non-decreasing-subsequences"
+    },
+    {
+        "title": "Beautiful Arrangement",
+        "link": "https://leetcode.com/problems/beautiful-arrangement"
+    },
+    {
+        "title": "Shopping Offers",
+        "link": "https://leetcode.com/problems/shopping-offers"
+    },
+    {
+        "title": "Set Mismatch",
+        "link": "https://leetcode.com/problems/set-mismatch"
+    },
+    {
+        "title": "Bulb Switcher II",
+        "link": "https://leetcode.com/problems/bulb-switcher-ii"
+    },
+    {
+        "title": "Stickers to Spell Word",
+        "link": "https://leetcode.com/problems/stickers-to-spell-word"
+    },
+    {
+        "title": "Binary Number with Alternating Bits",
+        "link": "https://leetcode.com/problems/binary-number-with-alternating-bits"
+    },
+    {
+        "title": "Partition to K Equal Sum Subsets",
+        "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets"
+    },
+    {
+        "title": "IP to CIDR",
+        "link": "https://leetcode.com/problems/ip-to-cidr"
+    },
+    {
+        "title": "Pyramid Transition Matrix",
+        "link": "https://leetcode.com/problems/pyramid-transition-matrix"
+    },
+    {
+        "title": "Prime Number of Set Bits in Binary Representation",
+        "link": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation"
+    },
+    {
+        "title": "K-th Symbol in Grammar",
+        "link": "https://leetcode.com/problems/k-th-symbol-in-grammar"
+    },
+    {
+        "title": "Transform to Chessboard",
+        "link": "https://leetcode.com/problems/transform-to-chessboard"
+    },
+    {
+        "title": "Letter Case Permutation",
+        "link": "https://leetcode.com/problems/letter-case-permutation"
+    },
+    {
+        "title": "Split Array With Same Average",
+        "link": "https://leetcode.com/problems/split-array-with-same-average"
+    },
+    {
+        "title": "Chalkboard XOR Game",
+        "link": "https://leetcode.com/problems/chalkboard-xor-game"
+    },
+    {
+        "title": "Flipping an Image",
+        "link": "https://leetcode.com/problems/flipping-an-image"
+    },
+    {
+        "title": "Shortest Path Visiting All Nodes",
+        "link": "https://leetcode.com/problems/shortest-path-visiting-all-nodes"
+    },
+    {
+        "title": "Score After Flipping Matrix",
+        "link": "https://leetcode.com/problems/score-after-flipping-matrix"
+    },
+    {
+        "title": "Shortest Path to Get All Keys",
+        "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    },
+    {
+        "title": "Binary Gap",
+        "link": "https://leetcode.com/problems/binary-gap"
+    },
+    {
+        "title": "Bitwise ORs of Subarrays",
+        "link": "https://leetcode.com/problems/bitwise-ors-of-subarrays"
+    },
+    {
+        "title": "Find the Shortest Superstring",
+        "link": "https://leetcode.com/problems/find-the-shortest-superstring"
+    },
+    {
+        "title": "Prison Cells After N Days",
+        "link": "https://leetcode.com/problems/prison-cells-after-n-days"
+    },
+    {
+        "title": "Unique Paths III",
+        "link": "https://leetcode.com/problems/unique-paths-iii"
+    },
+    {
+        "title": "Triples with Bitwise AND Equal To Zero",
+        "link": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero"
+    },
+    {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips"
+    },
+    {
+        "title": "Number of Squareful Arrays",
+        "link": "https://leetcode.com/problems/number-of-squareful-arrays"
+    },
+    {
+        "title": "Complement of Base 10 Integer",
+        "link": "https://leetcode.com/problems/complement-of-base-10-integer"
+    },
+    {
+        "title": "Campus Bikes II",
+        "link": "https://leetcode.com/problems/campus-bikes-ii"
+    },
+    {
+        "title": "Binary Prefix Divisible By 5",
+        "link": "https://leetcode.com/problems/binary-prefix-divisible-by-5"
+    },
+    {
+        "title": "Encode Number",
+        "link": "https://leetcode.com/problems/encode-number"
+    },
+    {
+        "title": "Smallest Sufficient Team",
+        "link": "https://leetcode.com/problems/smallest-sufficient-team"
+    },
+    {
+        "title": "Can Make Palindrome from Substring",
+        "link": "https://leetcode.com/problems/can-make-palindrome-from-substring"
+    },
+    {
+        "title": "Number of Valid Words for Each Puzzle",
+        "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+    },
+    {
+        "title": "Circular Permutation in Binary Representation",
+        "link": "https://leetcode.com/problems/circular-permutation-in-binary-representation"
+    },
+    {
+        "title": "Maximum Length of a Concatenated String with Unique Characters",
+        "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
+    },
+    {
+        "title": "Maximum Score Words Formed by Letters",
+        "link": "https://leetcode.com/problems/maximum-score-words-formed-by-letters"
+    },
+    {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix"
+    },
+    {
+        "title": "Fair Distribution of Cookies",
+        "link": "https://leetcode.com/problems/fair-distribution-of-cookies"
+    },
+    {
+        "title": "XOR Queries of a Subarray",
+        "link": "https://leetcode.com/problems/xor-queries-of-a-subarray"
+    },
+    {
+        "title": "Minimum Flips to Make a OR b Equal to c",
+        "link": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c"
+    },
+    {
+        "title": "Number of Steps to Reduce a Number to Zero",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero"
+    },
+    {
+        "title": "Sort Integers by The Number of 1 Bits",
+        "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits"
+    },
+    {
+        "title": "Maximum Students Taking Exam",
+        "link": "https://leetcode.com/problems/maximum-students-taking-exam"
+    },
+    {
+        "title": "Find the Longest Substring Containing Vowels in Even Counts",
+        "link": "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts"
+    },
+    {
+        "title": "Cinema Seat Allocation",
+        "link": "https://leetcode.com/problems/cinema-seat-allocation"
+    },
+    {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+    },
+    {
+        "title": "Number of Ways to Wear Different Hats to Each Other",
+        "link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other"
+    },
+    {
+        "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+        "link": "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor"
+    },
+    {
+        "title": "Check If a String Contains All Binary Codes of Size K",
+        "link": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k"
+    },
+    {
+        "title": "Pseudo-Palindromic Paths in a Binary Tree",
+        "link": "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree"
+    },
+    {
+        "title": "Parallel Courses II",
+        "link": "https://leetcode.com/problems/parallel-courses-ii"
+    },
+    {
+        "title": "XOR Operation in an Array",
+        "link": "https://leetcode.com/problems/xor-operation-in-an-array"
+    },
+    {
+        "title": "Number of Good Ways to Split a String",
+        "link": "https://leetcode.com/problems/number-of-good-ways-to-split-a-string"
+    },
+    {
+        "title": "Find a Value of a Mysterious Function Closest to Target",
+        "link": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target"
+    },
+    {
+        "title": "Find Root of N-Ary Tree",
+        "link": "https://leetcode.com/problems/find-root-of-n-ary-tree"
+    },
+    {
+        "title": "Minimum Numbers of Function Calls to Make Target Array",
+        "link": "https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array"
+    },
+    {
+        "title": "Find Longest Awesome Substring",
+        "link": "https://leetcode.com/problems/find-longest-awesome-substring"
+    },
+    {
+        "title": "Minimum Cost to Connect Two Groups of Points",
+        "link": "https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points"
+    },
+    {
+        "title": "Maximum Number of Achievable Transfer Requests",
+        "link": "https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests"
+    },
+    {
+        "title": "Minimum One Bit Operations to Make Integers Zero",
+        "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero"
+    },
+    {
+        "title": "Count Subtrees With Max Distance Between Cities",
+        "link": "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities"
+    },
+    {
+        "title": "Distribute Repeating Integers",
+        "link": "https://leetcode.com/problems/distribute-repeating-integers"
+    },
+    {
+        "title": "Maximize Grid Happiness",
+        "link": "https://leetcode.com/problems/maximize-grid-happiness"
+    },
+    {
+        "title": "Count the Number of Consistent Strings",
+        "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings"
+    },
+    {
+        "title": "Minimum Incompatibility",
+        "link": "https://leetcode.com/problems/minimum-incompatibility"
+    },
+    {
+        "title": "Concatenation of Consecutive Binary Numbers",
+        "link": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers"
+    },
+    {
+        "title": "Find Minimum Time to Finish All Jobs",
+        "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs"
+    },
+    {
+        "title": "Maximum XOR With an Element From Array",
+        "link": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array"
+    },
+    {
+        "title": "Decode XORed Permutation",
+        "link": "https://leetcode.com/problems/decode-xored-permutation"
+    },
+    {
+        "title": "Decode XORed Array",
+        "link": "https://leetcode.com/problems/decode-xored-array"
+    },
+    {
+        "title": "Find Kth Largest XOR Coordinate Value",
+        "link": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value"
+    },
+    {
+        "title": "Longest Nice Substring",
+        "link": "https://leetcode.com/problems/longest-nice-substring"
+    },
+    {
+        "title": "Closest Subsequence Sum",
+        "link": "https://leetcode.com/problems/closest-subsequence-sum"
+    },
+    {
+        "title": "Maximize Score After N Operations",
+        "link": "https://leetcode.com/problems/maximize-score-after-n-operations"
+    },
+    {
+        "title": "Count Pairs With XOR in a Range",
+        "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range"
+    },
+    {
+        "title": "Make the XOR of All Segments Equal to Zero",
+        "link": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero"
+    },
+    {
+        "title": "Maximum Number of Groups Getting Fresh Donuts",
+        "link": "https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts"
+    },
+    {
+        "title": "Maximum XOR for Each Query",
+        "link": "https://leetcode.com/problems/maximum-xor-for-each-query"
+    },
+    {
+        "title": "Find XOR Sum of All Pairs Bitwise AND",
+        "link": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and"
+    },
+    {
+        "title": "Minimum XOR Sum of Two Arrays",
+        "link": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays"
+    },
+    {
+        "title": "Sum of All Subset XOR Totals",
+        "link": "https://leetcode.com/problems/sum-of-all-subset-xor-totals"
+    },
+    {
+        "title": "Maximum Cost of Trip With K Highways",
+        "link": "https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways"
+    },
+    {
+        "title": "Number of Wonderful Substrings",
+        "link": "https://leetcode.com/problems/number-of-wonderful-substrings"
+    },
+    {
+        "title": "Unique Length-3 Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences"
+    },
+    {
+        "title": "Game of Nim",
+        "link": "https://leetcode.com/problems/game-of-nim"
+    },
+    {
+        "title": "Maximum Genetic Difference Query",
+        "link": "https://leetcode.com/problems/maximum-genetic-difference-query"
+    },
+    {
+        "title": "Maximum Compatibility Score Sum",
+        "link": "https://leetcode.com/problems/maximum-compatibility-score-sum"
+    },
+    {
+        "title": "The Number of Good Subsets",
+        "link": "https://leetcode.com/problems/the-number-of-good-subsets"
+    },
+    {
+        "title": "Minimum Number of Work Sessions to Finish the Tasks",
+        "link": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks"
+    },
+    {
+        "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences"
+    },
+    {
+        "title": "Two Out of Three",
+        "link": "https://leetcode.com/problems/two-out-of-three"
+    },
+    {
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference"
+    },
+    {
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets"
+    },
+    {
+        "title": "Count Words Obtained After Adding a Letter",
+        "link": "https://leetcode.com/problems/count-words-obtained-after-adding-a-letter"
+    },
+    {
+        "title": "Remove All Ones With Row and Column Flips",
+        "link": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips"
+    },
+    {
+        "title": "Maximum Good People Based on Statements",
+        "link": "https://leetcode.com/problems/maximum-good-people-based-on-statements"
+    },
+    {
+        "title": "Groups of Strings",
+        "link": "https://leetcode.com/problems/groups-of-strings"
+    },
+    {
+        "title": "Minimum Number of Lines to Cover Points",
+        "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points"
+    },
+    {
+        "title": "Maximum AND Sum of Array",
+        "link": "https://leetcode.com/problems/maximum-and-sum-of-array"
+    },
+    {
+        "title": "Divide Array Into Equal Pairs",
+        "link": "https://leetcode.com/problems/divide-array-into-equal-pairs"
+    },
+    {
+        "title": "Remove All Ones With Row and Column Flips II",
+        "link": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii"
+    },
+    {
+        "title": "Maximum Points in an Archery Competition",
+        "link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition"
+    },
+    {
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall"
+    },
+    {
+        "title": "Minimum Bit Flips to Convert Number",
+        "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number"
+    },
+    {
+        "title": "Largest Combination With Bitwise AND Greater Than Zero",
+        "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero"
+    },
+    {
+        "title": "Naming a Company",
+        "link": "https://leetcode.com/problems/naming-a-company"
+    },
+    {
+        "title": "Minimum Score After Removals on a Tree",
+        "link": "https://leetcode.com/problems/minimum-score-after-removals-on-a-tree"
+    },
+    {
+        "title": "Maximum XOR After Operations",
+        "link": "https://leetcode.com/problems/maximum-xor-after-operations"
+    },
+    {
+        "title": "First Letter to Appear Twice",
+        "link": "https://leetcode.com/problems/first-letter-to-appear-twice"
+    },
+    {
+        "title": "Number of Excellent Pairs",
+        "link": "https://leetcode.com/problems/number-of-excellent-pairs"
+    },
+    {
+        "title": "Longest Nice Subarray",
+        "link": "https://leetcode.com/problems/longest-nice-subarray"
+    },
+    {
+        "title": "Maximum Rows Covered by Columns",
+        "link": "https://leetcode.com/problems/maximum-rows-covered-by-columns"
+    },
+    {
+        "title": "Smallest Subarrays With Maximum Bitwise OR",
+        "link": "https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or"
+    },
+    {
+        "title": "Longest Subarray With Maximum Bitwise AND",
+        "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and"
+    },
+    {
+        "title": "Minimize XOR",
+        "link": "https://leetcode.com/problems/minimize-xor"
+    },
+    {
+        "title": "Find The Original Array of Prefix Xor",
+        "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor"
+    },
+    {
+        "title": "Range Product Queries of Powers",
+        "link": "https://leetcode.com/problems/range-product-queries-of-powers"
+    },
+    {
+        "title": "Bitwise XOR of All Pairings",
+        "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings"
+    },
+    {
+        "title": "Minimum Time to Kill All Monsters",
+        "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters"
+    },
+    {
+        "title": "Count Pairs Of Similar Strings",
+        "link": "https://leetcode.com/problems/count-pairs-of-similar-strings"
+    },
+    {
+        "title": "Find Xor-Beauty of Array",
+        "link": "https://leetcode.com/problems/find-xor-beauty-of-array"
+    },
+    {
+        "title": "Apply Bitwise Operations to Make Strings Equal",
+        "link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal"
+    },
+    {
+        "title": "Bitwise OR of All Subsequence Sums",
+        "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums"
+    },
+    {
+        "title": "Count the Number of Beautiful Subarrays",
+        "link": "https://leetcode.com/problems/count-the-number-of-beautiful-subarrays"
+    },
+    {
+        "title": "Number of Even and Odd Bits",
+        "link": "https://leetcode.com/problems/number-of-even-and-odd-bits"
+    },
+    {
+        "title": "Substring XOR Queries",
+        "link": "https://leetcode.com/problems/substring-xor-queries"
+    },
+    {
+        "title": "Minimum Impossible OR",
+        "link": "https://leetcode.com/problems/minimum-impossible-or"
+    },
+    {
+        "title": "Count the Number of Square-Free Subsets",
+        "link": "https://leetcode.com/problems/count-the-number-of-square-free-subsets"
+    },
+    {
+        "title": "Minimum Operations to Reduce an Integer to 0",
+        "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0"
+    },
+    {
+        "title": "Maximum OR",
+        "link": "https://leetcode.com/problems/maximum-or"
+    },
+    {
+        "title": "Maximum Strength of a Group",
+        "link": "https://leetcode.com/problems/maximum-strength-of-a-group"
+    },
+    {
+        "title": "Find the Prefix Common Array of Two Arrays",
+        "link": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays"
+    },
+    {
+        "title": "Neighboring Bitwise XOR",
+        "link": "https://leetcode.com/problems/neighboring-bitwise-xor"
+    },
+    {
+        "title": "Find a Good Subset of the Matrix",
+        "link": "https://leetcode.com/problems/find-a-good-subset-of-the-matrix"
+    },
+    {
+        "title": "Minimum Operations to Make the Integer Zero",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero"
+    },
+    {
+        "title": "Special Permutations",
+        "link": "https://leetcode.com/problems/special-permutations"
+    },
+    {
+        "title": "Count Paths That Can Form a Palindrome in a Tree",
+        "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree"
+    },
+    {
+        "title": "Count Pairs of Points With Distance k",
+        "link": "https://leetcode.com/problems/count-pairs-of-points-with-distance-k"
+    },
+    {
+        "title": "Minimum Operations to Form Subsequence With Target Sum",
+        "link": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum"
+    },
+    {
+        "title": "Find The K-th Lucky Number",
+        "link": "https://leetcode.com/problems/find-the-k-th-lucky-number"
+    },
+    {
+        "title": "Maximize Value of Function in a Ball Passing Game",
+        "link": "https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game"
+    },
+    {
+        "title": "Minimum Operations to Collect Elements",
+        "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements"
+    },
+    {
+        "title": "Split Array Into Maximum Number of Subarrays",
+        "link": "https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays"
+    },
+    {
+        "title": "Sum of Values at Indices With K Set Bits",
+        "link": "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits"
+    },
+    {
+        "title": "Apply Operations on Array to Maximize Sum of Squares",
+        "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares"
+    },
+    {
+        "title": "Maximum Points After Collecting Coins From All Nodes",
+        "link": "https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes"
+    },
+    {
+        "title": "Find the K-or of an Array",
+        "link": "https://leetcode.com/problems/find-the-k-or-of-an-array"
+    },
+    {
+        "title": "Maximum Xor Product",
+        "link": "https://leetcode.com/problems/maximum-xor-product"
+    },
+    {
+        "title": "Maximum Strong Pair XOR I",
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i"
+    },
+    {
+        "title": "Maximum Strong Pair XOR II",
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii"
+    },
+    {
+        "title": "Number of Possible Sets of Closing Branches",
+        "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches"
+    },
+    {
+        "title": "Maximize the Number of Partitions After Operations",
+        "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations"
+    },
+    {
+        "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+        "link": "https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k"
+    },
+    {
+        "title": "Check if Bitwise OR Has Trailing Zeros",
+        "link": "https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros"
+    },
+    {
+        "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k"
+    },
+    {
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations"
+    },
+    {
+        "title": "Find if Array Can Be Sorted",
+        "link": "https://leetcode.com/problems/find-if-array-can-be-sorted"
+    },
+    {
+        "title": "Number of Self-Divisible Permutations",
+        "link": "https://leetcode.com/problems/number-of-self-divisible-permutations"
+    },
+    {
+        "title": "Find the Maximum Sum of Node Values",
+        "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values"
+    },
+    {
+        "title": "Minimum Cost Walk in Weighted Graph",
+        "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph"
+    },
+    {
+        "title": "Minimum Sum of Values by Dividing Array",
+        "link": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array"
+    },
+    {
+        "title": "Guess the Number Using Bitwise Questions I",
+        "link": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i"
+    },
+    {
+        "title": "Kth Smallest Amount With Single Denomination Combination",
+        "link": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination"
+    },
+    {
+        "title": "Shortest Subarray With OR at Least K II",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii"
+    },
+    {
+        "title": "Shortest Subarray With OR at Least K I",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i"
+    },
+    {
+        "title": "Minimum Array End",
+        "link": "https://leetcode.com/problems/minimum-array-end"
+    },
+    {
+        "title": "Guess the Number Using Bitwise Questions II",
+        "link": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii"
+    },
+    {
+        "title": "Find Products of Elements of Big Array",
+        "link": "https://leetcode.com/problems/find-products-of-elements-of-big-array"
+    },
+    {
+        "title": "Find Number of Ways to Reach the K-th Stair",
+        "link": "https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair"
+    },
+    {
+        "title": "Find the XOR of Numbers Which Appear Twice",
+        "link": "https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice"
+    },
+    {
+        "title": "Find the Minimum Cost Array Permutation",
+        "link": "https://leetcode.com/problems/find-the-minimum-cost-array-permutation"
+    },
+    {
+        "title": "Find Subarray With Bitwise OR Closest to K",
+        "link": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k"
+    },
+    {
+        "title": "Maximum Total Reward Using Operations II",
+        "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii"
+    },
+    {
+        "title": "Maximum Hamming Distances",
+        "link": "https://leetcode.com/problems/maximum-hamming-distances"
+    },
+    {
+        "title": "Generate Binary Strings Without Adjacent Zeros",
+        "link": "https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros"
+    },
+    {
+        "title": "Number of Subarrays With AND Value of K",
+        "link": "https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k"
+    },
+    {
+        "title": "Bitwise OR of Adjacent Elements",
+        "link": "https://leetcode.com/problems/bitwise-or-of-adjacent-elements"
+    },
+    {
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i"
+    },
+    {
+        "title": "Count Triplets with Even XOR Set Bits I",
+        "link": "https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i"
+    },
+    {
+        "title": "Number of Bit Changes to Make Two Integers Equal",
+        "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal"
+    },
+    {
+        "title": "Count Triplets with Even XOR Set Bits II",
+        "link": "https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii"
+    }
+]

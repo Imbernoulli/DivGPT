@@ -1,0 +1,8 @@
+{
+    "gpu_id": 3,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nJohn has 2 hives of bees.  One of the hives has 1000 bees and produces 500 liters of honey.  The second has 20% fewer bees but each bee produces 40% more honey.  How much honey does he produce?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "2460"
+}

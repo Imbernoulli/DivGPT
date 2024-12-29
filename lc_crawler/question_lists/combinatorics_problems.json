@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Unique Paths",
+        "link": "https://leetcode.com/problems/unique-paths"
+    },
+    {
+        "title": "Poor Pigs",
+        "link": "https://leetcode.com/problems/poor-pigs"
+    },
+    {
+        "title": "Kth Smallest Instructions",
+        "link": "https://leetcode.com/problems/kth-smallest-instructions"
+    },
+    {
+        "title": "Number of Music Playlists",
+        "link": "https://leetcode.com/problems/number-of-music-playlists"
+    },
+    {
+        "title": "Ugly Number III",
+        "link": "https://leetcode.com/problems/ugly-number-iii"
+    },
+    {
+        "title": "Count Ways to Build Rooms in an Ant Colony",
+        "link": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony"
+    },
+    {
+        "title": "Count All Valid Pickup and Delivery Options",
+        "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options"
+    },
+    {
+        "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+        "link": "https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls"
+    },
+    {
+        "title": "Number of Ways to Reorder Array to Get Same BST",
+        "link": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst"
+    },
+    {
+        "title": "Number of Sets of K Non-Overlapping Line Segments",
+        "link": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments"
+    },
+    {
+        "title": "Count Sorted Vowel Strings",
+        "link": "https://leetcode.com/problems/count-sorted-vowel-strings"
+    },
+    {
+        "title": "Count Ways to Make Array With Product",
+        "link": "https://leetcode.com/problems/count-ways-to-make-array-with-product"
+    },
+    {
+        "title": "Minimum Number of Operations to Make String Sorted",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted"
+    },
+    {
+        "title": "Sum of All Subset XOR Totals",
+        "link": "https://leetcode.com/problems/sum-of-all-subset-xor-totals"
+    },
+    {
+        "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+        "link": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible"
+    },
+    {
+        "title": "Vowels of All Substrings",
+        "link": "https://leetcode.com/problems/vowels-of-all-substrings"
+    },
+    {
+        "title": "Find Triangular Sum of an Array",
+        "link": "https://leetcode.com/problems/find-triangular-sum-of-an-array"
+    },
+    {
+        "title": "Count the Number of Ideal Arrays",
+        "link": "https://leetcode.com/problems/count-the-number-of-ideal-arrays"
+    },
+    {
+        "title": "Number of Ways to Reach a Position After Exactly k Steps",
+        "link": "https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps"
+    },
+    {
+        "title": "Count Anagrams",
+        "link": "https://leetcode.com/problems/count-anagrams"
+    },
+    {
+        "title": "Count the Number of Good Subsequences",
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+    },
+    {
+        "title": "The Number of Beautiful Subsets",
+        "link": "https://leetcode.com/problems/the-number-of-beautiful-subsets"
+    },
+    {
+        "title": "Count the Number of K-Free Subsets",
+        "link": "https://leetcode.com/problems/count-the-number-of-k-free-subsets"
+    },
+    {
+        "title": "Count K-Subsequences of a String With Maximum Beauty",
+        "link": "https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty"
+    },
+    {
+        "title": "Number of Ways to Reach Destination in the Grid",
+        "link": "https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid"
+    },
+    {
+        "title": "Distribute Candies Among Children I",
+        "link": "https://leetcode.com/problems/distribute-candies-among-children-i"
+    },
+    {
+        "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+        "link": "https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring"
+    },
+    {
+        "title": "Distribute Candies Among Children II",
+        "link": "https://leetcode.com/problems/distribute-candies-among-children-ii"
+    },
+    {
+        "title": "Count the Number of Good Partitions",
+        "link": "https://leetcode.com/problems/count-the-number-of-good-partitions"
+    },
+    {
+        "title": "Distribute Candies Among Children III",
+        "link": "https://leetcode.com/problems/distribute-candies-among-children-iii"
+    },
+    {
+        "title": "Count the Number of Infection Sequences",
+        "link": "https://leetcode.com/problems/count-the-number-of-infection-sequences"
+    },
+    {
+        "title": "Kth Smallest Amount With Single Denomination Combination",
+        "link": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination"
+    },
+    {
+        "title": "Right Triangles",
+        "link": "https://leetcode.com/problems/right-triangles"
+    },
+    {
+        "title": "Find Number of Ways to Reach the K-th Stair",
+        "link": "https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair"
+    },
+    {
+        "title": "Find the N-th Value After K Seconds",
+        "link": "https://leetcode.com/problems/find-the-n-th-value-after-k-seconds"
+    },
+    {
+        "title": "Find the Count of Monotonic Pairs I",
+        "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i"
+    },
+    {
+        "title": "Find the Count of Monotonic Pairs II",
+        "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii"
+    },
+    {
+        "title": "Number of Subsequences with Odd Sum",
+        "link": "https://leetcode.com/problems/number-of-subsequences-with-odd-sum"
+    }
+]

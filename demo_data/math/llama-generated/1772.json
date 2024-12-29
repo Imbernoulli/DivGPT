@@ -1,0 +1,8 @@
+{
+    "gpu_id": 7,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nDerek finally gets his own allowance. He puts $2 away in January, $4 away in February, $8 away in March, $16 away in April and follows this savings pattern through to December. How much money does he have to spare and save by December?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "4096"
+}

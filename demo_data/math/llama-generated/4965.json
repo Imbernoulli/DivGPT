@@ -1,0 +1,8 @@
+{
+    "gpu_id": 6,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nPalmer loves taking photos and has an album of 100 photos under her bed to mark memories of places she's been. She recently went on a long trip to Bali. Palmer took 50 new pictures in the first week and twice that many in the second week. She was running out of space at the end of her trip and took only 80 new photos total across the third and fourth weeks. If she adds the pictures from Bali to her collection, how many total photos does Palmer have under her bed now?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "380"
+}

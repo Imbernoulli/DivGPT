@@ -1,0 +1,922 @@
+[
+    {
+        "title": "Valid Sudoku",
+        "link": "https://leetcode.com/problems/valid-sudoku"
+    },
+    {
+        "title": "Sudoku Solver",
+        "link": "https://leetcode.com/problems/sudoku-solver"
+    },
+    {
+        "title": "Rotate Image",
+        "link": "https://leetcode.com/problems/rotate-image"
+    },
+    {
+        "title": "Spiral Matrix",
+        "link": "https://leetcode.com/problems/spiral-matrix"
+    },
+    {
+        "title": "Spiral Matrix II",
+        "link": "https://leetcode.com/problems/spiral-matrix-ii"
+    },
+    {
+        "title": "Unique Paths II",
+        "link": "https://leetcode.com/problems/unique-paths-ii"
+    },
+    {
+        "title": "Minimum Path Sum",
+        "link": "https://leetcode.com/problems/minimum-path-sum"
+    },
+    {
+        "title": "Set Matrix Zeroes",
+        "link": "https://leetcode.com/problems/set-matrix-zeroes"
+    },
+    {
+        "title": "Search a 2D Matrix",
+        "link": "https://leetcode.com/problems/search-a-2d-matrix"
+    },
+    {
+        "title": "Word Search",
+        "link": "https://leetcode.com/problems/word-search"
+    },
+    {
+        "title": "Maximal Rectangle",
+        "link": "https://leetcode.com/problems/maximal-rectangle"
+    },
+    {
+        "title": "Surrounded Regions",
+        "link": "https://leetcode.com/problems/surrounded-regions"
+    },
+    {
+        "title": "Dungeon Game",
+        "link": "https://leetcode.com/problems/dungeon-game"
+    },
+    {
+        "title": "Number of Islands",
+        "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+        "title": "Word Search II",
+        "link": "https://leetcode.com/problems/word-search-ii"
+    },
+    {
+        "title": "Maximal Square",
+        "link": "https://leetcode.com/problems/maximal-square"
+    },
+    {
+        "title": "Search a 2D Matrix II",
+        "link": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+    },
+    {
+        "title": "Walls and Gates",
+        "link": "https://leetcode.com/problems/walls-and-gates"
+    },
+    {
+        "title": "Game of Life",
+        "link": "https://leetcode.com/problems/game-of-life"
+    },
+    {
+        "title": "Best Meeting Point",
+        "link": "https://leetcode.com/problems/best-meeting-point"
+    },
+    {
+        "title": "Smallest Rectangle Enclosing Black Pixels",
+        "link": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels"
+    },
+    {
+        "title": "Range Sum Query 2D - Immutable",
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+    },
+    {
+        "title": "Range Sum Query 2D - Mutable",
+        "link": "https://leetcode.com/problems/range-sum-query-2d-mutable"
+    },
+    {
+        "title": "Sparse Matrix Multiplication",
+        "link": "https://leetcode.com/problems/sparse-matrix-multiplication"
+    },
+    {
+        "title": "Shortest Distance from All Buildings",
+        "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+    },
+    {
+        "title": "Longest Increasing Path in a Matrix",
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+    },
+    {
+        "title": "Design Tic-Tac-Toe",
+        "link": "https://leetcode.com/problems/design-tic-tac-toe"
+    },
+    {
+        "title": "Bomb Enemy",
+        "link": "https://leetcode.com/problems/bomb-enemy"
+    },
+    {
+        "title": "Max Sum of Rectangle No Larger Than K",
+        "link": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k"
+    },
+    {
+        "title": "Kth Smallest Element in a Sorted Matrix",
+        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix"
+    },
+    {
+        "title": "Trapping Rain Water II",
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii"
+    },
+    {
+        "title": "Pacific Atlantic Water Flow",
+        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow"
+    },
+    {
+        "title": "Battleships in a Board",
+        "link": "https://leetcode.com/problems/battleships-in-a-board"
+    },
+    {
+        "title": "Valid Word Square",
+        "link": "https://leetcode.com/problems/valid-word-square"
+    },
+    {
+        "title": "Island Perimeter",
+        "link": "https://leetcode.com/problems/island-perimeter"
+    },
+    {
+        "title": "The Maze",
+        "link": "https://leetcode.com/problems/the-maze"
+    },
+    {
+        "title": "Diagonal Traverse",
+        "link": "https://leetcode.com/problems/diagonal-traverse"
+    },
+    {
+        "title": "The Maze III",
+        "link": "https://leetcode.com/problems/the-maze-iii"
+    },
+    {
+        "title": "The Maze II",
+        "link": "https://leetcode.com/problems/the-maze-ii"
+    },
+    {
+        "title": "Minesweeper",
+        "link": "https://leetcode.com/problems/minesweeper"
+    },
+    {
+        "title": "Lonely Pixel I",
+        "link": "https://leetcode.com/problems/lonely-pixel-i"
+    },
+    {
+        "title": "Lonely Pixel II",
+        "link": "https://leetcode.com/problems/lonely-pixel-ii"
+    },
+    {
+        "title": "01 Matrix",
+        "link": "https://leetcode.com/problems/01-matrix"
+    },
+    {
+        "title": "Shortest Path to Get Food",
+        "link": "https://leetcode.com/problems/shortest-path-to-get-food"
+    },
+    {
+        "title": "Longest Line of Consecutive One in Matrix",
+        "link": "https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix"
+    },
+    {
+        "title": "Reshape the Matrix",
+        "link": "https://leetcode.com/problems/reshape-the-matrix"
+    },
+    {
+        "title": "Maximum Vacation Days",
+        "link": "https://leetcode.com/problems/maximum-vacation-days"
+    },
+    {
+        "title": "Design Excel Sum Formula",
+        "link": "https://leetcode.com/problems/design-excel-sum-formula"
+    },
+    {
+        "title": "Image Smoother",
+        "link": "https://leetcode.com/problems/image-smoother"
+    },
+    {
+        "title": "Cut Off Trees for Golf Event",
+        "link": "https://leetcode.com/problems/cut-off-trees-for-golf-event"
+    },
+    {
+        "title": "Max Area of Island",
+        "link": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+        "title": "Candy Crush",
+        "link": "https://leetcode.com/problems/candy-crush"
+    },
+    {
+        "title": "Flood Fill",
+        "link": "https://leetcode.com/problems/flood-fill"
+    },
+    {
+        "title": "Cherry Pickup",
+        "link": "https://leetcode.com/problems/cherry-pickup"
+    },
+    {
+        "title": "Contain Virus",
+        "link": "https://leetcode.com/problems/contain-virus"
+    },
+    {
+        "title": "Number Of Corner Rectangles",
+        "link": "https://leetcode.com/problems/number-of-corner-rectangles"
+    },
+    {
+        "title": "Construct Quad Tree",
+        "link": "https://leetcode.com/problems/construct-quad-tree"
+    },
+    {
+        "title": "Toeplitz Matrix",
+        "link": "https://leetcode.com/problems/toeplitz-matrix"
+    },
+    {
+        "title": "Sliding Puzzle",
+        "link": "https://leetcode.com/problems/sliding-puzzle"
+    },
+    {
+        "title": "Swim in Rising Water",
+        "link": "https://leetcode.com/problems/swim-in-rising-water"
+    },
+    {
+        "title": "Transform to Chessboard",
+        "link": "https://leetcode.com/problems/transform-to-chessboard"
+    },
+    {
+        "title": "Valid Tic-Tac-Toe State",
+        "link": "https://leetcode.com/problems/valid-tic-tac-toe-state"
+    },
+    {
+        "title": "Bricks Falling When Hit",
+        "link": "https://leetcode.com/problems/bricks-falling-when-hit"
+    },
+    {
+        "title": "Max Increase to Keep City Skyline",
+        "link": "https://leetcode.com/problems/max-increase-to-keep-city-skyline"
+    },
+    {
+        "title": "Making A Large Island",
+        "link": "https://leetcode.com/problems/making-a-large-island"
+    },
+    {
+        "title": "Flipping an Image",
+        "link": "https://leetcode.com/problems/flipping-an-image"
+    },
+    {
+        "title": "Image Overlap",
+        "link": "https://leetcode.com/problems/image-overlap"
+    },
+    {
+        "title": "Magic Squares In Grid",
+        "link": "https://leetcode.com/problems/magic-squares-in-grid"
+    },
+    {
+        "title": "Score After Flipping Matrix",
+        "link": "https://leetcode.com/problems/score-after-flipping-matrix"
+    },
+    {
+        "title": "Shortest Path to Get All Keys",
+        "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    },
+    {
+        "title": "Transpose Matrix",
+        "link": "https://leetcode.com/problems/transpose-matrix"
+    },
+    {
+        "title": "Projection Area of 3D Shapes",
+        "link": "https://leetcode.com/problems/projection-area-of-3d-shapes"
+    },
+    {
+        "title": "Spiral Matrix III",
+        "link": "https://leetcode.com/problems/spiral-matrix-iii"
+    },
+    {
+        "title": "Surface Area of 3D Shapes",
+        "link": "https://leetcode.com/problems/surface-area-of-3d-shapes"
+    },
+    {
+        "title": "Snakes and Ladders",
+        "link": "https://leetcode.com/problems/snakes-and-ladders"
+    },
+    {
+        "title": "Minimum Falling Path Sum",
+        "link": "https://leetcode.com/problems/minimum-falling-path-sum"
+    },
+    {
+        "title": "Shortest Bridge",
+        "link": "https://leetcode.com/problems/shortest-bridge"
+    },
+    {
+        "title": "Regions Cut By Slashes",
+        "link": "https://leetcode.com/problems/regions-cut-by-slashes"
+    },
+    {
+        "title": "Unique Paths III",
+        "link": "https://leetcode.com/problems/unique-paths-iii"
+    },
+    {
+        "title": "Rotting Oranges",
+        "link": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+        "title": "Available Captures for Rook",
+        "link": "https://leetcode.com/problems/available-captures-for-rook"
+    },
+    {
+        "title": "Number of Enclaves",
+        "link": "https://leetcode.com/problems/number-of-enclaves"
+    },
+    {
+        "title": "Matrix Cells in Distance Order",
+        "link": "https://leetcode.com/problems/matrix-cells-in-distance-order"
+    },
+    {
+        "title": "Path With Maximum Minimum Value",
+        "link": "https://leetcode.com/problems/path-with-maximum-minimum-value"
+    },
+    {
+        "title": "Coloring A Border",
+        "link": "https://leetcode.com/problems/coloring-a-border"
+    },
+    {
+        "title": "As Far from Land as Possible",
+        "link": "https://leetcode.com/problems/as-far-from-land-as-possible"
+    },
+    {
+        "title": "Find Smallest Common Element in All Rows",
+        "link": "https://leetcode.com/problems/find-smallest-common-element-in-all-rows"
+    },
+    {
+        "title": "Number of Submatrices That Sum to Target",
+        "link": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target"
+    },
+    {
+        "title": "Flip Columns For Maximum Number of Equal Rows",
+        "link": "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows"
+    },
+    {
+        "title": "Shortest Path in Binary Matrix",
+        "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix"
+    },
+    {
+        "title": "Minimum Falling Path Sum II",
+        "link": "https://leetcode.com/problems/minimum-falling-path-sum-ii"
+    },
+    {
+        "title": "Number of Paths with Max Score",
+        "link": "https://leetcode.com/problems/number-of-paths-with-max-score"
+    },
+    {
+        "title": "Largest 1-Bordered Square",
+        "link": "https://leetcode.com/problems/largest-1-bordered-square"
+    },
+    {
+        "title": "Matrix Block Sum",
+        "link": "https://leetcode.com/problems/matrix-block-sum"
+    },
+    {
+        "title": "Sort the Matrix Diagonally",
+        "link": "https://leetcode.com/problems/sort-the-matrix-diagonally"
+    },
+    {
+        "title": "Rank Transform of a Matrix",
+        "link": "https://leetcode.com/problems/rank-transform-of-a-matrix"
+    },
+    {
+        "title": "Largest Magic Square",
+        "link": "https://leetcode.com/problems/largest-magic-square"
+    },
+    {
+        "title": "Minimum Moves to Reach Target with Rotations",
+        "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations"
+    },
+    {
+        "title": "Where Will the Ball Fall",
+        "link": "https://leetcode.com/problems/where-will-the-ball-fall"
+    },
+    {
+        "title": "Path with Maximum Gold",
+        "link": "https://leetcode.com/problems/path-with-maximum-gold"
+    },
+    {
+        "title": "Queens That Can Attack the King",
+        "link": "https://leetcode.com/problems/queens-that-can-attack-the-king"
+    },
+    {
+        "title": "Leftmost Column with at Least a One",
+        "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one"
+    },
+    {
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix"
+    },
+    {
+        "title": "Number of Closed Islands",
+        "link": "https://leetcode.com/problems/number-of-closed-islands"
+    },
+    {
+        "title": "Shift 2D Grid",
+        "link": "https://leetcode.com/problems/shift-2d-grid"
+    },
+    {
+        "title": "Minimum Moves to Move a Box to Their Target Location",
+        "link": "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location"
+    },
+    {
+        "title": "Minimum Path Cost in a Grid",
+        "link": "https://leetcode.com/problems/minimum-path-cost-in-a-grid"
+    },
+    {
+        "title": "Count Servers that Communicate",
+        "link": "https://leetcode.com/problems/count-servers-that-communicate"
+    },
+    {
+        "title": "Find Winner on a Tic Tac Toe Game",
+        "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game"
+    },
+    {
+        "title": "Count Square Submatrices with All Ones",
+        "link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones"
+    },
+    {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix"
+    },
+    {
+        "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+        "link": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+    },
+    {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
+    },
+    {
+        "title": "The K Weakest Rows in a Matrix",
+        "link": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix"
+    },
+    {
+        "title": "Maximum Students Taking Exam",
+        "link": "https://leetcode.com/problems/maximum-students-taking-exam"
+    },
+    {
+        "title": "Count Negative Numbers in a Sorted Matrix",
+        "link": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix"
+    },
+    {
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+    },
+    {
+        "title": "Lucky Numbers in a Matrix",
+        "link": "https://leetcode.com/problems/lucky-numbers-in-a-matrix"
+    },
+    {
+        "title": "Check if There is a Valid Path in a Grid",
+        "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid"
+    },
+    {
+        "title": "Find the Kth Smallest Sum of a Matrix With Sorted Rows",
+        "link": "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows"
+    },
+    {
+        "title": "Number of Ways of Cutting a Pizza",
+        "link": "https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza"
+    },
+    {
+        "title": "Cherry Pickup II",
+        "link": "https://leetcode.com/problems/cherry-pickup-ii"
+    },
+    {
+        "title": "Subrectangle Queries",
+        "link": "https://leetcode.com/problems/subrectangle-queries"
+    },
+    {
+        "title": "Count Submatrices With All Ones",
+        "link": "https://leetcode.com/problems/count-submatrices-with-all-ones"
+    },
+    {
+        "title": "Minimum Swaps to Arrange a Binary Grid",
+        "link": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid"
+    },
+    {
+        "title": "Detect Cycles in 2D Grid",
+        "link": "https://leetcode.com/problems/detect-cycles-in-2d-grid"
+    },
+    {
+        "title": "Matrix Diagonal Sum",
+        "link": "https://leetcode.com/problems/matrix-diagonal-sum"
+    },
+    {
+        "title": "Minimum Number of Days to Disconnect Island",
+        "link": "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island"
+    },
+    {
+        "title": "Strange Printer II",
+        "link": "https://leetcode.com/problems/strange-printer-ii"
+    },
+    {
+        "title": "Special Positions in a Binary Matrix",
+        "link": "https://leetcode.com/problems/special-positions-in-a-binary-matrix"
+    },
+    {
+        "title": "Find Valid Matrix Given Row and Column Sums",
+        "link": "https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums"
+    },
+    {
+        "title": "Maximum Non Negative Product in a Matrix",
+        "link": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix"
+    },
+    {
+        "title": "Minimum Cost to Connect Two Groups of Points",
+        "link": "https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points"
+    },
+    {
+        "title": "Cat and Mouse II",
+        "link": "https://leetcode.com/problems/cat-and-mouse-ii"
+    },
+    {
+        "title": "Path With Minimum Effort",
+        "link": "https://leetcode.com/problems/path-with-minimum-effort"
+    },
+    {
+        "title": "Richest Customer Wealth",
+        "link": "https://leetcode.com/problems/richest-customer-wealth"
+    },
+    {
+        "title": "Largest Submatrix With Rearrangements",
+        "link": "https://leetcode.com/problems/largest-submatrix-with-rearrangements"
+    },
+    {
+        "title": "Find Kth Largest XOR Coordinate Value",
+        "link": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value"
+    },
+    {
+        "title": "Map of Highest Peak",
+        "link": "https://leetcode.com/problems/map-of-highest-peak"
+    },
+    {
+        "title": "Maximum Number of Accepted Invitations",
+        "link": "https://leetcode.com/problems/maximum-number-of-accepted-invitations"
+    },
+    {
+        "title": "Rotating the Box",
+        "link": "https://leetcode.com/problems/rotating-the-box"
+    },
+    {
+        "title": "Get Biggest Three Rhombus Sums in a Grid",
+        "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid"
+    },
+    {
+        "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+        "link": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation"
+    },
+    {
+        "title": "Count Sub Islands",
+        "link": "https://leetcode.com/problems/count-sub-islands"
+    },
+    {
+        "title": "Nearest Exit from Entrance in Maze",
+        "link": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze"
+    },
+    {
+        "title": "Cyclically Rotating a Grid",
+        "link": "https://leetcode.com/problems/cyclically-rotating-a-grid"
+    },
+    {
+        "title": "Find a Peak Element II",
+        "link": "https://leetcode.com/problems/find-a-peak-element-ii"
+    },
+    {
+        "title": "Check if Move is Legal",
+        "link": "https://leetcode.com/problems/check-if-move-is-legal"
+    },
+    {
+        "title": "Maximum Matrix Sum",
+        "link": "https://leetcode.com/problems/maximum-matrix-sum"
+    },
+    {
+        "title": "Last Day Where You Can Still Cross",
+        "link": "https://leetcode.com/problems/last-day-where-you-can-still-cross"
+    },
+    {
+        "title": "Find All Groups of Farmland",
+        "link": "https://leetcode.com/problems/find-all-groups-of-farmland"
+    },
+    {
+        "title": "Minimize the Difference Between Target and Chosen Elements",
+        "link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements"
+    },
+    {
+        "title": "Convert 1D Array Into 2D Array",
+        "link": "https://leetcode.com/problems/convert-1d-array-into-2d-array"
+    },
+    {
+        "title": "Grid Game",
+        "link": "https://leetcode.com/problems/grid-game"
+    },
+    {
+        "title": "Check if Word Can Be Placed In Crossword",
+        "link": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword"
+    },
+    {
+        "title": "Minimum Operations to Make a Uni-Value Grid",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid"
+    },
+    {
+        "title": "Count Fertile Pyramids in a Land",
+        "link": "https://leetcode.com/problems/count-fertile-pyramids-in-a-land"
+    },
+    {
+        "title": "Stamping the Grid",
+        "link": "https://leetcode.com/problems/stamping-the-grid"
+    },
+    {
+        "title": "Number of Spaces Cleaning Robot Cleaned",
+        "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned"
+    },
+    {
+        "title": "Number of Laser Beams in a Bank",
+        "link": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank"
+    },
+    {
+        "title": "K Highest Ranked Items Within a Price Range",
+        "link": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range"
+    },
+    {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers"
+    },
+    {
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "link": "https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix"
+    },
+    {
+        "title": "Remove All Ones With Row and Column Flips",
+        "link": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips"
+    },
+    {
+        "title": "Remove All Ones With Row and Column Flips II",
+        "link": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii"
+    },
+    {
+        "title": "Count Unguarded Cells in the Grid",
+        "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid"
+    },
+    {
+        "title": "Escape the Spreading Fire",
+        "link": "https://leetcode.com/problems/escape-the-spreading-fire"
+    },
+    {
+        "title": "Check if There Is a Valid Parentheses String Path",
+        "link": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path"
+    },
+    {
+        "title": "Maximum Trailing Zeros in a Cornered Path",
+        "link": "https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path"
+    },
+    {
+        "title": "Minimum Obstacle Removal to Reach Corner",
+        "link": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner"
+    },
+    {
+        "title": "Check if Matrix Is X-Matrix",
+        "link": "https://leetcode.com/problems/check-if-matrix-is-x-matrix"
+    },
+    {
+        "title": "Number of Increasing Paths in a Grid",
+        "link": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid"
+    },
+    {
+        "title": "Spiral Matrix IV",
+        "link": "https://leetcode.com/problems/spiral-matrix-iv"
+    },
+    {
+        "title": "Number of People That Can Be Seen in a Grid",
+        "link": "https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid"
+    },
+    {
+        "title": "Equal Row and Column Pairs",
+        "link": "https://leetcode.com/problems/equal-row-and-column-pairs"
+    },
+    {
+        "title": "Largest Local Values in a Matrix",
+        "link": "https://leetcode.com/problems/largest-local-values-in-a-matrix"
+    },
+    {
+        "title": "Build a Matrix With Conditions",
+        "link": "https://leetcode.com/problems/build-a-matrix-with-conditions"
+    },
+    {
+        "title": "Maximum Rows Covered by Columns",
+        "link": "https://leetcode.com/problems/maximum-rows-covered-by-columns"
+    },
+    {
+        "title": "Minimize Maximum Value in a Grid",
+        "link": "https://leetcode.com/problems/minimize-maximum-value-in-a-grid"
+    },
+    {
+        "title": "Maximum Sum of an Hourglass",
+        "link": "https://leetcode.com/problems/maximum-sum-of-an-hourglass"
+    },
+    {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "link": "https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k"
+    },
+    {
+        "title": "Median of a Row Wise Sorted Matrix",
+        "link": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix"
+    },
+    {
+        "title": "Delete Greatest Value in Each Row",
+        "link": "https://leetcode.com/problems/delete-greatest-value-in-each-row"
+    },
+    {
+        "title": "Maximum Number of Points From Grid Queries",
+        "link": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries"
+    },
+    {
+        "title": "Difference Between Ones and Zeros in Row and Column",
+        "link": "https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column"
+    },
+    {
+        "title": "Increment Submatrices by One",
+        "link": "https://leetcode.com/problems/increment-submatrices-by-one"
+    },
+    {
+        "title": "Sort the Students by Their Kth Score",
+        "link": "https://leetcode.com/problems/sort-the-students-by-their-kth-score"
+    },
+    {
+        "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+        "link": "https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip"
+    },
+    {
+        "title": "Check if There is a Path With Equal Number of 0's And 1's",
+        "link": "https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s"
+    },
+    {
+        "title": "Check Knight Tour Configuration",
+        "link": "https://leetcode.com/problems/check-knight-tour-configuration"
+    },
+    {
+        "title": "Find the Width of Columns of a Grid",
+        "link": "https://leetcode.com/problems/find-the-width-of-columns-of-a-grid"
+    },
+    {
+        "title": "First Completely Painted Row or Column",
+        "link": "https://leetcode.com/problems/first-completely-painted-row-or-column"
+    },
+    {
+        "title": "Minimum Number of Visited Cells in a Grid",
+        "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+    },
+    {
+        "title": "Find the String with LCP",
+        "link": "https://leetcode.com/problems/find-the-string-with-lcp"
+    },
+    {
+        "title": "Minimum Time to Visit a Cell In a Grid",
+        "link": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid"
+    },
+    {
+        "title": "Prime In Diagonal",
+        "link": "https://leetcode.com/problems/prime-in-diagonal"
+    },
+    {
+        "title": "Sum in a Matrix",
+        "link": "https://leetcode.com/problems/sum-in-a-matrix"
+    },
+    {
+        "title": "Row With Maximum Ones",
+        "link": "https://leetcode.com/problems/row-with-maximum-ones"
+    },
+    {
+        "title": "Maximum Number of Fish in a Grid",
+        "link": "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid"
+    },
+    {
+        "title": "Maximum Number of Moves in a Grid",
+        "link": "https://leetcode.com/problems/maximum-number-of-moves-in-a-grid"
+    },
+    {
+        "title": "Difference of Number of Distinct Values on Diagonals",
+        "link": "https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals"
+    },
+    {
+        "title": "Maximum Strictly Increasing Cells in a Matrix",
+        "link": "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix"
+    },
+    {
+        "title": "The Knight\u2019s Tour",
+        "link": "https://leetcode.com/problems/the-knights-tour"
+    },
+    {
+        "title": "Find a Good Subset of the Matrix",
+        "link": "https://leetcode.com/problems/find-a-good-subset-of-the-matrix"
+    },
+    {
+        "title": "Find the Safest Path in a Grid",
+        "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid"
+    },
+    {
+        "title": "Construct Product Matrix",
+        "link": "https://leetcode.com/problems/construct-product-matrix"
+    },
+    {
+        "title": "Minimum Time Takes to Reach Destination Without Drowning",
+        "link": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning"
+    },
+    {
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid"
+    },
+    {
+        "title": "Maximum Spending After Buying Items",
+        "link": "https://leetcode.com/problems/maximum-spending-after-buying-items"
+    },
+    {
+        "title": "Sum of Remoteness of All Cells",
+        "link": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells"
+    },
+    {
+        "title": "Find Champion I",
+        "link": "https://leetcode.com/problems/find-champion-i"
+    },
+    {
+        "title": "Matrix Similarity After Cyclic Shifts",
+        "link": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts"
+    },
+    {
+        "title": "Find Missing and Repeated Values",
+        "link": "https://leetcode.com/problems/find-missing-and-repeated-values"
+    },
+    {
+        "title": "Find the Grid of Region Average",
+        "link": "https://leetcode.com/problems/find-the-grid-of-region-average"
+    },
+    {
+        "title": "Most Frequent Prime",
+        "link": "https://leetcode.com/problems/most-frequent-prime"
+    },
+    {
+        "title": "Modify the Matrix",
+        "link": "https://leetcode.com/problems/modify-the-matrix"
+    },
+    {
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid"
+    },
+    {
+        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+        "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k"
+    },
+    {
+        "title": "Match Alphanumerical Pattern in Matrix I",
+        "link": "https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i"
+    },
+    {
+        "title": "Maximum Difference Score in a Grid",
+        "link": "https://leetcode.com/problems/maximum-difference-score-in-a-grid"
+    },
+    {
+        "title": "Make a Square with the Same Color",
+        "link": "https://leetcode.com/problems/make-a-square-with-the-same-color"
+    },
+    {
+        "title": "Minimum Number of Operations to Satisfy Conditions",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions"
+    },
+    {
+        "title": "Check if Grid Satisfies Conditions",
+        "link": "https://leetcode.com/problems/check-if-grid-satisfies-conditions"
+    },
+    {
+        "title": "Find the Minimum Area to Cover All Ones II",
+        "link": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii"
+    },
+    {
+        "title": "Find the Minimum Area to Cover All Ones I",
+        "link": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i"
+    },
+    {
+        "title": "Maximum Score From Grid Operations",
+        "link": "https://leetcode.com/problems/maximum-score-from-grid-operations"
+    },
+    {
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "link": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y"
+    },
+    {
+        "title": "Design Neighbor Sum Service",
+        "link": "https://leetcode.com/problems/design-neighbor-sum-service"
+    },
+    {
+        "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii"
+    },
+    {
+        "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Kth Largest Element in an Array",
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+    },
+    {
+        "title": "Wiggle Sort II",
+        "link": "https://leetcode.com/problems/wiggle-sort-ii"
+    },
+    {
+        "title": "Top K Frequent Elements",
+        "link": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+        "title": "K Closest Points to Origin",
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+    },
+    {
+        "title": "Find Kth Largest XOR Coordinate Value",
+        "link": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value"
+    },
+    {
+        "title": "Find the Kth Largest Integer in the Array",
+        "link": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array"
+    },
+    {
+        "title": "Query Kth Smallest Trimmed Number",
+        "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "LRU Cache",
+        "link": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+        "title": "All O`one Data Structure",
+        "link": "https://leetcode.com/problems/all-oone-data-structure"
+    },
+    {
+        "title": "LFU Cache",
+        "link": "https://leetcode.com/problems/lfu-cache"
+    },
+    {
+        "title": "Max Stack",
+        "link": "https://leetcode.com/problems/max-stack"
+    },
+    {
+        "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list"
+    },
+    {
+        "title": "Flatten a Multilevel Doubly Linked List",
+        "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list"
+    },
+    {
+        "title": "Design Browser History",
+        "link": "https://leetcode.com/problems/design-browser-history"
+    },
+    {
+        "title": "Design Authentication Manager",
+        "link": "https://leetcode.com/problems/design-authentication-manager"
+    },
+    {
+        "title": "Design a Text Editor",
+        "link": "https://leetcode.com/problems/design-a-text-editor"
+    }
+]

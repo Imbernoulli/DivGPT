@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Repeated DNA Sequences",
+        "link": "https://leetcode.com/problems/repeated-dna-sequences"
+    },
+    {
+        "title": "Shortest Palindrome",
+        "link": "https://leetcode.com/problems/shortest-palindrome"
+    },
+    {
+        "title": "Maximum Length of Repeated Subarray",
+        "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+    },
+    {
+        "title": "Longest Repeating Substring",
+        "link": "https://leetcode.com/problems/longest-repeating-substring"
+    },
+    {
+        "title": "Longest Duplicate Substring",
+        "link": "https://leetcode.com/problems/longest-duplicate-substring"
+    },
+    {
+        "title": "Distinct Echo Substrings",
+        "link": "https://leetcode.com/problems/distinct-echo-substrings"
+    },
+    {
+        "title": "Longest Chunked Palindrome Decomposition",
+        "link": "https://leetcode.com/problems/longest-chunked-palindrome-decomposition"
+    },
+    {
+        "title": "Maximum Product of the Length of Two Palindromic Substrings",
+        "link": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings"
+    },
+    {
+        "title": "Longest Happy Prefix",
+        "link": "https://leetcode.com/problems/longest-happy-prefix"
+    },
+    {
+        "title": "Check If a String Contains All Binary Codes of Size K",
+        "link": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k"
+    },
+    {
+        "title": "Strings Differ by One Character",
+        "link": "https://leetcode.com/problems/strings-differ-by-one-character"
+    },
+    {
+        "title": "Number of Distinct Substrings in a String",
+        "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string"
+    },
+    {
+        "title": "Longest Common Subpath",
+        "link": "https://leetcode.com/problems/longest-common-subpath"
+    },
+    {
+        "title": "Find Substring With Given Hash Value",
+        "link": "https://leetcode.com/problems/find-substring-with-given-hash-value"
+    },
+    {
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency"
+    },
+    {
+        "title": "Sum of Scores of Built Strings",
+        "link": "https://leetcode.com/problems/sum-of-scores-of-built-strings"
+    },
+    {
+        "title": "K Divisible Elements Subarrays",
+        "link": "https://leetcode.com/problems/k-divisible-elements-subarrays"
+    },
+    {
+        "title": "Maximum Deletions on a String",
+        "link": "https://leetcode.com/problems/maximum-deletions-on-a-string"
+    },
+    {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i"
+    },
+    {
+        "title": "Number of Subarrays That Match a Pattern I",
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i"
+    },
+    {
+        "title": "Number of Subarrays That Match a Pattern II",
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii"
+    },
+    {
+        "title": "Minimum Time to Revert Word to Initial State II",
+        "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii"
+    },
+    {
+        "title": "Minimum Time to Revert Word to Initial State I",
+        "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i"
+    },
+    {
+        "title": "Find Beautiful Indices in the Given Array II",
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii"
+    },
+    {
+        "title": "Count Prefix and Suffix Pairs II",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii"
+    },
+    {
+        "title": "Count Prefix and Suffix Pairs I",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i"
+    },
+    {
+        "title": "Find Pattern in Infinite Stream I",
+        "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-i"
+    },
+    {
+        "title": "Find Pattern in Infinite Stream II",
+        "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-ii"
+    }
+]

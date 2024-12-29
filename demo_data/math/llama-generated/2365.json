@@ -1,0 +1,8 @@
+{
+    "gpu_id": 5,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nAndrew eats 14 donuts on Monday, and half as many on Tuesday. On Wednesday Andrew eats 4 times as many as he did on Monday.  How many donuts did Andrew eat total in the three days?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "49"
+}

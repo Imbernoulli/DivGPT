@@ -1,0 +1,8 @@
+{
+    "gpu_id": 7,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nRyan started with 36 tokens at the arcade. Ryan wasted a third of his tokens on Pac-Man, a fourth of his tokens on Candy Crush, and 7 on Ski-ball. Then, his parents bought him seven times as many tokens as he spent on Ski-ball. How many tokens did Ryan end up with?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "22"
+}

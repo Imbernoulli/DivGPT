@@ -1,0 +1,8 @@
+{
+    "gpu_id": 3,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nBob has to hire someone to fix his garden.  A storm destroyed all 20 of his rose bushes.  He decides to replant all the rose bushes.  Each rose bush costs $150.  He also needs to pay a gardener $30 an hour, 5 hours each day for 4 days.  The final expense is 100 cubic feet of soil sold for $5 per cubic foot.  How much did the entire gardening project cost?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [],
+    "num_correct": 0,
+    "total_attempts": 2048,
+    "ground_truth": "4100"
+}

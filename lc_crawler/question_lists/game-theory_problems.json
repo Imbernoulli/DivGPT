@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Nim Game",
+        "link": "https://leetcode.com/problems/nim-game"
+    },
+    {
+        "title": "Flip Game II",
+        "link": "https://leetcode.com/problems/flip-game-ii"
+    },
+    {
+        "title": "Guess Number Higher or Lower II",
+        "link": "https://leetcode.com/problems/guess-number-higher-or-lower-ii"
+    },
+    {
+        "title": "Can I Win",
+        "link": "https://leetcode.com/problems/can-i-win"
+    },
+    {
+        "title": "Predict the Winner",
+        "link": "https://leetcode.com/problems/predict-the-winner"
+    },
+    {
+        "title": "Chalkboard XOR Game",
+        "link": "https://leetcode.com/problems/chalkboard-xor-game"
+    },
+    {
+        "title": "Guess the Word",
+        "link": "https://leetcode.com/problems/guess-the-word"
+    },
+    {
+        "title": "Stone Game",
+        "link": "https://leetcode.com/problems/stone-game"
+    },
+    {
+        "title": "Cat and Mouse",
+        "link": "https://leetcode.com/problems/cat-and-mouse"
+    },
+    {
+        "title": "Divisor Game",
+        "link": "https://leetcode.com/problems/divisor-game"
+    },
+    {
+        "title": "Stone Game II",
+        "link": "https://leetcode.com/problems/stone-game-ii"
+    },
+    {
+        "title": "Stone Game III",
+        "link": "https://leetcode.com/problems/stone-game-iii"
+    },
+    {
+        "title": "Stone Game IV",
+        "link": "https://leetcode.com/problems/stone-game-iv"
+    },
+    {
+        "title": "Maximum Number of Coins You Can Get",
+        "link": "https://leetcode.com/problems/maximum-number-of-coins-you-can-get"
+    },
+    {
+        "title": "Stone Game V",
+        "link": "https://leetcode.com/problems/stone-game-v"
+    },
+    {
+        "title": "Cat and Mouse II",
+        "link": "https://leetcode.com/problems/cat-and-mouse-ii"
+    },
+    {
+        "title": "Stone Game VI",
+        "link": "https://leetcode.com/problems/stone-game-vi"
+    },
+    {
+        "title": "Stone Game VII",
+        "link": "https://leetcode.com/problems/stone-game-vii"
+    },
+    {
+        "title": "Stone Game VIII",
+        "link": "https://leetcode.com/problems/stone-game-viii"
+    },
+    {
+        "title": "Sum Game",
+        "link": "https://leetcode.com/problems/sum-game"
+    },
+    {
+        "title": "Game of Nim",
+        "link": "https://leetcode.com/problems/game-of-nim"
+    },
+    {
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+    },
+    {
+        "title": "Subtree Removal Game with Fibonacci Tree",
+        "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree"
+    },
+    {
+        "title": "Stone Game IX",
+        "link": "https://leetcode.com/problems/stone-game-ix"
+    },
+    {
+        "title": "The Wording Game",
+        "link": "https://leetcode.com/problems/the-wording-game"
+    },
+    {
+        "title": "Vowels Game in a String",
+        "link": "https://leetcode.com/problems/vowels-game-in-a-string"
+    },
+    {
+        "title": "Find the Winning Player in Coin Game",
+        "link": "https://leetcode.com/problems/find-the-winning-player-in-coin-game"
+    }
+]

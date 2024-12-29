@@ -1,0 +1,226 @@
+[
+    {
+        "title": "Count Primes",
+        "link": "https://leetcode.com/problems/count-primes"
+    },
+    {
+        "title": "Add Digits",
+        "link": "https://leetcode.com/problems/add-digits"
+    },
+    {
+        "title": "Mirror Reflection",
+        "link": "https://leetcode.com/problems/mirror-reflection"
+    },
+    {
+        "title": "Prime Palindrome",
+        "link": "https://leetcode.com/problems/prime-palindrome"
+    },
+    {
+        "title": "X of a Kind in a Deck of Cards",
+        "link": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards"
+    },
+    {
+        "title": "Largest Component Size by Common Factor",
+        "link": "https://leetcode.com/problems/largest-component-size-by-common-factor"
+    },
+    {
+        "title": "Graph Connectivity With Threshold",
+        "link": "https://leetcode.com/problems/graph-connectivity-with-threshold"
+    },
+    {
+        "title": "Ugly Number III",
+        "link": "https://leetcode.com/problems/ugly-number-iii"
+    },
+    {
+        "title": "Check If It Is a Good Array",
+        "link": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+    },
+    {
+        "title": "Simplified Fractions",
+        "link": "https://leetcode.com/problems/simplified-fractions"
+    },
+    {
+        "title": "The kth Factor of n",
+        "link": "https://leetcode.com/problems/the-kth-factor-of-n"
+    },
+    {
+        "title": "Count Ways to Make Array With Product",
+        "link": "https://leetcode.com/problems/count-ways-to-make-array-with-product"
+    },
+    {
+        "title": "Tree of Coprimes",
+        "link": "https://leetcode.com/problems/tree-of-coprimes"
+    },
+    {
+        "title": "Maximize Score After N Operations",
+        "link": "https://leetcode.com/problems/maximize-score-after-n-operations"
+    },
+    {
+        "title": "Number of Different Subsequences GCDs",
+        "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds"
+    },
+    {
+        "title": "Three Divisors",
+        "link": "https://leetcode.com/problems/three-divisors"
+    },
+    {
+        "title": "Find Greatest Common Divisor of Array",
+        "link": "https://leetcode.com/problems/find-greatest-common-divisor-of-array"
+    },
+    {
+        "title": "GCD Sort of an Array",
+        "link": "https://leetcode.com/problems/gcd-sort-of-an-array"
+    },
+    {
+        "title": "Number of Pairs of Interchangeable Rectangles",
+        "link": "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles"
+    },
+    {
+        "title": "Count Array Pairs Divisible by K",
+        "link": "https://leetcode.com/problems/count-array-pairs-divisible-by-k"
+    },
+    {
+        "title": "Replace Non-Coprime Numbers in Array",
+        "link": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array"
+    },
+    {
+        "title": "Minimum Lines to Represent a Line Chart",
+        "link": "https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart"
+    },
+    {
+        "title": "Count the Number of Ideal Arrays",
+        "link": "https://leetcode.com/problems/count-the-number-of-ideal-arrays"
+    },
+    {
+        "title": "Minimum Deletions to Make Array Divisible",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible"
+    },
+    {
+        "title": "Smallest Even Multiple",
+        "link": "https://leetcode.com/problems/smallest-even-multiple"
+    },
+    {
+        "title": "Number of Common Factors",
+        "link": "https://leetcode.com/problems/number-of-common-factors"
+    },
+    {
+        "title": "Number of Subarrays With GCD Equal to K",
+        "link": "https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k"
+    },
+    {
+        "title": "Number of Subarrays With LCM Equal to K",
+        "link": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k"
+    },
+    {
+        "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+        "link": "https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one"
+    },
+    {
+        "title": "Smallest Value After Replacing With Sum of Prime Factors",
+        "link": "https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors"
+    },
+    {
+        "title": "Minimum Subarrays in a Valid Split",
+        "link": "https://leetcode.com/problems/minimum-subarrays-in-a-valid-split"
+    },
+    {
+        "title": "Distinct Prime Factors of Product of Array",
+        "link": "https://leetcode.com/problems/distinct-prime-factors-of-product-of-array"
+    },
+    {
+        "title": "Closest Prime Numbers in Range",
+        "link": "https://leetcode.com/problems/closest-prime-numbers-in-range"
+    },
+    {
+        "title": "Minimize the Maximum of Two Arrays",
+        "link": "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays"
+    },
+    {
+        "title": "Check if Point Is Reachable",
+        "link": "https://leetcode.com/problems/check-if-point-is-reachable"
+    },
+    {
+        "title": "Split the Array to Make Coprime Products",
+        "link": "https://leetcode.com/problems/split-the-array-to-make-coprime-products"
+    },
+    {
+        "title": "Make K-Subarray Sums Equal",
+        "link": "https://leetcode.com/problems/make-k-subarray-sums-equal"
+    },
+    {
+        "title": "Prime Subtraction Operation",
+        "link": "https://leetcode.com/problems/prime-subtraction-operation"
+    },
+    {
+        "title": "Prime In Diagonal",
+        "link": "https://leetcode.com/problems/prime-in-diagonal"
+    },
+    {
+        "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1"
+    },
+    {
+        "title": "Greatest Common Divisor Traversal",
+        "link": "https://leetcode.com/problems/greatest-common-divisor-traversal"
+    },
+    {
+        "title": "Number of Beautiful Pairs",
+        "link": "https://leetcode.com/problems/number-of-beautiful-pairs"
+    },
+    {
+        "title": "Prime Pairs With Target Sum",
+        "link": "https://leetcode.com/problems/prime-pairs-with-target-sum"
+    },
+    {
+        "title": "Insert Greatest Common Divisors in Linked List",
+        "link": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list"
+    },
+    {
+        "title": "Apply Operations to Maximize Score",
+        "link": "https://leetcode.com/problems/apply-operations-to-maximize-score"
+    },
+    {
+        "title": "Maximum Element-Sum of a Complete Subset of Indices",
+        "link": "https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices"
+    },
+    {
+        "title": "Count Valid Paths in a Tree",
+        "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree"
+    },
+    {
+        "title": "Count Beautiful Substrings II",
+        "link": "https://leetcode.com/problems/count-beautiful-substrings-ii"
+    },
+    {
+        "title": "Count Beautiful Substrings I",
+        "link": "https://leetcode.com/problems/count-beautiful-substrings-i"
+    },
+    {
+        "title": "Maximum GCD-Sum of a Subarray",
+        "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray"
+    },
+    {
+        "title": "Minimize Length of Array Using Operations",
+        "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations"
+    },
+    {
+        "title": "Most Expensive Item That Can Not Be Bought",
+        "link": "https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought"
+    },
+    {
+        "title": "Most Frequent Prime",
+        "link": "https://leetcode.com/problems/most-frequent-prime"
+    },
+    {
+        "title": "Maximum Prime Difference",
+        "link": "https://leetcode.com/problems/maximum-prime-difference"
+    },
+    {
+        "title": "Kth Smallest Amount With Single Denomination Combination",
+        "link": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination"
+    },
+    {
+        "title": "Find the Count of Numbers Which Are Not Special",
+        "link": "https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "title": "Course Schedule",
+        "link": "https://leetcode.com/problems/course-schedule"
+    },
+    {
+        "title": "Course Schedule II",
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+        "title": "Alien Dictionary",
+        "link": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+        "title": "Minimum Height Trees",
+        "link": "https://leetcode.com/problems/minimum-height-trees"
+    },
+    {
+        "title": "Longest Increasing Path in a Matrix",
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+    },
+    {
+        "title": "Sequence Reconstruction",
+        "link": "https://leetcode.com/problems/sequence-reconstruction"
+    },
+    {
+        "title": "All Paths from Source Lead to Destination",
+        "link": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination"
+    },
+    {
+        "title": "Design Excel Sum Formula",
+        "link": "https://leetcode.com/problems/design-excel-sum-formula"
+    },
+    {
+        "title": "Find Eventual Safe States",
+        "link": "https://leetcode.com/problems/find-eventual-safe-states"
+    },
+    {
+        "title": "Loud and Rich",
+        "link": "https://leetcode.com/problems/loud-and-rich"
+    },
+    {
+        "title": "Cat and Mouse",
+        "link": "https://leetcode.com/problems/cat-and-mouse"
+    },
+    {
+        "title": "Parallel Courses",
+        "link": "https://leetcode.com/problems/parallel-courses"
+    },
+    {
+        "title": "Tree Diameter",
+        "link": "https://leetcode.com/problems/tree-diameter"
+    },
+    {
+        "title": "Rank Transform of a Matrix",
+        "link": "https://leetcode.com/problems/rank-transform-of-a-matrix"
+    },
+    {
+        "title": "Sort Items by Groups Respecting Dependencies",
+        "link": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies"
+    },
+    {
+        "title": "Count Ways to Build Rooms in an Ant Colony",
+        "link": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony"
+    },
+    {
+        "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+        "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph"
+    },
+    {
+        "title": "Course Schedule IV",
+        "link": "https://leetcode.com/problems/course-schedule-iv"
+    },
+    {
+        "title": "Strange Printer II",
+        "link": "https://leetcode.com/problems/strange-printer-ii"
+    },
+    {
+        "title": "Cat and Mouse II",
+        "link": "https://leetcode.com/problems/cat-and-mouse-ii"
+    },
+    {
+        "title": "Number of Restricted Paths From First to Last Node",
+        "link": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node"
+    },
+    {
+        "title": "Largest Color Value in a Directed Graph",
+        "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph"
+    },
+    {
+        "title": "Number of Ways to Arrive at Destination",
+        "link": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination"
+    },
+    {
+        "title": "Parallel Courses III",
+        "link": "https://leetcode.com/problems/parallel-courses-iii"
+    },
+    {
+        "title": "Find All Possible Recipes from Given Supplies",
+        "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+    },
+    {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting"
+    },
+    {
+        "title": "Longest Path With Different Adjacent Characters",
+        "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters"
+    },
+    {
+        "title": "Number of Increasing Paths in a Grid",
+        "link": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid"
+    },
+    {
+        "title": "Longest Cycle in a Graph",
+        "link": "https://leetcode.com/problems/longest-cycle-in-a-graph"
+    },
+    {
+        "title": "Build a Matrix With Conditions",
+        "link": "https://leetcode.com/problems/build-a-matrix-with-conditions"
+    },
+    {
+        "title": "Minimize Maximum Value in a Grid",
+        "link": "https://leetcode.com/problems/minimize-maximum-value-in-a-grid"
+    },
+    {
+        "title": "Collect Coins in a Tree",
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree"
+    }
+]

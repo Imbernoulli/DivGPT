@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Longest Repeating Substring",
+        "link": "https://leetcode.com/problems/longest-repeating-substring"
+    },
+    {
+        "title": "Longest Duplicate Substring",
+        "link": "https://leetcode.com/problems/longest-duplicate-substring"
+    },
+    {
+        "title": "Number of Distinct Substrings in a String",
+        "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string"
+    },
+    {
+        "title": "Longest Common Subpath",
+        "link": "https://leetcode.com/problems/longest-common-subpath"
+    },
+    {
+        "title": "Number of Ways to Separate Numbers",
+        "link": "https://leetcode.com/problems/number-of-ways-to-separate-numbers"
+    },
+    {
+        "title": "Sum of Scores of Built Strings",
+        "link": "https://leetcode.com/problems/sum-of-scores-of-built-strings"
+    },
+    {
+        "title": "Construct String with Minimum Cost",
+        "link": "https://leetcode.com/problems/construct-string-with-minimum-cost"
+    }
+]

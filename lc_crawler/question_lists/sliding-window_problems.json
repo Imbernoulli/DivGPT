@@ -1,0 +1,490 @@
+[
+    {
+        "title": "Longest Substring Without Repeating Characters",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+        "title": "Substring with Concatenation of All Words",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words"
+    },
+    {
+        "title": "Minimum Window Substring",
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+    },
+    {
+        "title": "Longest Substring with At Most Two Distinct Characters",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters"
+    },
+    {
+        "title": "Repeated DNA Sequences",
+        "link": "https://leetcode.com/problems/repeated-dna-sequences"
+    },
+    {
+        "title": "Minimum Size Subarray Sum",
+        "link": "https://leetcode.com/problems/minimum-size-subarray-sum"
+    },
+    {
+        "title": "Contains Duplicate II",
+        "link": "https://leetcode.com/problems/contains-duplicate-ii"
+    },
+    {
+        "title": "Contains Duplicate III",
+        "link": "https://leetcode.com/problems/contains-duplicate-iii"
+    },
+    {
+        "title": "Sliding Window Maximum",
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+        "title": "Longest Substring with At Most K Distinct Characters",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
+    },
+    {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters"
+    },
+    {
+        "title": "Longest Repeating Character Replacement",
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+    },
+    {
+        "title": "Find All Anagrams in a String",
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
+    },
+    {
+        "title": "Sliding Window Median",
+        "link": "https://leetcode.com/problems/sliding-window-median"
+    },
+    {
+        "title": "Max Consecutive Ones II",
+        "link": "https://leetcode.com/problems/max-consecutive-ones-ii"
+    },
+    {
+        "title": "Permutation in String",
+        "link": "https://leetcode.com/problems/permutation-in-string"
+    },
+    {
+        "title": "Longest Harmonious Subsequence",
+        "link": "https://leetcode.com/problems/longest-harmonious-subsequence"
+    },
+    {
+        "title": "Smallest Range Covering Elements from K Lists",
+        "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists"
+    },
+    {
+        "title": "Maximum Average Subarray I",
+        "link": "https://leetcode.com/problems/maximum-average-subarray-i"
+    },
+    {
+        "title": "Find K Closest Elements",
+        "link": "https://leetcode.com/problems/find-k-closest-elements"
+    },
+    {
+        "title": "K Empty Slots",
+        "link": "https://leetcode.com/problems/k-empty-slots"
+    },
+    {
+        "title": "Subarray Product Less Than K",
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+    },
+    {
+        "title": "Maximum Length of Repeated Subarray",
+        "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+    },
+    {
+        "title": "Minimum Window Subsequence",
+        "link": "https://leetcode.com/problems/minimum-window-subsequence"
+    },
+    {
+        "title": "New 21 Game",
+        "link": "https://leetcode.com/problems/new-21-game"
+    },
+    {
+        "title": "Shortest Subarray with Sum at Least K",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k"
+    },
+    {
+        "title": "Fruit Into Baskets",
+        "link": "https://leetcode.com/problems/fruit-into-baskets"
+    },
+    {
+        "title": "Binary Subarrays With Sum",
+        "link": "https://leetcode.com/problems/binary-subarrays-with-sum"
+    },
+    {
+        "title": "Longest Turbulent Subarray",
+        "link": "https://leetcode.com/problems/longest-turbulent-subarray"
+    },
+    {
+        "title": "Subarrays with K Different Integers",
+        "link": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+    },
+    {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips"
+    },
+    {
+        "title": "Max Consecutive Ones III",
+        "link": "https://leetcode.com/problems/max-consecutive-ones-iii"
+    },
+    {
+        "title": "Find K-Length Substrings With No Repeated Characters",
+        "link": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters"
+    },
+    {
+        "title": "Maximum Sum of Two Non-Overlapping Subarrays",
+        "link": "https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays"
+    },
+    {
+        "title": "Minimum Swaps to Group All 1's Together",
+        "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together"
+    },
+    {
+        "title": "Longest Duplicate Substring",
+        "link": "https://leetcode.com/problems/longest-duplicate-substring"
+    },
+    {
+        "title": "Grumpy Bookstore Owner",
+        "link": "https://leetcode.com/problems/grumpy-bookstore-owner"
+    },
+    {
+        "title": "Swap For Longest Repeated Character Substring",
+        "link": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring"
+    },
+    {
+        "title": "Diet Plan Performance",
+        "link": "https://leetcode.com/problems/diet-plan-performance"
+    },
+    {
+        "title": "Constrained Subsequence Sum",
+        "link": "https://leetcode.com/problems/constrained-subsequence-sum"
+    },
+    {
+        "title": "Get Equal Substrings Within Budget",
+        "link": "https://leetcode.com/problems/get-equal-substrings-within-budget"
+    },
+    {
+        "title": "Replace the Substring for Balanced String",
+        "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string"
+    },
+    {
+        "title": "Count Number of Nice Subarrays",
+        "link": "https://leetcode.com/problems/count-number-of-nice-subarrays"
+    },
+    {
+        "title": "Maximum Number of Occurrences of a Substring",
+        "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+    },
+    {
+        "title": "Find the K-Beauty of a Number",
+        "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number"
+    },
+    {
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "link": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold"
+    },
+    {
+        "title": "Number of Substrings Containing All Three Characters",
+        "link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters"
+    },
+    {
+        "title": "Maximum Points You Can Obtain from Cards",
+        "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards"
+    },
+    {
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+    },
+    {
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "link": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length"
+    },
+    {
+        "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+        "link": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum"
+    },
+    {
+        "title": "Longest Subarray of 1's After Deleting One Element",
+        "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element"
+    },
+    {
+        "title": "Max Value of Equation",
+        "link": "https://leetcode.com/problems/max-value-of-equation"
+    },
+    {
+        "title": "Maximum Number of Visible Points",
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points"
+    },
+    {
+        "title": "Defuse the Bomb",
+        "link": "https://leetcode.com/problems/defuse-the-bomb"
+    },
+    {
+        "title": "Minimum Operations to Reduce X to Zero",
+        "link": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero"
+    },
+    {
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "link": "https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones"
+    },
+    {
+        "title": "Maximum Erasure Value",
+        "link": "https://leetcode.com/problems/maximum-erasure-value"
+    },
+    {
+        "title": "Longest Nice Substring",
+        "link": "https://leetcode.com/problems/longest-nice-substring"
+    },
+    {
+        "title": "Frequency of the Most Frequent Element",
+        "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element"
+    },
+    {
+        "title": "Longest Substring Of All Vowels in Order",
+        "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order"
+    },
+    {
+        "title": "Substrings of Size Three with Distinct Characters",
+        "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters"
+    },
+    {
+        "title": "Jump Game VII",
+        "link": "https://leetcode.com/problems/jump-game-vii"
+    },
+    {
+        "title": "Distinct Numbers in Each Subarray",
+        "link": "https://leetcode.com/problems/distinct-numbers-in-each-subarray"
+    },
+    {
+        "title": "Minimum Number of Flips to Make the Binary String Alternating",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating"
+    },
+    {
+        "title": "Kth Smallest Subarray Sum",
+        "link": "https://leetcode.com/problems/kth-smallest-subarray-sum"
+    },
+    {
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores"
+    },
+    {
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous"
+    },
+    {
+        "title": "Maximize the Confusion of an Exam",
+        "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam"
+    },
+    {
+        "title": "K Radius Subarray Averages",
+        "link": "https://leetcode.com/problems/k-radius-subarray-averages"
+    },
+    {
+        "title": "Maximum Fruits Harvested After at Most K Steps",
+        "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps"
+    },
+    {
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "link": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies"
+    },
+    {
+        "title": "Minimum Swaps to Group All 1's Together II",
+        "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii"
+    },
+    {
+        "title": "Find Substring With Given Hash Value",
+        "link": "https://leetcode.com/problems/find-substring-with-given-hash-value"
+    },
+    {
+        "title": "Minimum Consecutive Cards to Pick Up",
+        "link": "https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up"
+    },
+    {
+        "title": "Count Subarrays With Score Less Than K",
+        "link": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k"
+    },
+    {
+        "title": "Maximum Number of Robots Within Budget",
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget"
+    },
+    {
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks"
+    },
+    {
+        "title": "Longest Nice Subarray",
+        "link": "https://leetcode.com/problems/longest-nice-subarray"
+    },
+    {
+        "title": "Smallest Subarrays With Maximum Bitwise OR",
+        "link": "https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or"
+    },
+    {
+        "title": "Count Subarrays With Fixed Bounds",
+        "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+    },
+    {
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "link": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k"
+    },
+    {
+        "title": "Take K of Each Character From Left and Right",
+        "link": "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right"
+    },
+    {
+        "title": "Maximize the Minimum Powered City",
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+    },
+    {
+        "title": "Count the Number of Good Subarrays",
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subarrays"
+    },
+    {
+        "title": "Maximum Frequency Score of a Subarray",
+        "link": "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray"
+    },
+    {
+        "title": "Maximize Win From Two Segments",
+        "link": "https://leetcode.com/problems/maximize-win-from-two-segments"
+    },
+    {
+        "title": "Sliding Subarray Beauty",
+        "link": "https://leetcode.com/problems/sliding-subarray-beauty"
+    },
+    {
+        "title": "Find the Longest Semi-Repetitive Substring",
+        "link": "https://leetcode.com/problems/find-the-longest-semi-repetitive-substring"
+    },
+    {
+        "title": "Find the Longest Equal Subarray",
+        "link": "https://leetcode.com/problems/find-the-longest-equal-subarray"
+    },
+    {
+        "title": "Count Zero Request Servers",
+        "link": "https://leetcode.com/problems/count-zero-request-servers"
+    },
+    {
+        "title": "Count Complete Subarrays in an Array",
+        "link": "https://leetcode.com/problems/count-complete-subarrays-in-an-array"
+    },
+    {
+        "title": "Longest Even Odd Subarray With Threshold",
+        "link": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold"
+    },
+    {
+        "title": "Continuous Subarrays",
+        "link": "https://leetcode.com/problems/continuous-subarrays"
+    },
+    {
+        "title": "Length of the Longest Valid Substring",
+        "link": "https://leetcode.com/problems/length-of-the-longest-valid-substring"
+    },
+    {
+        "title": "Count Substrings Without Repeating Character",
+        "link": "https://leetcode.com/problems/count-substrings-without-repeating-character"
+    },
+    {
+        "title": "Maximum Beauty of an Array After Applying Operation",
+        "link": "https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation"
+    },
+    {
+        "title": "Maximum Sum of Almost Unique Subarray",
+        "link": "https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray"
+    },
+    {
+        "title": "Count of Sub-Multisets With Bounded Sum",
+        "link": "https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum"
+    },
+    {
+        "title": "Minimum Size Subarray in Infinite Array",
+        "link": "https://leetcode.com/problems/minimum-size-subarray-in-infinite-array"
+    },
+    {
+        "title": "Shortest and Lexicographically Smallest Beautiful String",
+        "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string"
+    },
+    {
+        "title": "Maximum Strong Pair XOR I",
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i"
+    },
+    {
+        "title": "Apply Operations to Maximize Frequency Score",
+        "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score"
+    },
+    {
+        "title": "Maximum Strong Pair XOR II",
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii"
+    },
+    {
+        "title": "Count Subarrays Where Max Element Appears at Least K Times",
+        "link": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times"
+    },
+    {
+        "title": "Count Complete Substrings",
+        "link": "https://leetcode.com/problems/count-complete-substrings"
+    },
+    {
+        "title": "Length of Longest Subarray With at Most K Frequency",
+        "link": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency"
+    },
+    {
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii"
+    },
+    {
+        "title": "Find Longest Special Substring That Occurs Thrice II",
+        "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii"
+    },
+    {
+        "title": "Find Longest Special Substring That Occurs Thrice I",
+        "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i"
+    },
+    {
+        "title": "Minimum Moves to Pick K Ones",
+        "link": "https://leetcode.com/problems/minimum-moves-to-pick-k-ones"
+    },
+    {
+        "title": "Find Pattern in Infinite Stream I",
+        "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-i"
+    },
+    {
+        "title": "Maximum Length Substring With Two Occurrences",
+        "link": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences"
+    },
+    {
+        "title": "Find Pattern in Infinite Stream II",
+        "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-ii"
+    },
+    {
+        "title": "Find the Median of the Uniqueness Array",
+        "link": "https://leetcode.com/problems/find-the-median-of-the-uniqueness-array"
+    },
+    {
+        "title": "Shortest Subarray With OR at Least K II",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii"
+    },
+    {
+        "title": "Shortest Subarray With OR at Least K I",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i"
+    },
+    {
+        "title": "Equalize Strings by Adding or Removing Characters at Ends",
+        "link": "https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends"
+    },
+    {
+        "title": "Alternating Groups I",
+        "link": "https://leetcode.com/problems/alternating-groups-i"
+    },
+    {
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i"
+    },
+    {
+        "title": "Count the Number of Substrings With Dominant Ones",
+        "link": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones"
+    },
+    {
+        "title": "Alternating Groups II",
+        "link": "https://leetcode.com/problems/alternating-groups-ii"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "gpu_id": 1,
+    "question": "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>user\nMark does a gig every other day for 2 weeks.  For each gig, he plays 3 songs.  2 of the songs are 5 minutes long and the last song is twice that long.  How many minutes did he play?<|im_end|>\n<|im_start|>assistant\n",
+    "correct_solutions": [
+        "To determine the total number of minutes Mark played over the 2 weeks, we need to follow these steps:\n\n1. **Calculate the number of gigs Mark performs:**\n   - There are 14 days in 2 weeks.\n   - Mark performs a gig every other day.\n   \\[\n   \\text{Number of gigs} = \\frac{14 \\text{ days}}{2 \\text{ days/gig}} = 7 \\text{ gigs}\n   \\]\n\n2. **Determine the total number of songs Mark plays in each gig:**\n   - Mark plays 3 songs per gig.\n\n3. **Calculate the duration of each gig:**\n   - 2 of the songs are 5 minutes long.\n   - The last song is twice as long as each of the other two songs.\n   \\[\n   \\text{Duration of each song} = 2 \\times 5 \\text{ minutes} = 10 \\text{ minutes}\n   \\]\n   - Total duration of the two 5-minute songs:\n   \\[\n   2 \\times 5 \\text{ minutes} = 10 \\text{ minutes}\n   \\]\n   - Total duration of the last song:\n   \\[\n   2 \\times 10 \\text{ minutes} = 20 \\text{ minutes}\n   \\]\n   - Total duration of each gig:\n   \\[\n   10 \\text{ minutes} + 10 \\text{ minutes} + 20 \\text{ minutes} = 40 \\text{ minutes}\n   \\]\n\n4. **Calculate the total number of minutes Mark plays over all gigs:**\n   - Total number of gigs is 7.\n   - Duration of each gig is 40 minutes.\n   \\[\n   \\text{Total minutes played} = 7 \\text{ gigs} \\times 40 \\text{ minutes/gig} = 280 \\text{ minutes}\n   \\]\n\nThus, the total number of minutes Mark played over the 2 weeks is \\(\\boxed{280}\\)."
+    ],
+    "num_correct": 1,
+    "total_attempts": 5120,
+    "ground_truth": "280"
+}

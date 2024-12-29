@@ -1,0 +1,638 @@
+[
+    {
+        "title": "Valid Parentheses",
+        "link": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+        "title": "Longest Valid Parentheses",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+    },
+    {
+        "title": "Trapping Rain Water",
+        "link": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+        "title": "Simplify Path",
+        "link": "https://leetcode.com/problems/simplify-path"
+    },
+    {
+        "title": "Largest Rectangle in Histogram",
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+    },
+    {
+        "title": "Maximal Rectangle",
+        "link": "https://leetcode.com/problems/maximal-rectangle"
+    },
+    {
+        "title": "Binary Tree Inorder Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-inorder-traversal"
+    },
+    {
+        "title": "Flatten Binary Tree to Linked List",
+        "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+    },
+    {
+        "title": "Reorder List",
+        "link": "https://leetcode.com/problems/reorder-list"
+    },
+    {
+        "title": "Binary Tree Preorder Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-preorder-traversal"
+    },
+    {
+        "title": "Binary Tree Postorder Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-postorder-traversal"
+    },
+    {
+        "title": "Evaluate Reverse Polish Notation",
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+    },
+    {
+        "title": "Min Stack",
+        "link": "https://leetcode.com/problems/min-stack"
+    },
+    {
+        "title": "Binary Search Tree Iterator",
+        "link": "https://leetcode.com/problems/binary-search-tree-iterator"
+    },
+    {
+        "title": "Basic Calculator",
+        "link": "https://leetcode.com/problems/basic-calculator"
+    },
+    {
+        "title": "Implement Stack using Queues",
+        "link": "https://leetcode.com/problems/implement-stack-using-queues"
+    },
+    {
+        "title": "Basic Calculator II",
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+    },
+    {
+        "title": "Implement Queue using Stacks",
+        "link": "https://leetcode.com/problems/implement-queue-using-stacks"
+    },
+    {
+        "title": "Palindrome Linked List",
+        "link": "https://leetcode.com/problems/palindrome-linked-list"
+    },
+    {
+        "title": "Verify Preorder Sequence in Binary Search Tree",
+        "link": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree"
+    },
+    {
+        "title": "Closest Binary Search Tree Value II",
+        "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii"
+    },
+    {
+        "title": "Remove Duplicate Letters",
+        "link": "https://leetcode.com/problems/remove-duplicate-letters"
+    },
+    {
+        "title": "Create Maximum Number",
+        "link": "https://leetcode.com/problems/create-maximum-number"
+    },
+    {
+        "title": "Verify Preorder Serialization of a Binary Tree",
+        "link": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree"
+    },
+    {
+        "title": "Flatten Nested List Iterator",
+        "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+    },
+    {
+        "title": "Nested List Weight Sum II",
+        "link": "https://leetcode.com/problems/nested-list-weight-sum-ii"
+    },
+    {
+        "title": "Mini Parser",
+        "link": "https://leetcode.com/problems/mini-parser"
+    },
+    {
+        "title": "Longest Absolute File Path",
+        "link": "https://leetcode.com/problems/longest-absolute-file-path"
+    },
+    {
+        "title": "Decode String",
+        "link": "https://leetcode.com/problems/decode-string"
+    },
+    {
+        "title": "Remove K Digits",
+        "link": "https://leetcode.com/problems/remove-k-digits"
+    },
+    {
+        "title": "Ternary Expression Parser",
+        "link": "https://leetcode.com/problems/ternary-expression-parser"
+    },
+    {
+        "title": "Add Two Numbers II",
+        "link": "https://leetcode.com/problems/add-two-numbers-ii"
+    },
+    {
+        "title": "132 Pattern",
+        "link": "https://leetcode.com/problems/132-pattern"
+    },
+    {
+        "title": "Find Permutation",
+        "link": "https://leetcode.com/problems/find-permutation"
+    },
+    {
+        "title": "Zuma Game",
+        "link": "https://leetcode.com/problems/zuma-game"
+    },
+    {
+        "title": "Next Greater Element I",
+        "link": "https://leetcode.com/problems/next-greater-element-i"
+    },
+    {
+        "title": "Next Greater Element II",
+        "link": "https://leetcode.com/problems/next-greater-element-ii"
+    },
+    {
+        "title": "Construct Binary Tree from String",
+        "link": "https://leetcode.com/problems/construct-binary-tree-from-string"
+    },
+    {
+        "title": "Shortest Unsorted Continuous Subarray",
+        "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray"
+    },
+    {
+        "title": "Tag Validator",
+        "link": "https://leetcode.com/problems/tag-validator"
+    },
+    {
+        "title": "Exclusive Time of Functions",
+        "link": "https://leetcode.com/problems/exclusive-time-of-functions"
+    },
+    {
+        "title": "Maximum Binary Tree",
+        "link": "https://leetcode.com/problems/maximum-binary-tree"
+    },
+    {
+        "title": "Valid Parenthesis String",
+        "link": "https://leetcode.com/problems/valid-parenthesis-string"
+    },
+    {
+        "title": "Baseball Game",
+        "link": "https://leetcode.com/problems/baseball-game"
+    },
+    {
+        "title": "Max Stack",
+        "link": "https://leetcode.com/problems/max-stack"
+    },
+    {
+        "title": "Number of Atoms",
+        "link": "https://leetcode.com/problems/number-of-atoms"
+    },
+    {
+        "title": "Asteroid Collision",
+        "link": "https://leetcode.com/problems/asteroid-collision"
+    },
+    {
+        "title": "Parse Lisp Expression",
+        "link": "https://leetcode.com/problems/parse-lisp-expression"
+    },
+    {
+        "title": "Daily Temperatures",
+        "link": "https://leetcode.com/problems/daily-temperatures"
+    },
+    {
+        "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list"
+    },
+    {
+        "title": "N-ary Tree Preorder Traversal",
+        "link": "https://leetcode.com/problems/n-ary-tree-preorder-traversal"
+    },
+    {
+        "title": "N-ary Tree Postorder Traversal",
+        "link": "https://leetcode.com/problems/n-ary-tree-postorder-traversal"
+    },
+    {
+        "title": "Max Chunks To Make Sorted II",
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii"
+    },
+    {
+        "title": "Max Chunks To Make Sorted",
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted"
+    },
+    {
+        "title": "Basic Calculator IV",
+        "link": "https://leetcode.com/problems/basic-calculator-iv"
+    },
+    {
+        "title": "Basic Calculator III",
+        "link": "https://leetcode.com/problems/basic-calculator-iii"
+    },
+    {
+        "title": "Backspace String Compare",
+        "link": "https://leetcode.com/problems/backspace-string-compare"
+    },
+    {
+        "title": "Car Fleet",
+        "link": "https://leetcode.com/problems/car-fleet"
+    },
+    {
+        "title": "Score of Parentheses",
+        "link": "https://leetcode.com/problems/score-of-parentheses"
+    },
+    {
+        "title": "Decoded String at Index",
+        "link": "https://leetcode.com/problems/decoded-string-at-index"
+    },
+    {
+        "title": "Maximum Frequency Stack",
+        "link": "https://leetcode.com/problems/maximum-frequency-stack"
+    },
+    {
+        "title": "Increasing Order Search Tree",
+        "link": "https://leetcode.com/problems/increasing-order-search-tree"
+    },
+    {
+        "title": "Online Stock Span",
+        "link": "https://leetcode.com/problems/online-stock-span"
+    },
+    {
+        "title": "Sum of Subarray Minimums",
+        "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+    },
+    {
+        "title": "Minimum Add to Make Parentheses Valid",
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid"
+    },
+    {
+        "title": "Stamping The Sequence",
+        "link": "https://leetcode.com/problems/stamping-the-sequence"
+    },
+    {
+        "title": "Validate Stack Sequences",
+        "link": "https://leetcode.com/problems/validate-stack-sequences"
+    },
+    {
+        "title": "Maximum Width Ramp",
+        "link": "https://leetcode.com/problems/maximum-width-ramp"
+    },
+    {
+        "title": "Odd Even Jump",
+        "link": "https://leetcode.com/problems/odd-even-jump"
+    },
+    {
+        "title": "Check If Word Is Valid After Substitutions",
+        "link": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions"
+    },
+    {
+        "title": "Clumsy Factorial",
+        "link": "https://leetcode.com/problems/clumsy-factorial"
+    },
+    {
+        "title": "Construct Binary Search Tree from Preorder Traversal",
+        "link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal"
+    },
+    {
+        "title": "Number of Valid Subarrays",
+        "link": "https://leetcode.com/problems/number-of-valid-subarrays"
+    },
+    {
+        "title": "Next Greater Node In Linked List",
+        "link": "https://leetcode.com/problems/next-greater-node-in-linked-list"
+    },
+    {
+        "title": "Remove Outermost Parentheses",
+        "link": "https://leetcode.com/problems/remove-outermost-parentheses"
+    },
+    {
+        "title": "Remove All Adjacent Duplicates In String",
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+    },
+    {
+        "title": "Two Sum BSTs",
+        "link": "https://leetcode.com/problems/two-sum-bsts"
+    },
+    {
+        "title": "Smallest Subsequence of Distinct Characters",
+        "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
+    },
+    {
+        "title": "Brace Expansion II",
+        "link": "https://leetcode.com/problems/brace-expansion-ii"
+    },
+    {
+        "title": "Parsing A Boolean Expression",
+        "link": "https://leetcode.com/problems/parsing-a-boolean-expression"
+    },
+    {
+        "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+        "link": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings"
+    },
+    {
+        "title": "Longest Well-Performing Interval",
+        "link": "https://leetcode.com/problems/longest-well-performing-interval"
+    },
+    {
+        "title": "Minimum Cost Tree From Leaf Values",
+        "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
+    },
+    {
+        "title": "Dinner Plate Stacks",
+        "link": "https://leetcode.com/problems/dinner-plate-stacks"
+    },
+    {
+        "title": "Reverse Substrings Between Each Pair of Parentheses",
+        "link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses"
+    },
+    {
+        "title": "Number of Visible People in a Queue",
+        "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue"
+    },
+    {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+    },
+    {
+        "title": "Minimum Deletions to Make Array Beautiful",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful"
+    },
+    {
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses"
+    },
+    {
+        "title": "Print Immutable Linked List in Reverse",
+        "link": "https://leetcode.com/problems/print-immutable-linked-list-in-reverse"
+    },
+    {
+        "title": "Design a Stack With Increment Operation",
+        "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation"
+    },
+    {
+        "title": "Build an Array With Stack Operations",
+        "link": "https://leetcode.com/problems/build-an-array-with-stack-operations"
+    },
+    {
+        "title": "Final Prices With a Special Discount in a Shop",
+        "link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop"
+    },
+    {
+        "title": "Design Browser History",
+        "link": "https://leetcode.com/problems/design-browser-history"
+    },
+    {
+        "title": "Count Submatrices With All Ones",
+        "link": "https://leetcode.com/problems/count-submatrices-with-all-ones"
+    },
+    {
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+    },
+    {
+        "title": "Minimum Insertions to Balance a Parentheses String",
+        "link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string"
+    },
+    {
+        "title": "Make The String Great",
+        "link": "https://leetcode.com/problems/make-the-string-great"
+    },
+    {
+        "title": "Shortest Subarray to be Removed to Make Array Sorted",
+        "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted"
+    },
+    {
+        "title": "Crawler Log Folder",
+        "link": "https://leetcode.com/problems/crawler-log-folder"
+    },
+    {
+        "title": "Binary Search Tree Iterator II",
+        "link": "https://leetcode.com/problems/binary-search-tree-iterator-ii"
+    },
+    {
+        "title": "Build Binary Expression Tree From Infix Expression",
+        "link": "https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression"
+    },
+    {
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses"
+    },
+    {
+        "title": "Minimum Deletions to Make String Balanced",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced"
+    },
+    {
+        "title": "Design an Expression Tree With Evaluate Function",
+        "link": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function"
+    },
+    {
+        "title": "Find the Most Competitive Subsequence",
+        "link": "https://leetcode.com/problems/find-the-most-competitive-subsequence"
+    },
+    {
+        "title": "Number of Students Unable to Eat Lunch",
+        "link": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch"
+    },
+    {
+        "title": "Maximum Score From Removing Substrings",
+        "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+    },
+    {
+        "title": "Car Fleet II",
+        "link": "https://leetcode.com/problems/car-fleet-ii"
+    },
+    {
+        "title": "Design Most Recently Used Queue",
+        "link": "https://leetcode.com/problems/design-most-recently-used-queue"
+    },
+    {
+        "title": "Buildings With an Ocean View",
+        "link": "https://leetcode.com/problems/buildings-with-an-ocean-view"
+    },
+    {
+        "title": "Maximum Score of a Good Subarray",
+        "link": "https://leetcode.com/problems/maximum-score-of-a-good-subarray"
+    },
+    {
+        "title": "Maximum Subarray Min-Product",
+        "link": "https://leetcode.com/problems/maximum-subarray-min-product"
+    },
+    {
+        "title": "Minimum Cost to Change the Final Value of Expression",
+        "link": "https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression"
+    },
+    {
+        "title": "Jump Game VIII",
+        "link": "https://leetcode.com/problems/jump-game-viii"
+    },
+    {
+        "title": "Maximum of Minimum Values in All Subarrays",
+        "link": "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays"
+    },
+    {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced"
+    },
+    {
+        "title": "The Number of Weak Characters in the Game",
+        "link": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game"
+    },
+    {
+        "title": "The Score of Students Solving Math Expression",
+        "link": "https://leetcode.com/problems/the-score-of-students-solving-math-expression"
+    },
+    {
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter"
+    },
+    {
+        "title": "Check if a Parentheses String Can Be Valid",
+        "link": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid"
+    },
+    {
+        "title": "Sum of Subarray Ranges",
+        "link": "https://leetcode.com/problems/sum-of-subarray-ranges"
+    },
+    {
+        "title": "Maximum Twin Sum of a Linked List",
+        "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list"
+    },
+    {
+        "title": "Replace Non-Coprime Numbers in Array",
+        "link": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array"
+    },
+    {
+        "title": "Count Collisions on a Road",
+        "link": "https://leetcode.com/problems/count-collisions-on-a-road"
+    },
+    {
+        "title": "Sum of Total Strength of Wizards",
+        "link": "https://leetcode.com/problems/sum-of-total-strength-of-wizards"
+    },
+    {
+        "title": "Steps to Make Array Non-decreasing",
+        "link": "https://leetcode.com/problems/steps-to-make-array-non-decreasing"
+    },
+    {
+        "title": "Design a Text Editor",
+        "link": "https://leetcode.com/problems/design-a-text-editor"
+    },
+    {
+        "title": "Design Video Sharing Platform",
+        "link": "https://leetcode.com/problems/design-video-sharing-platform"
+    },
+    {
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold"
+    },
+    {
+        "title": "Number of People That Can Be Seen in a Grid",
+        "link": "https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid"
+    },
+    {
+        "title": "Construct Smallest Number From DI String",
+        "link": "https://leetcode.com/problems/construct-smallest-number-from-di-string"
+    },
+    {
+        "title": "Removing Stars From a String",
+        "link": "https://leetcode.com/problems/removing-stars-from-a-string"
+    },
+    {
+        "title": "Finding the Number of Visible Mountains",
+        "link": "https://leetcode.com/problems/finding-the-number-of-visible-mountains"
+    },
+    {
+        "title": "Maximum Number of Books You Can Take",
+        "link": "https://leetcode.com/problems/maximum-number-of-books-you-can-take"
+    },
+    {
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+    },
+    {
+        "title": "Next Greater Element IV",
+        "link": "https://leetcode.com/problems/next-greater-element-iv"
+    },
+    {
+        "title": "Remove Nodes From Linked List",
+        "link": "https://leetcode.com/problems/remove-nodes-from-linked-list"
+    },
+    {
+        "title": "Minimum Time to Complete All Tasks",
+        "link": "https://leetcode.com/problems/minimum-time-to-complete-all-tasks"
+    },
+    {
+        "title": "Minimum Number of Visited Cells in a Grid",
+        "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+    },
+    {
+        "title": "Minimum Additions to Make Valid String",
+        "link": "https://leetcode.com/problems/minimum-additions-to-make-valid-string"
+    },
+    {
+        "title": "Minimum String Length After Removing Substrings",
+        "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings"
+    },
+    {
+        "title": "Maximum Sum Queries",
+        "link": "https://leetcode.com/problems/maximum-sum-queries"
+    },
+    {
+        "title": "Robot Collisions",
+        "link": "https://leetcode.com/problems/robot-collisions"
+    },
+    {
+        "title": "Double a Number Represented as a Linked List",
+        "link": "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list"
+    },
+    {
+        "title": "Maximum Elegance of a K-Length Subsequence",
+        "link": "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence"
+    },
+    {
+        "title": "Is Array a Preorder of Some \u200cBinary Tree",
+        "link": "https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree"
+    },
+    {
+        "title": "Apply Operations to Maximize Score",
+        "link": "https://leetcode.com/problems/apply-operations-to-maximize-score"
+    },
+    {
+        "title": "Maximal Range That Each Element Is Maximum in It",
+        "link": "https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it"
+    },
+    {
+        "title": "Beautiful Towers II",
+        "link": "https://leetcode.com/problems/beautiful-towers-ii"
+    },
+    {
+        "title": "Beautiful Towers I",
+        "link": "https://leetcode.com/problems/beautiful-towers-i"
+    },
+    {
+        "title": "Find Building Where Alice and Bob Can Meet",
+        "link": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet"
+    },
+    {
+        "title": "Find Maximum Non-decreasing Array Length",
+        "link": "https://leetcode.com/problems/find-maximum-non-decreasing-array-length"
+    },
+    {
+        "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "link": "https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum"
+    },
+    {
+        "title": "Lexicographically Minimum String After Removing Stars",
+        "link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars"
+    },
+    {
+        "title": "Clear Digits",
+        "link": "https://leetcode.com/problems/clear-digits"
+    },
+    {
+        "title": "Minimum Operations to Make Array Equal to Target",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target"
+    },
+    {
+        "title": "Maximum Array Hopping Score I",
+        "link": "https://leetcode.com/problems/maximum-array-hopping-score-i"
+    },
+    {
+        "title": "Maximum Array Hopping Score II",
+        "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii"
+    }
+]

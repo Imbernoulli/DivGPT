@@ -1,0 +1,590 @@
+[
+    {
+        "title": "Clone Graph",
+        "link": "https://leetcode.com/problems/clone-graph"
+    },
+    {
+        "title": "Course Schedule",
+        "link": "https://leetcode.com/problems/course-schedule"
+    },
+    {
+        "title": "Course Schedule II",
+        "link": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+        "title": "Graph Valid Tree",
+        "link": "https://leetcode.com/problems/graph-valid-tree"
+    },
+    {
+        "title": "Alien Dictionary",
+        "link": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+        "title": "Find the Celebrity",
+        "link": "https://leetcode.com/problems/find-the-celebrity"
+    },
+    {
+        "title": "Minimum Height Trees",
+        "link": "https://leetcode.com/problems/minimum-height-trees"
+    },
+    {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+    },
+    {
+        "title": "Longest Increasing Path in a Matrix",
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+    },
+    {
+        "title": "Reconstruct Itinerary",
+        "link": "https://leetcode.com/problems/reconstruct-itinerary"
+    },
+    {
+        "title": "Evaluate Division",
+        "link": "https://leetcode.com/problems/evaluate-division"
+    },
+    {
+        "title": "Sequence Reconstruction",
+        "link": "https://leetcode.com/problems/sequence-reconstruction"
+    },
+    {
+        "title": "The Maze III",
+        "link": "https://leetcode.com/problems/the-maze-iii"
+    },
+    {
+        "title": "The Maze II",
+        "link": "https://leetcode.com/problems/the-maze-ii"
+    },
+    {
+        "title": "All Paths from Source Lead to Destination",
+        "link": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination"
+    },
+    {
+        "title": "Number of Provinces",
+        "link": "https://leetcode.com/problems/number-of-provinces"
+    },
+    {
+        "title": "Design Excel Sum Formula",
+        "link": "https://leetcode.com/problems/design-excel-sum-formula"
+    },
+    {
+        "title": "Redundant Connection",
+        "link": "https://leetcode.com/problems/redundant-connection"
+    },
+    {
+        "title": "Redundant Connection II",
+        "link": "https://leetcode.com/problems/redundant-connection-ii"
+    },
+    {
+        "title": "Network Delay Time",
+        "link": "https://leetcode.com/problems/network-delay-time"
+    },
+    {
+        "title": "Cracking the Safe",
+        "link": "https://leetcode.com/problems/cracking-the-safe"
+    },
+    {
+        "title": "Couples Holding Hands",
+        "link": "https://leetcode.com/problems/couples-holding-hands"
+    },
+    {
+        "title": "Is Graph Bipartite?",
+        "link": "https://leetcode.com/problems/is-graph-bipartite"
+    },
+    {
+        "title": "Cheapest Flights Within K Stops",
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    },
+    {
+        "title": "All Paths From Source to Target",
+        "link": "https://leetcode.com/problems/all-paths-from-source-to-target"
+    },
+    {
+        "title": "Find Eventual Safe States",
+        "link": "https://leetcode.com/problems/find-eventual-safe-states"
+    },
+    {
+        "title": "Sum of Distances in Tree",
+        "link": "https://leetcode.com/problems/sum-of-distances-in-tree"
+    },
+    {
+        "title": "Keys and Rooms",
+        "link": "https://leetcode.com/problems/keys-and-rooms"
+    },
+    {
+        "title": "Shortest Path Visiting All Nodes",
+        "link": "https://leetcode.com/problems/shortest-path-visiting-all-nodes"
+    },
+    {
+        "title": "Loud and Rich",
+        "link": "https://leetcode.com/problems/loud-and-rich"
+    },
+    {
+        "title": "Reachable Nodes In Subdivided Graph",
+        "link": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph"
+    },
+    {
+        "title": "Possible Bipartition",
+        "link": "https://leetcode.com/problems/possible-bipartition"
+    },
+    {
+        "title": "Cat and Mouse",
+        "link": "https://leetcode.com/problems/cat-and-mouse"
+    },
+    {
+        "title": "Minimize Malware Spread",
+        "link": "https://leetcode.com/problems/minimize-malware-spread"
+    },
+    {
+        "title": "Minimize Malware Spread II",
+        "link": "https://leetcode.com/problems/minimize-malware-spread-ii"
+    },
+    {
+        "title": "Most Stones Removed with Same Row or Column",
+        "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column"
+    },
+    {
+        "title": "Satisfiability of Equality Equations",
+        "link": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+    },
+    {
+        "title": "Find the Town Judge",
+        "link": "https://leetcode.com/problems/find-the-town-judge"
+    },
+    {
+        "title": "Connecting Cities With Minimum Cost",
+        "link": "https://leetcode.com/problems/connecting-cities-with-minimum-cost"
+    },
+    {
+        "title": "Parallel Courses",
+        "link": "https://leetcode.com/problems/parallel-courses"
+    },
+    {
+        "title": "Flower Planting With No Adjacent",
+        "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent"
+    },
+    {
+        "title": "Optimize Water Distribution in a Village",
+        "link": "https://leetcode.com/problems/optimize-water-distribution-in-a-village"
+    },
+    {
+        "title": "Tree Diameter",
+        "link": "https://leetcode.com/problems/tree-diameter"
+    },
+    {
+        "title": "Shortest Path with Alternating Colors",
+        "link": "https://leetcode.com/problems/shortest-path-with-alternating-colors"
+    },
+    {
+        "title": "Rank Transform of a Matrix",
+        "link": "https://leetcode.com/problems/rank-transform-of-a-matrix"
+    },
+    {
+        "title": "Validate Binary Tree Nodes",
+        "link": "https://leetcode.com/problems/validate-binary-tree-nodes"
+    },
+    {
+        "title": "Critical Connections in a Network",
+        "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+    },
+    {
+        "title": "Sort Items by Groups Respecting Dependencies",
+        "link": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies"
+    },
+    {
+        "title": "Count Ways to Build Rooms in an Ant Colony",
+        "link": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony"
+    },
+    {
+        "title": "Path with Maximum Probability",
+        "link": "https://leetcode.com/problems/path-with-maximum-probability"
+    },
+    {
+        "title": "Distance to a Cycle in Undirected Graph",
+        "link": "https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph"
+    },
+    {
+        "title": "Maximum Candies You Can Get from Boxes",
+        "link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
+    },
+    {
+        "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+        "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph"
+    },
+    {
+        "title": "Get Watched Videos by Your Friends",
+        "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends"
+    },
+    {
+        "title": "Number of Operations to Make Network Connected",
+        "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+    },
+    {
+        "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "link": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance"
+    },
+    {
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+    },
+    {
+        "title": "Frog Position After T Seconds",
+        "link": "https://leetcode.com/problems/frog-position-after-t-seconds"
+    },
+    {
+        "title": "Course Schedule IV",
+        "link": "https://leetcode.com/problems/course-schedule-iv"
+    },
+    {
+        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+    },
+    {
+        "title": "Parallel Courses II",
+        "link": "https://leetcode.com/problems/parallel-courses-ii"
+    },
+    {
+        "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+        "link": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree"
+    },
+    {
+        "title": "Minimum Number of Vertices to Reach All Nodes",
+        "link": "https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes"
+    },
+    {
+        "title": "The Most Similar Path in a Graph",
+        "link": "https://leetcode.com/problems/the-most-similar-path-in-a-graph"
+    },
+    {
+        "title": "Strange Printer II",
+        "link": "https://leetcode.com/problems/strange-printer-ii"
+    },
+    {
+        "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+        "link": "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable"
+    },
+    {
+        "title": "Min Cost to Connect All Points",
+        "link": "https://leetcode.com/problems/min-cost-to-connect-all-points"
+    },
+    {
+        "title": "Cat and Mouse II",
+        "link": "https://leetcode.com/problems/cat-and-mouse-ii"
+    },
+    {
+        "title": "Maximal Network Rank",
+        "link": "https://leetcode.com/problems/maximal-network-rank"
+    },
+    {
+        "title": "Checking Existence of Edge Length Limited Paths",
+        "link": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths"
+    },
+    {
+        "title": "Number Of Ways To Reconstruct A Tree",
+        "link": "https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree"
+    },
+    {
+        "title": "Checking Existence of Edge Length Limited Paths II",
+        "link": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii"
+    },
+    {
+        "title": "Minimum Degree of a Connected Trio in a Graph",
+        "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph"
+    },
+    {
+        "title": "Count Pairs Of Nodes",
+        "link": "https://leetcode.com/problems/count-pairs-of-nodes"
+    },
+    {
+        "title": "Number of Restricted Paths From First to Last Node",
+        "link": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node"
+    },
+    {
+        "title": "Find Center of Star Graph",
+        "link": "https://leetcode.com/problems/find-center-of-star-graph"
+    },
+    {
+        "title": "Shortest Path in a Hidden Grid",
+        "link": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid"
+    },
+    {
+        "title": "Minimum Path Cost in a Hidden Grid",
+        "link": "https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid"
+    },
+    {
+        "title": "Maximum Number of Accepted Invitations",
+        "link": "https://leetcode.com/problems/maximum-number-of-accepted-invitations"
+    },
+    {
+        "title": "Largest Color Value in a Directed Graph",
+        "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph"
+    },
+    {
+        "title": "Maximum Cost of Trip With K Highways",
+        "link": "https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways"
+    },
+    {
+        "title": "Minimum Cost to Reach Destination in Time",
+        "link": "https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time"
+    },
+    {
+        "title": "Jump Game VIII",
+        "link": "https://leetcode.com/problems/jump-game-viii"
+    },
+    {
+        "title": "Check for Contradictions in Equations",
+        "link": "https://leetcode.com/problems/check-for-contradictions-in-equations"
+    },
+    {
+        "title": "Number of Ways to Arrive at Destination",
+        "link": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination"
+    },
+    {
+        "title": "Find if Path Exists in Graph",
+        "link": "https://leetcode.com/problems/find-if-path-exists-in-graph"
+    },
+    {
+        "title": "The Time When the Network Becomes Idle",
+        "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle"
+    },
+    {
+        "title": "Second Minimum Time to Reach Destination",
+        "link": "https://leetcode.com/problems/second-minimum-time-to-reach-destination"
+    },
+    {
+        "title": "Parallel Courses III",
+        "link": "https://leetcode.com/problems/parallel-courses-iii"
+    },
+    {
+        "title": "Maximum Path Quality of a Graph",
+        "link": "https://leetcode.com/problems/maximum-path-quality-of-a-graph"
+    },
+    {
+        "title": "Process Restricted Friend Requests",
+        "link": "https://leetcode.com/problems/process-restricted-friend-requests"
+    },
+    {
+        "title": "Valid Arrangement of Pairs",
+        "link": "https://leetcode.com/problems/valid-arrangement-of-pairs"
+    },
+    {
+        "title": "Detonate the Maximum Bombs",
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+    },
+    {
+        "title": "Find All People With Secret",
+        "link": "https://leetcode.com/problems/find-all-people-with-secret"
+    },
+    {
+        "title": "Paths in Maze That Lead to Same Room",
+        "link": "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room"
+    },
+    {
+        "title": "Find All Possible Recipes from Given Supplies",
+        "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+    },
+    {
+        "title": "Minimum Cost to Reach City With Discounts",
+        "link": "https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts"
+    },
+    {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting"
+    },
+    {
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "link": "https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix"
+    },
+    {
+        "title": "Minimum Weighted Subgraph With the Required Paths",
+        "link": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths"
+    },
+    {
+        "title": "Maximum Score of a Node Sequence",
+        "link": "https://leetcode.com/problems/maximum-score-of-a-node-sequence"
+    },
+    {
+        "title": "Longest Path With Different Adjacent Characters",
+        "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters"
+    },
+    {
+        "title": "Minimum Obstacle Removal to Reach Corner",
+        "link": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner"
+    },
+    {
+        "title": "Maximum Total Importance of Roads",
+        "link": "https://leetcode.com/problems/maximum-total-importance-of-roads"
+    },
+    {
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph"
+    },
+    {
+        "title": "Number of Increasing Paths in a Grid",
+        "link": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid"
+    },
+    {
+        "title": "Find Closest Node to Given Two Nodes",
+        "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes"
+    },
+    {
+        "title": "Longest Cycle in a Graph",
+        "link": "https://leetcode.com/problems/longest-cycle-in-a-graph"
+    },
+    {
+        "title": "Reachable Nodes With Restrictions",
+        "link": "https://leetcode.com/problems/reachable-nodes-with-restrictions"
+    },
+    {
+        "title": "Node With Highest Edge Score",
+        "link": "https://leetcode.com/problems/node-with-highest-edge-score"
+    },
+    {
+        "title": "Build a Matrix With Conditions",
+        "link": "https://leetcode.com/problems/build-a-matrix-with-conditions"
+    },
+    {
+        "title": "Number of Good Paths",
+        "link": "https://leetcode.com/problems/number-of-good-paths"
+    },
+    {
+        "title": "Minimize Maximum Value in a Grid",
+        "link": "https://leetcode.com/problems/minimize-maximum-value-in-a-grid"
+    },
+    {
+        "title": "Most Profitable Path in a Tree",
+        "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree"
+    },
+    {
+        "title": "Minimum Fuel Cost to Report to the Capital",
+        "link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital"
+    },
+    {
+        "title": "Minimum Score of a Path Between Two Cities",
+        "link": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities"
+    },
+    {
+        "title": "Divide Nodes Into the Maximum Number of Groups",
+        "link": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups"
+    },
+    {
+        "title": "Maximum Star Sum of a Graph",
+        "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph"
+    },
+    {
+        "title": "Add Edges to Make Degrees of All Nodes Even",
+        "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even"
+    },
+    {
+        "title": "Minimum Cost to Buy Apples",
+        "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples"
+    },
+    {
+        "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+        "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees"
+    },
+    {
+        "title": "Shortest Cycle in a Graph",
+        "link": "https://leetcode.com/problems/shortest-cycle-in-a-graph"
+    },
+    {
+        "title": "Design Graph With Shortest Path Calculator",
+        "link": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator"
+    },
+    {
+        "title": "Minimum Cost of a Path With Special Roads",
+        "link": "https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads"
+    },
+    {
+        "title": "Minimum Time to Visit a Cell In a Grid",
+        "link": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid"
+    },
+    {
+        "title": "Collect Coins in a Tree",
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree"
+    },
+    {
+        "title": "Minimize the Total Price of the Trips",
+        "link": "https://leetcode.com/problems/minimize-the-total-price-of-the-trips"
+    },
+    {
+        "title": "Count the Number of Complete Components",
+        "link": "https://leetcode.com/problems/count-the-number-of-complete-components"
+    },
+    {
+        "title": "Modify Graph Edge Weights",
+        "link": "https://leetcode.com/problems/modify-graph-edge-weights"
+    },
+    {
+        "title": "Find Shortest Path with K Hops",
+        "link": "https://leetcode.com/problems/find-shortest-path-with-k-hops"
+    },
+    {
+        "title": "Find the Closest Marked Node",
+        "link": "https://leetcode.com/problems/find-the-closest-marked-node"
+    },
+    {
+        "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+        "link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree"
+    },
+    {
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+    },
+    {
+        "title": "Count Visited Nodes in a Directed Graph",
+        "link": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph"
+    },
+    {
+        "title": "Find Champion II",
+        "link": "https://leetcode.com/problems/find-champion-ii"
+    },
+    {
+        "title": "Number of Possible Sets of Closing Branches",
+        "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches"
+    },
+    {
+        "title": "Minimum Cost to Convert String I",
+        "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-i"
+    },
+    {
+        "title": "Minimum Cost to Convert String II",
+        "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii"
+    },
+    {
+        "title": "Count the Number of Houses at a Certain Distance I",
+        "link": "https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i"
+    },
+    {
+        "title": "Count the Number of Houses at a Certain Distance II",
+        "link": "https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii"
+    },
+    {
+        "title": "Minimum Cost Walk in Weighted Graph",
+        "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph"
+    },
+    {
+        "title": "Find Edges in Shortest Paths",
+        "link": "https://leetcode.com/problems/find-edges-in-shortest-paths"
+    },
+    {
+        "title": "Minimum Time to Visit Disappearing Nodes",
+        "link": "https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes"
+    },
+    {
+        "title": "Find Minimum Diameter After Merging Two Trees",
+        "link": "https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees"
+    },
+    {
+        "title": "Shortest Distance After Road Addition Queries II",
+        "link": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii"
+    },
+    {
+        "title": "Shortest Distance After Road Addition Queries I",
+        "link": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i"
+    },
+    {
+        "title": "Time Taken to Mark All Nodes",
+        "link": "https://leetcode.com/problems/time-taken-to-mark-all-nodes"
+    }
+]

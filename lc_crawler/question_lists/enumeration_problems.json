@@ -1,0 +1,354 @@
+[
+    {
+        "title": "Count Primes",
+        "link": "https://leetcode.com/problems/count-primes"
+    },
+    {
+        "title": "Largest Palindrome Product",
+        "link": "https://leetcode.com/problems/largest-palindrome-product"
+    },
+    {
+        "title": "Next Closest Time",
+        "link": "https://leetcode.com/problems/next-closest-time"
+    },
+    {
+        "title": "Similar RGB Color",
+        "link": "https://leetcode.com/problems/similar-rgb-color"
+    },
+    {
+        "title": "Ambiguous Coordinates",
+        "link": "https://leetcode.com/problems/ambiguous-coordinates"
+    },
+    {
+        "title": "Consecutive Numbers Sum",
+        "link": "https://leetcode.com/problems/consecutive-numbers-sum"
+    },
+    {
+        "title": "Longest Mountain in Array",
+        "link": "https://leetcode.com/problems/longest-mountain-in-array"
+    },
+    {
+        "title": "Reordered Power of 2",
+        "link": "https://leetcode.com/problems/reordered-power-of-2"
+    },
+    {
+        "title": "Super Palindromes",
+        "link": "https://leetcode.com/problems/super-palindromes"
+    },
+    {
+        "title": "Largest Time for Given Digits",
+        "link": "https://leetcode.com/problems/largest-time-for-given-digits"
+    },
+    {
+        "title": "Powerful Integers",
+        "link": "https://leetcode.com/problems/powerful-integers"
+    },
+    {
+        "title": "Sequential Digits",
+        "link": "https://leetcode.com/problems/sequential-digits"
+    },
+    {
+        "title": "Sum of Numbers With Units Digit K",
+        "link": "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k"
+    },
+    {
+        "title": "Greatest English Letter in Upper and Lower Case",
+        "link": "https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case"
+    },
+    {
+        "title": "Count Good Triplets",
+        "link": "https://leetcode.com/problems/count-good-triplets"
+    },
+    {
+        "title": "Detect Pattern of Length M Repeated K or More Times",
+        "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times"
+    },
+    {
+        "title": "Maximum Number of Achievable Transfer Requests",
+        "link": "https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests"
+    },
+    {
+        "title": "Coordinate With Maximum Network Quality",
+        "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality"
+    },
+    {
+        "title": "Count Subtrees With Max Distance Between Cities",
+        "link": "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities"
+    },
+    {
+        "title": "Count Substrings That Differ by One Character",
+        "link": "https://leetcode.com/problems/count-substrings-that-differ-by-one-character"
+    },
+    {
+        "title": "Lexicographically Smallest String After Applying Operations",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations"
+    },
+    {
+        "title": "Sum of All Subset XOR Totals",
+        "link": "https://leetcode.com/problems/sum-of-all-subset-xor-totals"
+    },
+    {
+        "title": "Count Square Sum Triples",
+        "link": "https://leetcode.com/problems/count-square-sum-triples"
+    },
+    {
+        "title": "Minimum Time For K Virus Variants to Spread",
+        "link": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread"
+    },
+    {
+        "title": "Check if Move is Legal",
+        "link": "https://leetcode.com/problems/check-if-move-is-legal"
+    },
+    {
+        "title": "Three Divisors",
+        "link": "https://leetcode.com/problems/three-divisors"
+    },
+    {
+        "title": "Count Special Quadruplets",
+        "link": "https://leetcode.com/problems/count-special-quadruplets"
+    },
+    {
+        "title": "Maximum Number of Ways to Partition an Array",
+        "link": "https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array"
+    },
+    {
+        "title": "Longest Subsequence Repeated k Times",
+        "link": "https://leetcode.com/problems/longest-subsequence-repeated-k-times"
+    },
+    {
+        "title": "Smallest Greater Multiple Made of Two Digits",
+        "link": "https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits"
+    },
+    {
+        "title": "Check if Word Can Be Placed In Crossword",
+        "link": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword"
+    },
+    {
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets"
+    },
+    {
+        "title": "Next Greater Numerically Balanced Number",
+        "link": "https://leetcode.com/problems/next-greater-numerically-balanced-number"
+    },
+    {
+        "title": "Sum of k-Mirror Numbers",
+        "link": "https://leetcode.com/problems/sum-of-k-mirror-numbers"
+    },
+    {
+        "title": "Finding 3-Digit Even Numbers",
+        "link": "https://leetcode.com/problems/finding-3-digit-even-numbers"
+    },
+    {
+        "title": "Recover the Original Array",
+        "link": "https://leetcode.com/problems/recover-the-original-array"
+    },
+    {
+        "title": "Minimum Cost to Set Cooking Time",
+        "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time"
+    },
+    {
+        "title": "Maximum Good People Based on Statements",
+        "link": "https://leetcode.com/problems/maximum-good-people-based-on-statements"
+    },
+    {
+        "title": "Removing Minimum Number of Magic Beans",
+        "link": "https://leetcode.com/problems/removing-minimum-number-of-magic-beans"
+    },
+    {
+        "title": "Maximum Points in an Archery Competition",
+        "link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition"
+    },
+    {
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression"
+    },
+    {
+        "title": "Count Lattice Points Inside a Circle",
+        "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle"
+    },
+    {
+        "title": "Remove Digit From Number to Maximize Result",
+        "link": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result"
+    },
+    {
+        "title": "K Divisible Elements Subarrays",
+        "link": "https://leetcode.com/problems/k-divisible-elements-subarrays"
+    },
+    {
+        "title": "Number of Ways to Buy Pens and Pencils",
+        "link": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils"
+    },
+    {
+        "title": "Maximum Score of a Node Sequence",
+        "link": "https://leetcode.com/problems/maximum-score-of-a-node-sequence"
+    },
+    {
+        "title": "Naming a Company",
+        "link": "https://leetcode.com/problems/naming-a-company"
+    },
+    {
+        "title": "Number of Arithmetic Triplets",
+        "link": "https://leetcode.com/problems/number-of-arithmetic-triplets"
+    },
+    {
+        "title": "Maximum Rows Covered by Columns",
+        "link": "https://leetcode.com/problems/maximum-rows-covered-by-columns"
+    },
+    {
+        "title": "Number of Common Factors",
+        "link": "https://leetcode.com/problems/number-of-common-factors"
+    },
+    {
+        "title": "Number of Valid Clock Times",
+        "link": "https://leetcode.com/problems/number-of-valid-clock-times"
+    },
+    {
+        "title": "Create Components With Same Value",
+        "link": "https://leetcode.com/problems/create-components-with-same-value"
+    },
+    {
+        "title": "Sum of Number and Its Reverse",
+        "link": "https://leetcode.com/problems/sum-of-number-and-its-reverse"
+    },
+    {
+        "title": "Closest Fair Integer",
+        "link": "https://leetcode.com/problems/closest-fair-integer"
+    },
+    {
+        "title": "Form Smallest Number From Two Digit Arrays",
+        "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays"
+    },
+    {
+        "title": "Count Increasing Quadruplets",
+        "link": "https://leetcode.com/problems/count-increasing-quadruplets"
+    },
+    {
+        "title": "Maximum Strength of a Group",
+        "link": "https://leetcode.com/problems/maximum-strength-of-a-group"
+    },
+    {
+        "title": "Collecting Chocolates",
+        "link": "https://leetcode.com/problems/collecting-chocolates"
+    },
+    {
+        "title": "Sum of Squares of Special Elements",
+        "link": "https://leetcode.com/problems/sum-of-squares-of-special-elements"
+    },
+    {
+        "title": "Longest Alternating Subarray",
+        "link": "https://leetcode.com/problems/longest-alternating-subarray"
+    },
+    {
+        "title": "Prime Pairs With Target Sum",
+        "link": "https://leetcode.com/problems/prime-pairs-with-target-sum"
+    },
+    {
+        "title": "Shortest String That Contains Three Strings",
+        "link": "https://leetcode.com/problems/shortest-string-that-contains-three-strings"
+    },
+    {
+        "title": "Number of Black Blocks",
+        "link": "https://leetcode.com/problems/number-of-black-blocks"
+    },
+    {
+        "title": "Count Symmetric Integers",
+        "link": "https://leetcode.com/problems/count-symmetric-integers"
+    },
+    {
+        "title": "Minimum Operations to Make a Special Number",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-a-special-number"
+    },
+    {
+        "title": "Happy Students",
+        "link": "https://leetcode.com/problems/happy-students"
+    },
+    {
+        "title": "Minimum Operations to Maximize Last Elements in Arrays",
+        "link": "https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays"
+    },
+    {
+        "title": "Distribute Candies Among Children I",
+        "link": "https://leetcode.com/problems/distribute-candies-among-children-i"
+    },
+    {
+        "title": "Distribute Candies Among Children II",
+        "link": "https://leetcode.com/problems/distribute-candies-among-children-ii"
+    },
+    {
+        "title": "Count Beautiful Substrings I",
+        "link": "https://leetcode.com/problems/count-beautiful-substrings-i"
+    },
+    {
+        "title": "Number of Possible Sets of Closing Branches",
+        "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches"
+    },
+    {
+        "title": "Find the Peaks",
+        "link": "https://leetcode.com/problems/find-the-peaks"
+    },
+    {
+        "title": "Maximum Square Area by Removing Fences From a Field",
+        "link": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field"
+    },
+    {
+        "title": "Count the Number of Incremovable Subarrays I",
+        "link": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i"
+    },
+    {
+        "title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i"
+    },
+    {
+        "title": "Minimum Moves to Capture The Queen",
+        "link": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen"
+    },
+    {
+        "title": "Find the Number of Ways to Place People II",
+        "link": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii"
+    },
+    {
+        "title": "Find the Number of Ways to Place People I",
+        "link": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i"
+    },
+    {
+        "title": "Find the Maximum Number of Elements in Subset",
+        "link": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset"
+    },
+    {
+        "title": "Most Frequent Prime",
+        "link": "https://leetcode.com/problems/most-frequent-prime"
+    },
+    {
+        "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k"
+    },
+    {
+        "title": "Latest Time You Can Obtain After Replacing Characters",
+        "link": "https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters"
+    },
+    {
+        "title": "Make a Square with the Same Color",
+        "link": "https://leetcode.com/problems/make-a-square-with-the-same-color"
+    },
+    {
+        "title": "Find the Integer Added to Array II",
+        "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii"
+    },
+    {
+        "title": "Minimum Cost to Equalize Array",
+        "link": "https://leetcode.com/problems/minimum-cost-to-equalize-array"
+    },
+    {
+        "title": "Find the Minimum Area to Cover All Ones II",
+        "link": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii"
+    },
+    {
+        "title": "Maximum Height of a Triangle",
+        "link": "https://leetcode.com/problems/maximum-height-of-a-triangle"
+    },
+    {
+        "title": "Count the Number of Substrings With Dominant Ones",
+        "link": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones"
+    }
+]

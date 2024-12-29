@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Max Points on a Line",
+        "link": "https://leetcode.com/problems/max-points-on-a-line"
+    },
+    {
+        "title": "Rectangle Area",
+        "link": "https://leetcode.com/problems/rectangle-area"
+    },
+    {
+        "title": "Self Crossing",
+        "link": "https://leetcode.com/problems/self-crossing"
+    },
+    {
+        "title": "Convex Polygon",
+        "link": "https://leetcode.com/problems/convex-polygon"
+    },
+    {
+        "title": "Erect the Fence",
+        "link": "https://leetcode.com/problems/erect-the-fence"
+    },
+    {
+        "title": "Valid Square",
+        "link": "https://leetcode.com/problems/valid-square"
+    },
+    {
+        "title": "Largest Triangle Area",
+        "link": "https://leetcode.com/problems/largest-triangle-area"
+    },
+    {
+        "title": "Rectangle Overlap",
+        "link": "https://leetcode.com/problems/rectangle-overlap"
+    },
+    {
+        "title": "Mirror Reflection",
+        "link": "https://leetcode.com/problems/mirror-reflection"
+    },
+    {
+        "title": "Generate Random Point in a Circle",
+        "link": "https://leetcode.com/problems/generate-random-point-in-a-circle"
+    },
+    {
+        "title": "Projection Area of 3D Shapes",
+        "link": "https://leetcode.com/problems/projection-area-of-3d-shapes"
+    },
+    {
+        "title": "Surface Area of 3D Shapes",
+        "link": "https://leetcode.com/problems/surface-area-of-3d-shapes"
+    },
+    {
+        "title": "Minimum Area Rectangle",
+        "link": "https://leetcode.com/problems/minimum-area-rectangle"
+    },
+    {
+        "title": "Minimum Area Rectangle II",
+        "link": "https://leetcode.com/problems/minimum-area-rectangle-ii"
+    },
+    {
+        "title": "K Closest Points to Origin",
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+    },
+    {
+        "title": "Matrix Cells in Distance Order",
+        "link": "https://leetcode.com/problems/matrix-cells-in-distance-order"
+    },
+    {
+        "title": "Valid Boomerang",
+        "link": "https://leetcode.com/problems/valid-boomerang"
+    },
+    {
+        "title": "Check If It Is a Straight Line",
+        "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line"
+    },
+    {
+        "title": "Minimum Time Visiting All Points",
+        "link": "https://leetcode.com/problems/minimum-time-visiting-all-points"
+    },
+    {
+        "title": "Circle and Rectangle Overlapping",
+        "link": "https://leetcode.com/problems/circle-and-rectangle-overlapping"
+    },
+    {
+        "title": "Maximum Number of Darts Inside of a Circular Dartboard",
+        "link": "https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard"
+    },
+    {
+        "title": "Best Position for a Service Centre",
+        "link": "https://leetcode.com/problems/best-position-for-a-service-centre"
+    },
+    {
+        "title": "Maximum Number of Visible Points",
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points"
+    },
+    {
+        "title": "Queries on Number of Points Inside a Circle",
+        "link": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle"
+    },
+    {
+        "title": "Minimum Time For K Virus Variants to Spread",
+        "link": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread"
+    },
+    {
+        "title": "Erect the Fence II",
+        "link": "https://leetcode.com/problems/erect-the-fence-ii"
+    },
+    {
+        "title": "Detonate the Maximum Bombs",
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+    },
+    {
+        "title": "Minimum Number of Lines to Cover Points",
+        "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points"
+    },
+    {
+        "title": "Count Lattice Points Inside a Circle",
+        "link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle"
+    },
+    {
+        "title": "Minimum Lines to Represent a Line Chart",
+        "link": "https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart"
+    },
+    {
+        "title": "Minimum Cuts to Divide a Circle",
+        "link": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle"
+    },
+    {
+        "title": "Beautiful Pairs",
+        "link": "https://leetcode.com/problems/beautiful-pairs"
+    },
+    {
+        "title": "Find the Number of Ways to Place People II",
+        "link": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii"
+    },
+    {
+        "title": "Find the Number of Ways to Place People I",
+        "link": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i"
+    },
+    {
+        "title": "Maximum Number of Intersections on the Chart",
+        "link": "https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart"
+    },
+    {
+        "title": "Find the Largest Area of Square Inside Two Rectangles",
+        "link": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles"
+    },
+    {
+        "title": "Minimize Manhattan Distances",
+        "link": "https://leetcode.com/problems/minimize-manhattan-distances"
+    },
+    {
+        "title": "Check if the Rectangle Corner Is Reachable",
+        "link": "https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable"
+    }
+]

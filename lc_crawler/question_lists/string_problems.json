@@ -1,0 +1,2854 @@
+[
+    {
+        "title": "Longest Substring Without Repeating Characters",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+        "title": "Longest Palindromic Substring",
+        "link": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+        "title": "Zigzag Conversion",
+        "link": "https://leetcode.com/problems/zigzag-conversion"
+    },
+    {
+        "title": "String to Integer (atoi)",
+        "link": "https://leetcode.com/problems/string-to-integer-atoi"
+    },
+    {
+        "title": "Regular Expression Matching",
+        "link": "https://leetcode.com/problems/regular-expression-matching"
+    },
+    {
+        "title": "Integer to Roman",
+        "link": "https://leetcode.com/problems/integer-to-roman"
+    },
+    {
+        "title": "Roman to Integer",
+        "link": "https://leetcode.com/problems/roman-to-integer"
+    },
+    {
+        "title": "Longest Common Prefix",
+        "link": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+        "title": "Letter Combinations of a Phone Number",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    },
+    {
+        "title": "Valid Parentheses",
+        "link": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+        "title": "Generate Parentheses",
+        "link": "https://leetcode.com/problems/generate-parentheses"
+    },
+    {
+        "title": "Find the Index of the First Occurrence in a String",
+        "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+        "title": "Substring with Concatenation of All Words",
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words"
+    },
+    {
+        "title": "Longest Valid Parentheses",
+        "link": "https://leetcode.com/problems/longest-valid-parentheses"
+    },
+    {
+        "title": "Count and Say",
+        "link": "https://leetcode.com/problems/count-and-say"
+    },
+    {
+        "title": "Multiply Strings",
+        "link": "https://leetcode.com/problems/multiply-strings"
+    },
+    {
+        "title": "Wildcard Matching",
+        "link": "https://leetcode.com/problems/wildcard-matching"
+    },
+    {
+        "title": "Group Anagrams",
+        "link": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+        "title": "Length of Last Word",
+        "link": "https://leetcode.com/problems/length-of-last-word"
+    },
+    {
+        "title": "Valid Number",
+        "link": "https://leetcode.com/problems/valid-number"
+    },
+    {
+        "title": "Add Binary",
+        "link": "https://leetcode.com/problems/add-binary"
+    },
+    {
+        "title": "Text Justification",
+        "link": "https://leetcode.com/problems/text-justification"
+    },
+    {
+        "title": "Simplify Path",
+        "link": "https://leetcode.com/problems/simplify-path"
+    },
+    {
+        "title": "Edit Distance",
+        "link": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+        "title": "Minimum Window Substring",
+        "link": "https://leetcode.com/problems/minimum-window-substring"
+    },
+    {
+        "title": "Word Search",
+        "link": "https://leetcode.com/problems/word-search"
+    },
+    {
+        "title": "Scramble String",
+        "link": "https://leetcode.com/problems/scramble-string"
+    },
+    {
+        "title": "Decode Ways",
+        "link": "https://leetcode.com/problems/decode-ways"
+    },
+    {
+        "title": "Restore IP Addresses",
+        "link": "https://leetcode.com/problems/restore-ip-addresses"
+    },
+    {
+        "title": "Interleaving String",
+        "link": "https://leetcode.com/problems/interleaving-string"
+    },
+    {
+        "title": "Distinct Subsequences",
+        "link": "https://leetcode.com/problems/distinct-subsequences"
+    },
+    {
+        "title": "Valid Palindrome",
+        "link": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+        "title": "Word Ladder II",
+        "link": "https://leetcode.com/problems/word-ladder-ii"
+    },
+    {
+        "title": "Word Ladder",
+        "link": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+        "title": "Palindrome Partitioning",
+        "link": "https://leetcode.com/problems/palindrome-partitioning"
+    },
+    {
+        "title": "Palindrome Partitioning II",
+        "link": "https://leetcode.com/problems/palindrome-partitioning-ii"
+    },
+    {
+        "title": "Word Break",
+        "link": "https://leetcode.com/problems/word-break"
+    },
+    {
+        "title": "Word Break II",
+        "link": "https://leetcode.com/problems/word-break-ii"
+    },
+    {
+        "title": "Reverse Words in a String",
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+    },
+    {
+        "title": "Longest Substring with At Most Two Distinct Characters",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters"
+    },
+    {
+        "title": "One Edit Distance",
+        "link": "https://leetcode.com/problems/one-edit-distance"
+    },
+    {
+        "title": "Compare Version Numbers",
+        "link": "https://leetcode.com/problems/compare-version-numbers"
+    },
+    {
+        "title": "Fraction to Recurring Decimal",
+        "link": "https://leetcode.com/problems/fraction-to-recurring-decimal"
+    },
+    {
+        "title": "Excel Sheet Column Title",
+        "link": "https://leetcode.com/problems/excel-sheet-column-title"
+    },
+    {
+        "title": "Excel Sheet Column Number",
+        "link": "https://leetcode.com/problems/excel-sheet-column-number"
+    },
+    {
+        "title": "Largest Number",
+        "link": "https://leetcode.com/problems/largest-number"
+    },
+    {
+        "title": "Reverse Words in a String II",
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string-ii"
+    },
+    {
+        "title": "Repeated DNA Sequences",
+        "link": "https://leetcode.com/problems/repeated-dna-sequences"
+    },
+    {
+        "title": "Isomorphic Strings",
+        "link": "https://leetcode.com/problems/isomorphic-strings"
+    },
+    {
+        "title": "Implement Trie (Prefix Tree)",
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+        "title": "Design Add and Search Words Data Structure",
+        "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure"
+    },
+    {
+        "title": "Word Search II",
+        "link": "https://leetcode.com/problems/word-search-ii"
+    },
+    {
+        "title": "Shortest Palindrome",
+        "link": "https://leetcode.com/problems/shortest-palindrome"
+    },
+    {
+        "title": "Basic Calculator",
+        "link": "https://leetcode.com/problems/basic-calculator"
+    },
+    {
+        "title": "Basic Calculator II",
+        "link": "https://leetcode.com/problems/basic-calculator-ii"
+    },
+    {
+        "title": "Different Ways to Add Parentheses",
+        "link": "https://leetcode.com/problems/different-ways-to-add-parentheses"
+    },
+    {
+        "title": "Valid Anagram",
+        "link": "https://leetcode.com/problems/valid-anagram"
+    },
+    {
+        "title": "Shortest Word Distance",
+        "link": "https://leetcode.com/problems/shortest-word-distance"
+    },
+    {
+        "title": "Shortest Word Distance II",
+        "link": "https://leetcode.com/problems/shortest-word-distance-ii"
+    },
+    {
+        "title": "Shortest Word Distance III",
+        "link": "https://leetcode.com/problems/shortest-word-distance-iii"
+    },
+    {
+        "title": "Strobogrammatic Number",
+        "link": "https://leetcode.com/problems/strobogrammatic-number"
+    },
+    {
+        "title": "Strobogrammatic Number II",
+        "link": "https://leetcode.com/problems/strobogrammatic-number-ii"
+    },
+    {
+        "title": "Strobogrammatic Number III",
+        "link": "https://leetcode.com/problems/strobogrammatic-number-iii"
+    },
+    {
+        "title": "Group Shifted Strings",
+        "link": "https://leetcode.com/problems/group-shifted-strings"
+    },
+    {
+        "title": "Binary Tree Paths",
+        "link": "https://leetcode.com/problems/binary-tree-paths"
+    },
+    {
+        "title": "Palindrome Permutation",
+        "link": "https://leetcode.com/problems/palindrome-permutation"
+    },
+    {
+        "title": "Palindrome Permutation II",
+        "link": "https://leetcode.com/problems/palindrome-permutation-ii"
+    },
+    {
+        "title": "Alien Dictionary",
+        "link": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+        "title": "Encode and Decode Strings",
+        "link": "https://leetcode.com/problems/encode-and-decode-strings"
+    },
+    {
+        "title": "Integer to English Words",
+        "link": "https://leetcode.com/problems/integer-to-english-words"
+    },
+    {
+        "title": "Expression Add Operators",
+        "link": "https://leetcode.com/problems/expression-add-operators"
+    },
+    {
+        "title": "Unique Word Abbreviation",
+        "link": "https://leetcode.com/problems/unique-word-abbreviation"
+    },
+    {
+        "title": "Word Pattern",
+        "link": "https://leetcode.com/problems/word-pattern"
+    },
+    {
+        "title": "Word Pattern II",
+        "link": "https://leetcode.com/problems/word-pattern-ii"
+    },
+    {
+        "title": "Flip Game",
+        "link": "https://leetcode.com/problems/flip-game"
+    },
+    {
+        "title": "Serialize and Deserialize Binary Tree",
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    },
+    {
+        "title": "Bulls and Cows",
+        "link": "https://leetcode.com/problems/bulls-and-cows"
+    },
+    {
+        "title": "Remove Invalid Parentheses",
+        "link": "https://leetcode.com/problems/remove-invalid-parentheses"
+    },
+    {
+        "title": "Additive Number",
+        "link": "https://leetcode.com/problems/additive-number"
+    },
+    {
+        "title": "Remove Duplicate Letters",
+        "link": "https://leetcode.com/problems/remove-duplicate-letters"
+    },
+    {
+        "title": "Maximum Product of Word Lengths",
+        "link": "https://leetcode.com/problems/maximum-product-of-word-lengths"
+    },
+    {
+        "title": "Generalized Abbreviation",
+        "link": "https://leetcode.com/problems/generalized-abbreviation"
+    },
+    {
+        "title": "Verify Preorder Serialization of a Binary Tree",
+        "link": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree"
+    },
+    {
+        "title": "Palindrome Pairs",
+        "link": "https://leetcode.com/problems/palindrome-pairs"
+    },
+    {
+        "title": "Longest Substring with At Most K Distinct Characters",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
+    },
+    {
+        "title": "Reverse String",
+        "link": "https://leetcode.com/problems/reverse-string"
+    },
+    {
+        "title": "Reverse Vowels of a String",
+        "link": "https://leetcode.com/problems/reverse-vowels-of-a-string"
+    },
+    {
+        "title": "Rearrange String k Distance Apart",
+        "link": "https://leetcode.com/problems/rearrange-string-k-distance-apart"
+    },
+    {
+        "title": "Ransom Note",
+        "link": "https://leetcode.com/problems/ransom-note"
+    },
+    {
+        "title": "Mini Parser",
+        "link": "https://leetcode.com/problems/mini-parser"
+    },
+    {
+        "title": "First Unique Character in a String",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+    },
+    {
+        "title": "Longest Absolute File Path",
+        "link": "https://leetcode.com/problems/longest-absolute-file-path"
+    },
+    {
+        "title": "Find the Difference",
+        "link": "https://leetcode.com/problems/find-the-difference"
+    },
+    {
+        "title": "Is Subsequence",
+        "link": "https://leetcode.com/problems/is-subsequence"
+    },
+    {
+        "title": "Decode String",
+        "link": "https://leetcode.com/problems/decode-string"
+    },
+    {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters"
+    },
+    {
+        "title": "Evaluate Division",
+        "link": "https://leetcode.com/problems/evaluate-division"
+    },
+    {
+        "title": "Remove K Digits",
+        "link": "https://leetcode.com/problems/remove-k-digits"
+    },
+    {
+        "title": "Valid Word Abbreviation",
+        "link": "https://leetcode.com/problems/valid-word-abbreviation"
+    },
+    {
+        "title": "Longest Palindrome",
+        "link": "https://leetcode.com/problems/longest-palindrome"
+    },
+    {
+        "title": "Minimum Unique Word Abbreviation",
+        "link": "https://leetcode.com/problems/minimum-unique-word-abbreviation"
+    },
+    {
+        "title": "Fizz Buzz",
+        "link": "https://leetcode.com/problems/fizz-buzz"
+    },
+    {
+        "title": "Add Strings",
+        "link": "https://leetcode.com/problems/add-strings"
+    },
+    {
+        "title": "Sentence Screen Fitting",
+        "link": "https://leetcode.com/problems/sentence-screen-fitting"
+    },
+    {
+        "title": "Strong Password Checker",
+        "link": "https://leetcode.com/problems/strong-password-checker"
+    },
+    {
+        "title": "Reconstruct Original Digits from English",
+        "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english"
+    },
+    {
+        "title": "Longest Repeating Character Replacement",
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+    },
+    {
+        "title": "Word Squares",
+        "link": "https://leetcode.com/problems/word-squares"
+    },
+    {
+        "title": "Minimum Genetic Mutation",
+        "link": "https://leetcode.com/problems/minimum-genetic-mutation"
+    },
+    {
+        "title": "Number of Segments in a String",
+        "link": "https://leetcode.com/problems/number-of-segments-in-a-string"
+    },
+    {
+        "title": "Find All Anagrams in a String",
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
+    },
+    {
+        "title": "Ternary Expression Parser",
+        "link": "https://leetcode.com/problems/ternary-expression-parser"
+    },
+    {
+        "title": "String Compression",
+        "link": "https://leetcode.com/problems/string-compression"
+    },
+    {
+        "title": "Serialize and Deserialize BST",
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-bst"
+    },
+    {
+        "title": "Sort Characters By Frequency",
+        "link": "https://leetcode.com/problems/sort-characters-by-frequency"
+    },
+    {
+        "title": "Repeated Substring Pattern",
+        "link": "https://leetcode.com/problems/repeated-substring-pattern"
+    },
+    {
+        "title": "Count The Repetitions",
+        "link": "https://leetcode.com/problems/count-the-repetitions"
+    },
+    {
+        "title": "Unique Substrings in Wraparound String",
+        "link": "https://leetcode.com/problems/unique-substrings-in-wraparound-string"
+    },
+    {
+        "title": "Validate IP Address",
+        "link": "https://leetcode.com/problems/validate-ip-address"
+    },
+    {
+        "title": "Encode String with Shortest Length",
+        "link": "https://leetcode.com/problems/encode-string-with-shortest-length"
+    },
+    {
+        "title": "Concatenated Words",
+        "link": "https://leetcode.com/problems/concatenated-words"
+    },
+    {
+        "title": "Ones and Zeroes",
+        "link": "https://leetcode.com/problems/ones-and-zeroes"
+    },
+    {
+        "title": "Magical String",
+        "link": "https://leetcode.com/problems/magical-string"
+    },
+    {
+        "title": "License Key Formatting",
+        "link": "https://leetcode.com/problems/license-key-formatting"
+    },
+    {
+        "title": "Find Permutation",
+        "link": "https://leetcode.com/problems/find-permutation"
+    },
+    {
+        "title": "Zuma Game",
+        "link": "https://leetcode.com/problems/zuma-game"
+    },
+    {
+        "title": "The Maze III",
+        "link": "https://leetcode.com/problems/the-maze-iii"
+    },
+    {
+        "title": "Keyboard Row",
+        "link": "https://leetcode.com/problems/keyboard-row"
+    },
+    {
+        "title": "Freedom Trail",
+        "link": "https://leetcode.com/problems/freedom-trail"
+    },
+    {
+        "title": "Longest Palindromic Subsequence",
+        "link": "https://leetcode.com/problems/longest-palindromic-subsequence"
+    },
+    {
+        "title": "Detect Capital",
+        "link": "https://leetcode.com/problems/detect-capital"
+    },
+    {
+        "title": "Longest Uncommon Subsequence I",
+        "link": "https://leetcode.com/problems/longest-uncommon-subsequence-i"
+    },
+    {
+        "title": "Longest Uncommon Subsequence II",
+        "link": "https://leetcode.com/problems/longest-uncommon-subsequence-ii"
+    },
+    {
+        "title": "Longest Word in Dictionary through Deleting",
+        "link": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting"
+    },
+    {
+        "title": "Word Abbreviation",
+        "link": "https://leetcode.com/problems/word-abbreviation"
+    },
+    {
+        "title": "Encode and Decode TinyURL",
+        "link": "https://leetcode.com/problems/encode-and-decode-tinyurl"
+    },
+    {
+        "title": "Construct Binary Tree from String",
+        "link": "https://leetcode.com/problems/construct-binary-tree-from-string"
+    },
+    {
+        "title": "Complex Number Multiplication",
+        "link": "https://leetcode.com/problems/complex-number-multiplication"
+    },
+    {
+        "title": "Minimum Time Difference",
+        "link": "https://leetcode.com/problems/minimum-time-difference"
+    },
+    {
+        "title": "Reverse String II",
+        "link": "https://leetcode.com/problems/reverse-string-ii"
+    },
+    {
+        "title": "Output Contest Matches",
+        "link": "https://leetcode.com/problems/output-contest-matches"
+    },
+    {
+        "title": "Student Attendance Record I",
+        "link": "https://leetcode.com/problems/student-attendance-record-i"
+    },
+    {
+        "title": "Split Concatenated Strings",
+        "link": "https://leetcode.com/problems/split-concatenated-strings"
+    },
+    {
+        "title": "Next Greater Element III",
+        "link": "https://leetcode.com/problems/next-greater-element-iii"
+    },
+    {
+        "title": "Reverse Words in a String III",
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii"
+    },
+    {
+        "title": "Find the Closest Palindrome",
+        "link": "https://leetcode.com/problems/find-the-closest-palindrome"
+    },
+    {
+        "title": "Permutation in String",
+        "link": "https://leetcode.com/problems/permutation-in-string"
+    },
+    {
+        "title": "Delete Operation for Two Strings",
+        "link": "https://leetcode.com/problems/delete-operation-for-two-strings"
+    },
+    {
+        "title": "Design In-Memory File System",
+        "link": "https://leetcode.com/problems/design-in-memory-file-system"
+    },
+    {
+        "title": "Tag Validator",
+        "link": "https://leetcode.com/problems/tag-validator"
+    },
+    {
+        "title": "Fraction Addition and Subtraction",
+        "link": "https://leetcode.com/problems/fraction-addition-and-subtraction"
+    },
+    {
+        "title": "Minimum Index Sum of Two Lists",
+        "link": "https://leetcode.com/problems/minimum-index-sum-of-two-lists"
+    },
+    {
+        "title": "Design Compressed String Iterator",
+        "link": "https://leetcode.com/problems/design-compressed-string-iterator"
+    },
+    {
+        "title": "Construct String from Binary Tree",
+        "link": "https://leetcode.com/problems/construct-string-from-binary-tree"
+    },
+    {
+        "title": "Find Duplicate File in System",
+        "link": "https://leetcode.com/problems/find-duplicate-file-in-system"
+    },
+    {
+        "title": "Add Bold Tag in String",
+        "link": "https://leetcode.com/problems/add-bold-tag-in-string"
+    },
+    {
+        "title": "Design Log Storage System",
+        "link": "https://leetcode.com/problems/design-log-storage-system"
+    },
+    {
+        "title": "Decode Ways II",
+        "link": "https://leetcode.com/problems/decode-ways-ii"
+    },
+    {
+        "title": "Solve the Equation",
+        "link": "https://leetcode.com/problems/solve-the-equation"
+    },
+    {
+        "title": "Design Search Autocomplete System",
+        "link": "https://leetcode.com/problems/design-search-autocomplete-system"
+    },
+    {
+        "title": "Palindromic Substrings",
+        "link": "https://leetcode.com/problems/palindromic-substrings"
+    },
+    {
+        "title": "Replace Words",
+        "link": "https://leetcode.com/problems/replace-words"
+    },
+    {
+        "title": "Dota2 Senate",
+        "link": "https://leetcode.com/problems/dota2-senate"
+    },
+    {
+        "title": "Robot Return to Origin",
+        "link": "https://leetcode.com/problems/robot-return-to-origin"
+    },
+    {
+        "title": "Strange Printer",
+        "link": "https://leetcode.com/problems/strange-printer"
+    },
+    {
+        "title": "Implement Magic Dictionary",
+        "link": "https://leetcode.com/problems/implement-magic-dictionary"
+    },
+    {
+        "title": "Map Sum Pairs",
+        "link": "https://leetcode.com/problems/map-sum-pairs"
+    },
+    {
+        "title": "Valid Parenthesis String",
+        "link": "https://leetcode.com/problems/valid-parenthesis-string"
+    },
+    {
+        "title": "Valid Palindrome II",
+        "link": "https://leetcode.com/problems/valid-palindrome-ii"
+    },
+    {
+        "title": "Next Closest Time",
+        "link": "https://leetcode.com/problems/next-closest-time"
+    },
+    {
+        "title": "Repeated String Match",
+        "link": "https://leetcode.com/problems/repeated-string-match"
+    },
+    {
+        "title": "Stickers to Spell Word",
+        "link": "https://leetcode.com/problems/stickers-to-spell-word"
+    },
+    {
+        "title": "Top K Frequent Words",
+        "link": "https://leetcode.com/problems/top-k-frequent-words"
+    },
+    {
+        "title": "Count Binary Substrings",
+        "link": "https://leetcode.com/problems/count-binary-substrings"
+    },
+    {
+        "title": "Minimum ASCII Delete Sum for Two Strings",
+        "link": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings"
+    },
+    {
+        "title": "Longest Word in Dictionary",
+        "link": "https://leetcode.com/problems/longest-word-in-dictionary"
+    },
+    {
+        "title": "Accounts Merge",
+        "link": "https://leetcode.com/problems/accounts-merge"
+    },
+    {
+        "title": "Remove Comments",
+        "link": "https://leetcode.com/problems/remove-comments"
+    },
+    {
+        "title": "Number of Atoms",
+        "link": "https://leetcode.com/problems/number-of-atoms"
+    },
+    {
+        "title": "Minimum Window Subsequence",
+        "link": "https://leetcode.com/problems/minimum-window-subsequence"
+    },
+    {
+        "title": "Count Different Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/count-different-palindromic-subsequences"
+    },
+    {
+        "title": "Sentence Similarity",
+        "link": "https://leetcode.com/problems/sentence-similarity"
+    },
+    {
+        "title": "Parse Lisp Expression",
+        "link": "https://leetcode.com/problems/parse-lisp-expression"
+    },
+    {
+        "title": "Sentence Similarity II",
+        "link": "https://leetcode.com/problems/sentence-similarity-ii"
+    },
+    {
+        "title": "To Lower Case",
+        "link": "https://leetcode.com/problems/to-lower-case"
+    },
+    {
+        "title": "Prefix and Suffix Search",
+        "link": "https://leetcode.com/problems/prefix-and-suffix-search"
+    },
+    {
+        "title": "Shortest Completing Word",
+        "link": "https://leetcode.com/problems/shortest-completing-word"
+    },
+    {
+        "title": "IP to CIDR",
+        "link": "https://leetcode.com/problems/ip-to-cidr"
+    },
+    {
+        "title": "Open the Lock",
+        "link": "https://leetcode.com/problems/open-the-lock"
+    },
+    {
+        "title": "Bold Words in String",
+        "link": "https://leetcode.com/problems/bold-words-in-string"
+    },
+    {
+        "title": "Special Binary String",
+        "link": "https://leetcode.com/problems/special-binary-string"
+    },
+    {
+        "title": "Serialize and Deserialize N-ary Tree",
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree"
+    },
+    {
+        "title": "Partition Labels",
+        "link": "https://leetcode.com/problems/partition-labels"
+    },
+    {
+        "title": "Reorganize String",
+        "link": "https://leetcode.com/problems/reorganize-string"
+    },
+    {
+        "title": "Basic Calculator IV",
+        "link": "https://leetcode.com/problems/basic-calculator-iv"
+    },
+    {
+        "title": "Jewels and Stones",
+        "link": "https://leetcode.com/problems/jewels-and-stones"
+    },
+    {
+        "title": "Basic Calculator III",
+        "link": "https://leetcode.com/problems/basic-calculator-iii"
+    },
+    {
+        "title": "Swap Adjacent in LR String",
+        "link": "https://leetcode.com/problems/swap-adjacent-in-lr-string"
+    },
+    {
+        "title": "Letter Case Permutation",
+        "link": "https://leetcode.com/problems/letter-case-permutation"
+    },
+    {
+        "title": "Custom Sort String",
+        "link": "https://leetcode.com/problems/custom-sort-string"
+    },
+    {
+        "title": "Number of Matching Subsequences",
+        "link": "https://leetcode.com/problems/number-of-matching-subsequences"
+    },
+    {
+        "title": "Rotate String",
+        "link": "https://leetcode.com/problems/rotate-string"
+    },
+    {
+        "title": "Similar RGB Color",
+        "link": "https://leetcode.com/problems/similar-rgb-color"
+    },
+    {
+        "title": "Unique Morse Code Words",
+        "link": "https://leetcode.com/problems/unique-morse-code-words"
+    },
+    {
+        "title": "Number of Lines To Write String",
+        "link": "https://leetcode.com/problems/number-of-lines-to-write-string"
+    },
+    {
+        "title": "Expressive Words",
+        "link": "https://leetcode.com/problems/expressive-words"
+    },
+    {
+        "title": "Subdomain Visit Count",
+        "link": "https://leetcode.com/problems/subdomain-visit-count"
+    },
+    {
+        "title": "Ambiguous Coordinates",
+        "link": "https://leetcode.com/problems/ambiguous-coordinates"
+    },
+    {
+        "title": "Most Common Word",
+        "link": "https://leetcode.com/problems/most-common-word"
+    },
+    {
+        "title": "Short Encoding of Words",
+        "link": "https://leetcode.com/problems/short-encoding-of-words"
+    },
+    {
+        "title": "Shortest Distance to a Character",
+        "link": "https://leetcode.com/problems/shortest-distance-to-a-character"
+    },
+    {
+        "title": "Goat Latin",
+        "link": "https://leetcode.com/problems/goat-latin"
+    },
+    {
+        "title": "Count Unique Characters of All Substrings of a Given String",
+        "link": "https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string"
+    },
+    {
+        "title": "Positions of Large Groups",
+        "link": "https://leetcode.com/problems/positions-of-large-groups"
+    },
+    {
+        "title": "Masking Personal Information",
+        "link": "https://leetcode.com/problems/masking-personal-information"
+    },
+    {
+        "title": "Find And Replace in String",
+        "link": "https://leetcode.com/problems/find-and-replace-in-string"
+    },
+    {
+        "title": "Push Dominoes",
+        "link": "https://leetcode.com/problems/push-dominoes"
+    },
+    {
+        "title": "Similar String Groups",
+        "link": "https://leetcode.com/problems/similar-string-groups"
+    },
+    {
+        "title": "Split Array into Fibonacci Sequence",
+        "link": "https://leetcode.com/problems/split-array-into-fibonacci-sequence"
+    },
+    {
+        "title": "Guess the Word",
+        "link": "https://leetcode.com/problems/guess-the-word"
+    },
+    {
+        "title": "Backspace String Compare",
+        "link": "https://leetcode.com/problems/backspace-string-compare"
+    },
+    {
+        "title": "Shifting Letters",
+        "link": "https://leetcode.com/problems/shifting-letters"
+    },
+    {
+        "title": "K-Similar Strings",
+        "link": "https://leetcode.com/problems/k-similar-strings"
+    },
+    {
+        "title": "Score of Parentheses",
+        "link": "https://leetcode.com/problems/score-of-parentheses"
+    },
+    {
+        "title": "Buddy Strings",
+        "link": "https://leetcode.com/problems/buddy-strings"
+    },
+    {
+        "title": "Decoded String at Index",
+        "link": "https://leetcode.com/problems/decoded-string-at-index"
+    },
+    {
+        "title": "Uncommon Words from Two Sentences",
+        "link": "https://leetcode.com/problems/uncommon-words-from-two-sentences"
+    },
+    {
+        "title": "Find and Replace Pattern",
+        "link": "https://leetcode.com/problems/find-and-replace-pattern"
+    },
+    {
+        "title": "Groups of Special-Equivalent Strings",
+        "link": "https://leetcode.com/problems/groups-of-special-equivalent-strings"
+    },
+    {
+        "title": "Orderly Queue",
+        "link": "https://leetcode.com/problems/orderly-queue"
+    },
+    {
+        "title": "Numbers At Most N Given Digit Set",
+        "link": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set"
+    },
+    {
+        "title": "Valid Permutations for DI Sequence",
+        "link": "https://leetcode.com/problems/valid-permutations-for-di-sequence"
+    },
+    {
+        "title": "Word Subsets",
+        "link": "https://leetcode.com/problems/word-subsets"
+    },
+    {
+        "title": "Reverse Only Letters",
+        "link": "https://leetcode.com/problems/reverse-only-letters"
+    },
+    {
+        "title": "Minimum Add to Make Parentheses Valid",
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid"
+    },
+    {
+        "title": "Long Pressed Name",
+        "link": "https://leetcode.com/problems/long-pressed-name"
+    },
+    {
+        "title": "Flip String to Monotone Increasing",
+        "link": "https://leetcode.com/problems/flip-string-to-monotone-increasing"
+    },
+    {
+        "title": "Unique Email Addresses",
+        "link": "https://leetcode.com/problems/unique-email-addresses"
+    },
+    {
+        "title": "Stamping The Sequence",
+        "link": "https://leetcode.com/problems/stamping-the-sequence"
+    },
+    {
+        "title": "Reorder Data in Log Files",
+        "link": "https://leetcode.com/problems/reorder-data-in-log-files"
+    },
+    {
+        "title": "Distinct Subsequences II",
+        "link": "https://leetcode.com/problems/distinct-subsequences-ii"
+    },
+    {
+        "title": "DI String Match",
+        "link": "https://leetcode.com/problems/di-string-match"
+    },
+    {
+        "title": "Find the Shortest Superstring",
+        "link": "https://leetcode.com/problems/find-the-shortest-superstring"
+    },
+    {
+        "title": "Delete Columns to Make Sorted",
+        "link": "https://leetcode.com/problems/delete-columns-to-make-sorted"
+    },
+    {
+        "title": "Largest Time for Given Digits",
+        "link": "https://leetcode.com/problems/largest-time-for-given-digits"
+    },
+    {
+        "title": "Verifying an Alien Dictionary",
+        "link": "https://leetcode.com/problems/verifying-an-alien-dictionary"
+    },
+    {
+        "title": "Delete Columns to Make Sorted II",
+        "link": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii"
+    },
+    {
+        "title": "Delete Columns to Make Sorted III",
+        "link": "https://leetcode.com/problems/delete-columns-to-make-sorted-iii"
+    },
+    {
+        "title": "Vowel Spellchecker",
+        "link": "https://leetcode.com/problems/vowel-spellchecker"
+    },
+    {
+        "title": "Equal Rational Numbers",
+        "link": "https://leetcode.com/problems/equal-rational-numbers"
+    },
+    {
+        "title": "Time Based Key-Value Store",
+        "link": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+        "title": "String Without AAA or BBB",
+        "link": "https://leetcode.com/problems/string-without-aaa-or-bbb"
+    },
+    {
+        "title": "Smallest String Starting From Leaf",
+        "link": "https://leetcode.com/problems/smallest-string-starting-from-leaf"
+    },
+    {
+        "title": "Satisfiability of Equality Equations",
+        "link": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+    },
+    {
+        "title": "Find Common Characters",
+        "link": "https://leetcode.com/problems/find-common-characters"
+    },
+    {
+        "title": "Check If Word Is Valid After Substitutions",
+        "link": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions"
+    },
+    {
+        "title": "Shortest Way to Form String",
+        "link": "https://leetcode.com/problems/shortest-way-to-form-string"
+    },
+    {
+        "title": "Minimize Rounding Error to Meet Target",
+        "link": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target"
+    },
+    {
+        "title": "Lexicographically Smallest Equivalent String",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string"
+    },
+    {
+        "title": "Longest Repeating Substring",
+        "link": "https://leetcode.com/problems/longest-repeating-substring"
+    },
+    {
+        "title": "Binary String With Substrings Representing 1 To N",
+        "link": "https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n"
+    },
+    {
+        "title": "Index Pairs of a String",
+        "link": "https://leetcode.com/problems/index-pairs-of-a-string"
+    },
+    {
+        "title": "Brace Expansion",
+        "link": "https://leetcode.com/problems/brace-expansion"
+    },
+    {
+        "title": "Remove Outermost Parentheses",
+        "link": "https://leetcode.com/problems/remove-outermost-parentheses"
+    },
+    {
+        "title": "Camelcase Matching",
+        "link": "https://leetcode.com/problems/camelcase-matching"
+    },
+    {
+        "title": "Find K-Length Substrings With No Repeated Characters",
+        "link": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters"
+    },
+    {
+        "title": "Remove Vowels from a String",
+        "link": "https://leetcode.com/problems/remove-vowels-from-a-string"
+    },
+    {
+        "title": "Recover a Tree From Preorder Traversal",
+        "link": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal"
+    },
+    {
+        "title": "Stream of Characters",
+        "link": "https://leetcode.com/problems/stream-of-characters"
+    },
+    {
+        "title": "Find Words That Can Be Formed by Characters",
+        "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters"
+    },
+    {
+        "title": "Robot Bounded In Circle",
+        "link": "https://leetcode.com/problems/robot-bounded-in-circle"
+    },
+    {
+        "title": "Longest Duplicate Substring",
+        "link": "https://leetcode.com/problems/longest-duplicate-substring"
+    },
+    {
+        "title": "Single-Row Keyboard",
+        "link": "https://leetcode.com/problems/single-row-keyboard"
+    },
+    {
+        "title": "String Transforms Into Another String",
+        "link": "https://leetcode.com/problems/string-transforms-into-another-string"
+    },
+    {
+        "title": "Design File System",
+        "link": "https://leetcode.com/problems/design-file-system"
+    },
+    {
+        "title": "Remove All Adjacent Duplicates In String",
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+    },
+    {
+        "title": "Longest String Chain",
+        "link": "https://leetcode.com/problems/longest-string-chain"
+    },
+    {
+        "title": "Count Substrings with Only One Distinct Letter",
+        "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter"
+    },
+    {
+        "title": "Before and After Puzzle",
+        "link": "https://leetcode.com/problems/before-and-after-puzzle"
+    },
+    {
+        "title": "Last Substring in Lexicographical Order",
+        "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
+    },
+    {
+        "title": "Greatest Common Divisor of Strings",
+        "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings"
+    },
+    {
+        "title": "Occurrences After Bigram",
+        "link": "https://leetcode.com/problems/occurrences-after-bigram"
+    },
+    {
+        "title": "Smallest Subsequence of Distinct Characters",
+        "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
+    },
+    {
+        "title": "Letter Tile Possibilities",
+        "link": "https://leetcode.com/problems/letter-tile-possibilities"
+    },
+    {
+        "title": "Shortest Common Supersequence",
+        "link": "https://leetcode.com/problems/shortest-common-supersequence"
+    },
+    {
+        "title": "Valid Palindrome III",
+        "link": "https://leetcode.com/problems/valid-palindrome-iii"
+    },
+    {
+        "title": "Brace Expansion II",
+        "link": "https://leetcode.com/problems/brace-expansion-ii"
+    },
+    {
+        "title": "Encode Number",
+        "link": "https://leetcode.com/problems/encode-number"
+    },
+    {
+        "title": "Smallest Common Region",
+        "link": "https://leetcode.com/problems/smallest-common-region"
+    },
+    {
+        "title": "Synonymous Sentences",
+        "link": "https://leetcode.com/problems/synonymous-sentences"
+    },
+    {
+        "title": "Parsing A Boolean Expression",
+        "link": "https://leetcode.com/problems/parsing-a-boolean-expression"
+    },
+    {
+        "title": "Hexspeak",
+        "link": "https://leetcode.com/problems/hexspeak"
+    },
+    {
+        "title": "Defanging an IP Address",
+        "link": "https://leetcode.com/problems/defanging-an-ip-address"
+    },
+    {
+        "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+        "link": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings"
+    },
+    {
+        "title": "Iterator for Combination",
+        "link": "https://leetcode.com/problems/iterator-for-combination"
+    },
+    {
+        "title": "Alphabet Board Path",
+        "link": "https://leetcode.com/problems/alphabet-board-path"
+    },
+    {
+        "title": "Distinct Echo Substrings",
+        "link": "https://leetcode.com/problems/distinct-echo-substrings"
+    },
+    {
+        "title": "Longest Common Subsequence",
+        "link": "https://leetcode.com/problems/longest-common-subsequence"
+    },
+    {
+        "title": "Longest Chunked Palindrome Decomposition",
+        "link": "https://leetcode.com/problems/longest-chunked-palindrome-decomposition"
+    },
+    {
+        "title": "Break a Palindrome",
+        "link": "https://leetcode.com/problems/break-a-palindrome"
+    },
+    {
+        "title": "Day of the Year",
+        "link": "https://leetcode.com/problems/day-of-the-year"
+    },
+    {
+        "title": "Swap For Longest Repeated Character Substring",
+        "link": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring"
+    },
+    {
+        "title": "Maximum Number of Words You Can Type",
+        "link": "https://leetcode.com/problems/maximum-number-of-words-you-can-type"
+    },
+    {
+        "title": "Web Crawler",
+        "link": "https://leetcode.com/problems/web-crawler"
+    },
+    {
+        "title": "Invalid Transactions",
+        "link": "https://leetcode.com/problems/invalid-transactions"
+    },
+    {
+        "title": "Compare Strings by Frequency of the Smallest Character",
+        "link": "https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character"
+    },
+    {
+        "title": "Number of Days Between Two Dates",
+        "link": "https://leetcode.com/problems/number-of-days-between-two-dates"
+    },
+    {
+        "title": "Can Make Palindrome from Substring",
+        "link": "https://leetcode.com/problems/can-make-palindrome-from-substring"
+    },
+    {
+        "title": "Number of Valid Words for Each Puzzle",
+        "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+    },
+    {
+        "title": "Reformat Date",
+        "link": "https://leetcode.com/problems/reformat-date"
+    },
+    {
+        "title": "Maximum Number of Balloons",
+        "link": "https://leetcode.com/problems/maximum-number-of-balloons"
+    },
+    {
+        "title": "Reverse Substrings Between Each Pair of Parentheses",
+        "link": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses"
+    },
+    {
+        "title": "Delete Characters to Make Fancy String",
+        "link": "https://leetcode.com/problems/delete-characters-to-make-fancy-string"
+    },
+    {
+        "title": "Longest Happy String",
+        "link": "https://leetcode.com/problems/longest-happy-string"
+    },
+    {
+        "title": "Smallest String With Swaps",
+        "link": "https://leetcode.com/problems/smallest-string-with-swaps"
+    },
+    {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+    },
+    {
+        "title": "Get Equal Substrings Within Budget",
+        "link": "https://leetcode.com/problems/get-equal-substrings-within-budget"
+    },
+    {
+        "title": "Maximum Product of the Length of Two Palindromic Substrings",
+        "link": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings"
+    },
+    {
+        "title": "Split a String in Balanced Strings",
+        "link": "https://leetcode.com/problems/split-a-string-in-balanced-strings"
+    },
+    {
+        "title": "Perform String Shifts",
+        "link": "https://leetcode.com/problems/perform-string-shifts"
+    },
+    {
+        "title": "Remove Sub-Folders from the Filesystem",
+        "link": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem"
+    },
+    {
+        "title": "Replace the Substring for Balanced String",
+        "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string"
+    },
+    {
+        "title": "Find Resultant Array After Removing Anagrams",
+        "link": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams"
+    },
+    {
+        "title": "Minimum Number of Moves to Make Palindrome",
+        "link": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome"
+    },
+    {
+        "title": "Maximum Length of a Concatenated String with Unique Characters",
+        "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
+    },
+    {
+        "title": "Greatest English Letter in Upper and Lower Case",
+        "link": "https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case"
+    },
+    {
+        "title": "Minimum Swaps to Make Strings Equal",
+        "link": "https://leetcode.com/problems/minimum-swaps-to-make-strings-equal"
+    },
+    {
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses"
+    },
+    {
+        "title": "Maximum Score Words Formed by Letters",
+        "link": "https://leetcode.com/problems/maximum-score-words-formed-by-letters"
+    },
+    {
+        "title": "Maximum Font to Fit a Sentence in a Screen",
+        "link": "https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen"
+    },
+    {
+        "title": "Search Suggestions System",
+        "link": "https://leetcode.com/problems/search-suggestions-system"
+    },
+    {
+        "title": "Palindrome Partitioning III",
+        "link": "https://leetcode.com/problems/palindrome-partitioning-iii"
+    },
+    {
+        "title": "Maximum Number of Occurrences of a Substring",
+        "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+    },
+    {
+        "title": "Verbal Arithmetic Puzzle",
+        "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle"
+    },
+    {
+        "title": "Find the K-Beauty of a Number",
+        "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number"
+    },
+    {
+        "title": "Encrypt and Decrypt Strings",
+        "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings"
+    },
+    {
+        "title": "Decrypt String from Alphabet to Integer Mapping",
+        "link": "https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping"
+    },
+    {
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome"
+    },
+    {
+        "title": "Minimum Distance to Type a Word Using Two Fingers",
+        "link": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers"
+    },
+    {
+        "title": "Print Words Vertically",
+        "link": "https://leetcode.com/problems/print-words-vertically"
+    },
+    {
+        "title": "Remove Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/remove-palindromic-subsequences"
+    },
+    {
+        "title": "Number of Substrings Containing All Three Characters",
+        "link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters"
+    },
+    {
+        "title": "Minimum Number of Steps to Make Two Strings Anagram",
+        "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram"
+    },
+    {
+        "title": "Increasing Decreasing String",
+        "link": "https://leetcode.com/problems/increasing-decreasing-string"
+    },
+    {
+        "title": "Find the Longest Substring Containing Vowels in Even Counts",
+        "link": "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts"
+    },
+    {
+        "title": "Rank Teams by Votes",
+        "link": "https://leetcode.com/problems/rank-teams-by-votes"
+    },
+    {
+        "title": "Generate a String With Characters That Have Odd Counts",
+        "link": "https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts"
+    },
+    {
+        "title": "Construct K Palindrome Strings",
+        "link": "https://leetcode.com/problems/construct-k-palindrome-strings"
+    },
+    {
+        "title": "Longest Happy Prefix",
+        "link": "https://leetcode.com/problems/longest-happy-prefix"
+    },
+    {
+        "title": "Design Underground System",
+        "link": "https://leetcode.com/problems/design-underground-system"
+    },
+    {
+        "title": "Find All Good Strings",
+        "link": "https://leetcode.com/problems/find-all-good-strings"
+    },
+    {
+        "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+        "link": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
+    },
+    {
+        "title": "Restore The Array",
+        "link": "https://leetcode.com/problems/restore-the-array"
+    },
+    {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+    },
+    {
+        "title": "String Matching in an Array",
+        "link": "https://leetcode.com/problems/string-matching-in-an-array"
+    },
+    {
+        "title": "HTML Entity Parser",
+        "link": "https://leetcode.com/problems/html-entity-parser"
+    },
+    {
+        "title": "Check If a String Can Break Another String",
+        "link": "https://leetcode.com/problems/check-if-a-string-can-break-another-string"
+    },
+    {
+        "title": "Reformat The String",
+        "link": "https://leetcode.com/problems/reformat-the-string"
+    },
+    {
+        "title": "Display Table of Food Orders in a Restaurant",
+        "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant"
+    },
+    {
+        "title": "Minimum Number of Frogs Croaking",
+        "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking"
+    },
+    {
+        "title": "Maximum Score After Splitting a String",
+        "link": "https://leetcode.com/problems/maximum-score-after-splitting-a-string"
+    },
+    {
+        "title": "Consecutive Characters",
+        "link": "https://leetcode.com/problems/consecutive-characters"
+    },
+    {
+        "title": "Simplified Fractions",
+        "link": "https://leetcode.com/problems/simplified-fractions"
+    },
+    {
+        "title": "Destination City",
+        "link": "https://leetcode.com/problems/destination-city"
+    },
+    {
+        "title": "Check If a String Contains All Binary Codes of Size K",
+        "link": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k"
+    },
+    {
+        "title": "Rearrange Words in a Sentence",
+        "link": "https://leetcode.com/problems/rearrange-words-in-a-sentence"
+    },
+    {
+        "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+        "link": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list"
+    },
+    {
+        "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+        "link": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
+    },
+    {
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "link": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length"
+    },
+    {
+        "title": "Making File Names Unique",
+        "link": "https://leetcode.com/problems/making-file-names-unique"
+    },
+    {
+        "title": "Path Crossing",
+        "link": "https://leetcode.com/problems/path-crossing"
+    },
+    {
+        "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+        "link": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits"
+    },
+    {
+        "title": "Number of Good Ways to Split a String",
+        "link": "https://leetcode.com/problems/number-of-good-ways-to-split-a-string"
+    },
+    {
+        "title": "Number of Substrings With Only 1s",
+        "link": "https://leetcode.com/problems/number-of-substrings-with-only-1s"
+    },
+    {
+        "title": "String Compression II",
+        "link": "https://leetcode.com/problems/string-compression-ii"
+    },
+    {
+        "title": "Maximum Number of Non-Overlapping Substrings",
+        "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings"
+    },
+    {
+        "title": "Can Convert String in K Moves",
+        "link": "https://leetcode.com/problems/can-convert-string-in-k-moves"
+    },
+    {
+        "title": "Minimum Insertions to Balance a Parentheses String",
+        "link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string"
+    },
+    {
+        "title": "Shuffle String",
+        "link": "https://leetcode.com/problems/shuffle-string"
+    },
+    {
+        "title": "Minimum Suffix Flips",
+        "link": "https://leetcode.com/problems/minimum-suffix-flips"
+    },
+    {
+        "title": "Thousand Separator",
+        "link": "https://leetcode.com/problems/thousand-separator"
+    },
+    {
+        "title": "Make The String Great",
+        "link": "https://leetcode.com/problems/make-the-string-great"
+    },
+    {
+        "title": "Find Kth Bit in Nth Binary String",
+        "link": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string"
+    },
+    {
+        "title": "Find Longest Awesome Substring",
+        "link": "https://leetcode.com/problems/find-longest-awesome-substring"
+    },
+    {
+        "title": "Number of Ways to Split a String",
+        "link": "https://leetcode.com/problems/number-of-ways-to-split-a-string"
+    },
+    {
+        "title": "Strings Differ by One Character",
+        "link": "https://leetcode.com/problems/strings-differ-by-one-character"
+    },
+    {
+        "title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+        "link": "https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters"
+    },
+    {
+        "title": "Minimum Time to Make Rope Colorful",
+        "link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful"
+    },
+    {
+        "title": "Check If String Is Transformable With Substring Sort Operations",
+        "link": "https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations"
+    },
+    {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+    },
+    {
+        "title": "Rearrange Spaces Between Words",
+        "link": "https://leetcode.com/problems/rearrange-spaces-between-words"
+    },
+    {
+        "title": "Split a String Into the Max Number of Unique Substrings",
+        "link": "https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings"
+    },
+    {
+        "title": "Crawler Log Folder",
+        "link": "https://leetcode.com/problems/crawler-log-folder"
+    },
+    {
+        "title": "Build Binary Expression Tree From Infix Expression",
+        "link": "https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression"
+    },
+    {
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses"
+    },
+    {
+        "title": "Split Two Strings to Make Palindrome",
+        "link": "https://leetcode.com/problems/split-two-strings-to-make-palindrome"
+    },
+    {
+        "title": "Count Substrings That Differ by One Character",
+        "link": "https://leetcode.com/problems/count-substrings-that-differ-by-one-character"
+    },
+    {
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary"
+    },
+    {
+        "title": "Largest Substring Between Two Equal Characters",
+        "link": "https://leetcode.com/problems/largest-substring-between-two-equal-characters"
+    },
+    {
+        "title": "Lexicographically Smallest String After Applying Operations",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations"
+    },
+    {
+        "title": "Slowest Key",
+        "link": "https://leetcode.com/problems/slowest-key"
+    },
+    {
+        "title": "Minimum Deletions to Make String Balanced",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced"
+    },
+    {
+        "title": "Maximum Repeating Substring",
+        "link": "https://leetcode.com/problems/maximum-repeating-substring"
+    },
+    {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique"
+    },
+    {
+        "title": "Determine if Two Strings Are Close",
+        "link": "https://leetcode.com/problems/determine-if-two-strings-are-close"
+    },
+    {
+        "title": "Check If Two String Arrays are Equivalent",
+        "link": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent"
+    },
+    {
+        "title": "Smallest String With A Given Numeric Value",
+        "link": "https://leetcode.com/problems/smallest-string-with-a-given-numeric-value"
+    },
+    {
+        "title": "Count the Number of Consistent Strings",
+        "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings"
+    },
+    {
+        "title": "Goal Parser Interpretation",
+        "link": "https://leetcode.com/problems/goal-parser-interpretation"
+    },
+    {
+        "title": "Maximum Binary String After Change",
+        "link": "https://leetcode.com/problems/maximum-binary-string-after-change"
+    },
+    {
+        "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+        "link": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers"
+    },
+    {
+        "title": "Reformat Phone Number",
+        "link": "https://leetcode.com/problems/reformat-phone-number"
+    },
+    {
+        "title": "Maximum Score From Removing Substrings",
+        "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+    },
+    {
+        "title": "Longest Palindromic Subsequence II",
+        "link": "https://leetcode.com/problems/longest-palindromic-subsequence-ii"
+    },
+    {
+        "title": "Determine if String Halves Are Alike",
+        "link": "https://leetcode.com/problems/determine-if-string-halves-are-alike"
+    },
+    {
+        "title": "Number of Distinct Substrings in a String",
+        "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string"
+    },
+    {
+        "title": "Minimum Length of String After Deleting Similar Ends",
+        "link": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends"
+    },
+    {
+        "title": "Latest Time by Replacing Hidden Digits",
+        "link": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits"
+    },
+    {
+        "title": "Change Minimum Characters to Satisfy One of Three Conditions",
+        "link": "https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions"
+    },
+    {
+        "title": "Palindrome Partitioning IV",
+        "link": "https://leetcode.com/problems/palindrome-partitioning-iv"
+    },
+    {
+        "title": "Longest Nice Substring",
+        "link": "https://leetcode.com/problems/longest-nice-substring"
+    },
+    {
+        "title": "Largest Merge Of Two Strings",
+        "link": "https://leetcode.com/problems/largest-merge-of-two-strings"
+    },
+    {
+        "title": "Minimum Changes To Make Alternating Binary String",
+        "link": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string"
+    },
+    {
+        "title": "Count Number of Homogenous Substrings",
+        "link": "https://leetcode.com/problems/count-number-of-homogenous-substrings"
+    },
+    {
+        "title": "Sum of Beauty of All Substrings",
+        "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings"
+    },
+    {
+        "title": "Merge Strings Alternately",
+        "link": "https://leetcode.com/problems/merge-strings-alternately"
+    },
+    {
+        "title": "Minimum Number of Operations to Move All Balls to Each Box",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box"
+    },
+    {
+        "title": "Maximize Palindrome Length From Subsequences",
+        "link": "https://leetcode.com/problems/maximize-palindrome-length-from-subsequences"
+    },
+    {
+        "title": "Count Items Matching a Rule",
+        "link": "https://leetcode.com/problems/count-items-matching-a-rule"
+    },
+    {
+        "title": "Second Largest Digit in a String",
+        "link": "https://leetcode.com/problems/second-largest-digit-in-a-string"
+    },
+    {
+        "title": "Check if Binary String Has at Most One Segment of Ones",
+        "link": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones"
+    },
+    {
+        "title": "Check if One String Swap Can Make Strings Equal",
+        "link": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal"
+    },
+    {
+        "title": "Sort Features by Popularity",
+        "link": "https://leetcode.com/problems/sort-features-by-popularity"
+    },
+    {
+        "title": "Determine Color of a Chessboard Square",
+        "link": "https://leetcode.com/problems/determine-color-of-a-chessboard-square"
+    },
+    {
+        "title": "Sentence Similarity III",
+        "link": "https://leetcode.com/problems/sentence-similarity-iii"
+    },
+    {
+        "title": "Number of Different Integers in a String",
+        "link": "https://leetcode.com/problems/number-of-different-integers-in-a-string"
+    },
+    {
+        "title": "Evaluate the Bracket Pairs of a String",
+        "link": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string"
+    },
+    {
+        "title": "Minimum Number of Operations to Make String Sorted",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted"
+    },
+    {
+        "title": "Count Pairs of Equal Substrings With Minimum Difference",
+        "link": "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference"
+    },
+    {
+        "title": "Truncate Sentence",
+        "link": "https://leetcode.com/problems/truncate-sentence"
+    },
+    {
+        "title": "Implement Trie II (Prefix Tree)",
+        "link": "https://leetcode.com/problems/implement-trie-ii-prefix-tree"
+    },
+    {
+        "title": "Replace All Digits with Characters",
+        "link": "https://leetcode.com/problems/replace-all-digits-with-characters"
+    },
+    {
+        "title": "Check if the Sentence Is Pangram",
+        "link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram"
+    },
+    {
+        "title": "Longest Substring Of All Vowels in Order",
+        "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order"
+    },
+    {
+        "title": "Sorting the Sentence",
+        "link": "https://leetcode.com/problems/sorting-the-sentence"
+    },
+    {
+        "title": "Splitting a String Into Descending Consecutive Values",
+        "link": "https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values"
+    },
+    {
+        "title": "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+        "link": "https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number"
+    },
+    {
+        "title": "Substrings of Size Three with Distinct Characters",
+        "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters"
+    },
+    {
+        "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating"
+    },
+    {
+        "title": "Next Palindrome Using Same Digits",
+        "link": "https://leetcode.com/problems/next-palindrome-using-same-digits"
+    },
+    {
+        "title": "Longer Contiguous Segments of Ones than Zeros",
+        "link": "https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros"
+    },
+    {
+        "title": "Jump Game VII",
+        "link": "https://leetcode.com/problems/jump-game-vii"
+    },
+    {
+        "title": "Minimum Cost to Change the Final Value of Expression",
+        "link": "https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression"
+    },
+    {
+        "title": "Check if Word Equals Summation of Two Words",
+        "link": "https://leetcode.com/problems/check-if-word-equals-summation-of-two-words"
+    },
+    {
+        "title": "Maximum Value after Insertion",
+        "link": "https://leetcode.com/problems/maximum-value-after-insertion"
+    },
+    {
+        "title": "Minimum Number of Flips to Make the Binary String Alternating",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating"
+    },
+    {
+        "title": "Remove All Occurrences of a Substring",
+        "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring"
+    },
+    {
+        "title": "Redistribute Characters to Make All Strings Equal",
+        "link": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal"
+    },
+    {
+        "title": "Maximum Number of Removable Characters",
+        "link": "https://leetcode.com/problems/maximum-number-of-removable-characters"
+    },
+    {
+        "title": "Largest Odd Number in String",
+        "link": "https://leetcode.com/problems/largest-odd-number-in-string"
+    },
+    {
+        "title": "The Number of Full Rounds You Have Played",
+        "link": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played"
+    },
+    {
+        "title": "Sum Game",
+        "link": "https://leetcode.com/problems/sum-game"
+    },
+    {
+        "title": "Number of Wonderful Substrings",
+        "link": "https://leetcode.com/problems/number-of-wonderful-substrings"
+    },
+    {
+        "title": "Check if All Characters Have Equal Number of Occurrences",
+        "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences"
+    },
+    {
+        "title": "Unique Length-3 Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences"
+    },
+    {
+        "title": "Check if String Is Decomposable Into Value-Equal Substrings",
+        "link": "https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings"
+    },
+    {
+        "title": "Sum of Digits of String After Convert",
+        "link": "https://leetcode.com/problems/sum-of-digits-of-string-after-convert"
+    },
+    {
+        "title": "Largest Number After Mutating Substring",
+        "link": "https://leetcode.com/problems/largest-number-after-mutating-substring"
+    },
+    {
+        "title": "Delete Duplicate Folders in System",
+        "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system"
+    },
+    {
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter"
+    },
+    {
+        "title": "Number of Ways to Separate Numbers",
+        "link": "https://leetcode.com/problems/number-of-ways-to-separate-numbers"
+    },
+    {
+        "title": "Check If String Is a Prefix of Array",
+        "link": "https://leetcode.com/problems/check-if-string-is-a-prefix-of-array"
+    },
+    {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced"
+    },
+    {
+        "title": "Number of Strings That Appear as Substrings in Word",
+        "link": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word"
+    },
+    {
+        "title": "Find Unique Binary String",
+        "link": "https://leetcode.com/problems/find-unique-binary-string"
+    },
+    {
+        "title": "Find the Kth Largest Integer in the Array",
+        "link": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array"
+    },
+    {
+        "title": "Number of Unique Good Subsequences",
+        "link": "https://leetcode.com/problems/number-of-unique-good-subsequences"
+    },
+    {
+        "title": "Reverse Prefix of Word",
+        "link": "https://leetcode.com/problems/reverse-prefix-of-word"
+    },
+    {
+        "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences"
+    },
+    {
+        "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+        "link": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target"
+    },
+    {
+        "title": "Maximize the Confusion of an Exam",
+        "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam"
+    },
+    {
+        "title": "Final Value of Variable After Performing Operations",
+        "link": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations"
+    },
+    {
+        "title": "Longest Subsequence Repeated k Times",
+        "link": "https://leetcode.com/problems/longest-subsequence-repeated-k-times"
+    },
+    {
+        "title": "The Score of Students Solving Math Expression",
+        "link": "https://leetcode.com/problems/the-score-of-students-solving-math-expression"
+    },
+    {
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+    },
+    {
+        "title": "Minimum Moves to Convert String",
+        "link": "https://leetcode.com/problems/minimum-moves-to-convert-string"
+    },
+    {
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter"
+    },
+    {
+        "title": "Kth Distinct String in an Array",
+        "link": "https://leetcode.com/problems/kth-distinct-string-in-an-array"
+    },
+    {
+        "title": "Plates Between Candles",
+        "link": "https://leetcode.com/problems/plates-between-candles"
+    },
+    {
+        "title": "Number of Valid Move Combinations On Chessboard",
+        "link": "https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard"
+    },
+    {
+        "title": "Check if Numbers Are Ascending in a Sentence",
+        "link": "https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence"
+    },
+    {
+        "title": "Number of Valid Words in a Sentence",
+        "link": "https://leetcode.com/problems/number-of-valid-words-in-a-sentence"
+    },
+    {
+        "title": "Check Whether Two Strings are Almost Equivalent",
+        "link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent"
+    },
+    {
+        "title": "Check if an Original String Exists Given Two Encoded Strings",
+        "link": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings"
+    },
+    {
+        "title": "Count Vowel Substrings of a String",
+        "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string"
+    },
+    {
+        "title": "Vowels of All Substrings",
+        "link": "https://leetcode.com/problems/vowels-of-all-substrings"
+    },
+    {
+        "title": "Count Common Words With One Occurrence",
+        "link": "https://leetcode.com/problems/count-common-words-with-one-occurrence"
+    },
+    {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters"
+    },
+    {
+        "title": "Decode the Slanted Ciphertext",
+        "link": "https://leetcode.com/problems/decode-the-slanted-ciphertext"
+    },
+    {
+        "title": "Number of Equal Count Substrings",
+        "link": "https://leetcode.com/problems/number-of-equal-count-substrings"
+    },
+    {
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another"
+    },
+    {
+        "title": "Maximum Number of Words Found in Sentences",
+        "link": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences"
+    },
+    {
+        "title": "Find All Possible Recipes from Given Supplies",
+        "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+    },
+    {
+        "title": "Check if a Parentheses String Can Be Valid",
+        "link": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid"
+    },
+    {
+        "title": "Substrings That Begin and End With the Same Letter",
+        "link": "https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter"
+    },
+    {
+        "title": "Rings and Rods",
+        "link": "https://leetcode.com/problems/rings-and-rods"
+    },
+    {
+        "title": "Find First Palindromic String in the Array",
+        "link": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array"
+    },
+    {
+        "title": "Adding Spaces to a String",
+        "link": "https://leetcode.com/problems/adding-spaces-to-a-string"
+    },
+    {
+        "title": "Capitalize the Title",
+        "link": "https://leetcode.com/problems/capitalize-the-title"
+    },
+    {
+        "title": "Longest Palindrome by Concatenating Two Letter Words",
+        "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words"
+    },
+    {
+        "title": "Execution of All Suffix Instructions Staying in a Grid",
+        "link": "https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid"
+    },
+    {
+        "title": "Check if All A's Appears Before All B's",
+        "link": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs"
+    },
+    {
+        "title": "Number of Laser Beams in a Bank",
+        "link": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank"
+    },
+    {
+        "title": "Number of Ways to Divide a Long Corridor",
+        "link": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor"
+    },
+    {
+        "title": "Count Words Obtained After Adding a Letter",
+        "link": "https://leetcode.com/problems/count-words-obtained-after-adding-a-letter"
+    },
+    {
+        "title": "Divide a String Into Groups of Size k",
+        "link": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k"
+    },
+    {
+        "title": "Find Substring With Given Hash Value",
+        "link": "https://leetcode.com/problems/find-substring-with-given-hash-value"
+    },
+    {
+        "title": "Groups of Strings",
+        "link": "https://leetcode.com/problems/groups-of-strings"
+    },
+    {
+        "title": "Design Bitset",
+        "link": "https://leetcode.com/problems/design-bitset"
+    },
+    {
+        "title": "Minimum Time to Remove All Cars Containing Illegal Goods",
+        "link": "https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods"
+    },
+    {
+        "title": "Counting Words With a Given Prefix",
+        "link": "https://leetcode.com/problems/counting-words-with-a-given-prefix"
+    },
+    {
+        "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+        "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii"
+    },
+    {
+        "title": "Construct String With Repeat Limit",
+        "link": "https://leetcode.com/problems/construct-string-with-repeat-limit"
+    },
+    {
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency"
+    },
+    {
+        "title": "Cells in a Range on an Excel Sheet",
+        "link": "https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet"
+    },
+    {
+        "title": "Maximize Number of Subsequences in a String",
+        "link": "https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string"
+    },
+    {
+        "title": "Minimum White Tiles After Covering With Carpets",
+        "link": "https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets"
+    },
+    {
+        "title": "Count Collisions on a Road",
+        "link": "https://leetcode.com/problems/count-collisions-on-a-road"
+    },
+    {
+        "title": "Longest Substring of One Repeating Character",
+        "link": "https://leetcode.com/problems/longest-substring-of-one-repeating-character"
+    },
+    {
+        "title": "Number of Ways to Select Buildings",
+        "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings"
+    },
+    {
+        "title": "Sum of Scores of Built Strings",
+        "link": "https://leetcode.com/problems/sum-of-scores-of-built-strings"
+    },
+    {
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "link": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression"
+    },
+    {
+        "title": "Remove Digit From Number to Maximize Result",
+        "link": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result"
+    },
+    {
+        "title": "Total Appeal of A String",
+        "link": "https://leetcode.com/problems/total-appeal-of-a-string"
+    },
+    {
+        "title": "Count Prefixes of a Given String",
+        "link": "https://leetcode.com/problems/count-prefixes-of-a-given-string"
+    },
+    {
+        "title": "Minimum Number of Operations to Convert Time",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-convert-time"
+    },
+    {
+        "title": "Largest 3-Same-Digit Number in String",
+        "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string"
+    },
+    {
+        "title": "Count Number of Texts",
+        "link": "https://leetcode.com/problems/count-number-of-texts"
+    },
+    {
+        "title": "Calculate Digit Sum of a String",
+        "link": "https://leetcode.com/problems/calculate-digit-sum-of-a-string"
+    },
+    {
+        "title": "Longest Path With Different Adjacent Characters",
+        "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters"
+    },
+    {
+        "title": "Percentage of Letter in String",
+        "link": "https://leetcode.com/problems/percentage-of-letter-in-string"
+    },
+    {
+        "title": "Rearrange Characters to Make Target String",
+        "link": "https://leetcode.com/problems/rearrange-characters-to-make-target-string"
+    },
+    {
+        "title": "Apply Discount to Prices",
+        "link": "https://leetcode.com/problems/apply-discount-to-prices"
+    },
+    {
+        "title": "Check if Number Has Equal Digit Count and Digit Value",
+        "link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value"
+    },
+    {
+        "title": "Sender With Largest Word Count",
+        "link": "https://leetcode.com/problems/sender-with-largest-word-count"
+    },
+    {
+        "title": "Design a Text Editor",
+        "link": "https://leetcode.com/problems/design-a-text-editor"
+    },
+    {
+        "title": "Naming a Company",
+        "link": "https://leetcode.com/problems/naming-a-company"
+    },
+    {
+        "title": "Strong Password Checker II",
+        "link": "https://leetcode.com/problems/strong-password-checker-ii"
+    },
+    {
+        "title": "Match Substring After Replacement",
+        "link": "https://leetcode.com/problems/match-substring-after-replacement"
+    },
+    {
+        "title": "Longest Binary Subsequence Less Than or Equal to K",
+        "link": "https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k"
+    },
+    {
+        "title": "Count Asterisks",
+        "link": "https://leetcode.com/problems/count-asterisks"
+    },
+    {
+        "title": "Minimum Number of Keypresses",
+        "link": "https://leetcode.com/problems/minimum-number-of-keypresses"
+    },
+    {
+        "title": "Decode the Message",
+        "link": "https://leetcode.com/problems/decode-the-message"
+    },
+    {
+        "title": "Move Pieces to Obtain a String",
+        "link": "https://leetcode.com/problems/move-pieces-to-obtain-a-string"
+    },
+    {
+        "title": "Query Kth Smallest Trimmed Number",
+        "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number"
+    },
+    {
+        "title": "First Letter to Appear Twice",
+        "link": "https://leetcode.com/problems/first-letter-to-appear-twice"
+    },
+    {
+        "title": "Longest Ideal Subsequence",
+        "link": "https://leetcode.com/problems/longest-ideal-subsequence"
+    },
+    {
+        "title": "Construct Smallest Number From DI String",
+        "link": "https://leetcode.com/problems/construct-smallest-number-from-di-string"
+    },
+    {
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks"
+    },
+    {
+        "title": "Time Needed to Rearrange a Binary String",
+        "link": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string"
+    },
+    {
+        "title": "Shifting Letters II",
+        "link": "https://leetcode.com/problems/shifting-letters-ii"
+    },
+    {
+        "title": "Valid Palindrome IV",
+        "link": "https://leetcode.com/problems/valid-palindrome-iv"
+    },
+    {
+        "title": "Removing Stars From a String",
+        "link": "https://leetcode.com/problems/removing-stars-from-a-string"
+    },
+    {
+        "title": "Minimum Amount of Time to Collect Garbage",
+        "link": "https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage"
+    },
+    {
+        "title": "Largest Palindromic Number",
+        "link": "https://leetcode.com/problems/largest-palindromic-number"
+    },
+    {
+        "title": "Check Distances Between Same Letters",
+        "link": "https://leetcode.com/problems/check-distances-between-same-letters"
+    },
+    {
+        "title": "Optimal Partition of String",
+        "link": "https://leetcode.com/problems/optimal-partition-of-string"
+    },
+    {
+        "title": "Length of the Longest Alphabetical Continuous Substring",
+        "link": "https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring"
+    },
+    {
+        "title": "Sum of Prefix Scores of Strings",
+        "link": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings"
+    },
+    {
+        "title": "Count Days Spent Together",
+        "link": "https://leetcode.com/problems/count-days-spent-together"
+    },
+    {
+        "title": "Sort the People",
+        "link": "https://leetcode.com/problems/sort-the-people"
+    },
+    {
+        "title": "Maximum Deletions on a String",
+        "link": "https://leetcode.com/problems/maximum-deletions-on-a-string"
+    },
+    {
+        "title": "Partition String Into Substrings With Values at Most K",
+        "link": "https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k"
+    },
+    {
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+    },
+    {
+        "title": "Number of Valid Clock Times",
+        "link": "https://leetcode.com/problems/number-of-valid-clock-times"
+    },
+    {
+        "title": "Remove Letter To Equalize Frequency",
+        "link": "https://leetcode.com/problems/remove-letter-to-equalize-frequency"
+    },
+    {
+        "title": "Determine if Two Events Have Conflict",
+        "link": "https://leetcode.com/problems/determine-if-two-events-have-conflict"
+    },
+    {
+        "title": "Most Popular Video Creator",
+        "link": "https://leetcode.com/problems/most-popular-video-creator"
+    },
+    {
+        "title": "Odd String Difference",
+        "link": "https://leetcode.com/problems/odd-string-difference"
+    },
+    {
+        "title": "Words Within Two Edits of Dictionary",
+        "link": "https://leetcode.com/problems/words-within-two-edits-of-dictionary"
+    },
+    {
+        "title": "Design SQL",
+        "link": "https://leetcode.com/problems/design-sql"
+    },
+    {
+        "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+        "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings"
+    },
+    {
+        "title": "Split Message Based on Limit",
+        "link": "https://leetcode.com/problems/split-message-based-on-limit"
+    },
+    {
+        "title": "Number of Beautiful Partitions",
+        "link": "https://leetcode.com/problems/number-of-beautiful-partitions"
+    },
+    {
+        "title": "Append Characters to String to Make Subsequence",
+        "link": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence"
+    },
+    {
+        "title": "Minimum Penalty for a Shop",
+        "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop"
+    },
+    {
+        "title": "Count Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/count-palindromic-subsequences"
+    },
+    {
+        "title": "Circular Sentence",
+        "link": "https://leetcode.com/problems/circular-sentence"
+    },
+    {
+        "title": "Maximum Value of a String in an Array",
+        "link": "https://leetcode.com/problems/maximum-value-of-a-string-in-an-array"
+    },
+    {
+        "title": "Number of Distinct Binary Strings After Applying Operations",
+        "link": "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations"
+    },
+    {
+        "title": "Count Pairs Of Similar Strings",
+        "link": "https://leetcode.com/problems/count-pairs-of-similar-strings"
+    },
+    {
+        "title": "Shortest Distance to Target String in a Circular Array",
+        "link": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array"
+    },
+    {
+        "title": "Take K of Each Character From Left and Right",
+        "link": "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right"
+    },
+    {
+        "title": "Reward Top K Students",
+        "link": "https://leetcode.com/problems/reward-top-k-students"
+    },
+    {
+        "title": "Count Anagrams",
+        "link": "https://leetcode.com/problems/count-anagrams"
+    },
+    {
+        "title": "Make Number of Distinct Characters Equal",
+        "link": "https://leetcode.com/problems/make-number-of-distinct-characters-equal"
+    },
+    {
+        "title": "Number of Substrings With Fixed Ratio",
+        "link": "https://leetcode.com/problems/number-of-substrings-with-fixed-ratio"
+    },
+    {
+        "title": "Apply Bitwise Operations to Make Strings Equal",
+        "link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal"
+    },
+    {
+        "title": "Count the Number of Vowel Strings in Range",
+        "link": "https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range"
+    },
+    {
+        "title": "Find the Substring With Maximum Cost",
+        "link": "https://leetcode.com/problems/find-the-substring-with-maximum-cost"
+    },
+    {
+        "title": "Count the Number of Good Subsequences",
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+    },
+    {
+        "title": "Lexicographically Smallest Beautiful String",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string"
+    },
+    {
+        "title": "Design a Todo List",
+        "link": "https://leetcode.com/problems/design-a-todo-list"
+    },
+    {
+        "title": "Count Vowel Strings in Ranges",
+        "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges"
+    },
+    {
+        "title": "Substring XOR Queries",
+        "link": "https://leetcode.com/problems/substring-xor-queries"
+    },
+    {
+        "title": "Subsequence With the Minimum Score",
+        "link": "https://leetcode.com/problems/subsequence-with-the-minimum-score"
+    },
+    {
+        "title": "Find the String with LCP",
+        "link": "https://leetcode.com/problems/find-the-string-with-lcp"
+    },
+    {
+        "title": "Find the Divisibility Array of a String",
+        "link": "https://leetcode.com/problems/find-the-divisibility-array-of-a-string"
+    },
+    {
+        "title": "Find the Longest Balanced Substring of a Binary String",
+        "link": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string"
+    },
+    {
+        "title": "Number of Senior Citizens",
+        "link": "https://leetcode.com/problems/number-of-senior-citizens"
+    },
+    {
+        "title": "Minimum Additions to Make Valid String",
+        "link": "https://leetcode.com/problems/minimum-additions-to-make-valid-string"
+    },
+    {
+        "title": "Extra Characters in a String",
+        "link": "https://leetcode.com/problems/extra-characters-in-a-string"
+    },
+    {
+        "title": "Count of Integers",
+        "link": "https://leetcode.com/problems/count-of-integers"
+    },
+    {
+        "title": "Find the Longest Semi-Repetitive Substring",
+        "link": "https://leetcode.com/problems/find-the-longest-semi-repetitive-substring"
+    },
+    {
+        "title": "Minimum String Length After Removing Substrings",
+        "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings"
+    },
+    {
+        "title": "Lexicographically Smallest Palindrome",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-palindrome"
+    },
+    {
+        "title": "Minimum Cost to Make All Characters Equal",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal"
+    },
+    {
+        "title": "Remove Trailing Zeros From a String",
+        "link": "https://leetcode.com/problems/remove-trailing-zeros-from-a-string"
+    },
+    {
+        "title": "Minimize String Length",
+        "link": "https://leetcode.com/problems/minimize-string-length"
+    },
+    {
+        "title": "Lexicographically Smallest String After Substring Operation",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation"
+    },
+    {
+        "title": "Find Maximum Number of String Pairs",
+        "link": "https://leetcode.com/problems/find-maximum-number-of-string-pairs"
+    },
+    {
+        "title": "Decremental String Concatenation",
+        "link": "https://leetcode.com/problems/decremental-string-concatenation"
+    },
+    {
+        "title": "Shortest String That Contains Three Strings",
+        "link": "https://leetcode.com/problems/shortest-string-that-contains-three-strings"
+    },
+    {
+        "title": "Minimum Changes to Make K Semi-palindromes",
+        "link": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes"
+    },
+    {
+        "title": "Split Strings by Separator",
+        "link": "https://leetcode.com/problems/split-strings-by-separator"
+    },
+    {
+        "title": "Partition String Into Minimum Beautiful Substrings",
+        "link": "https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings"
+    },
+    {
+        "title": "Length of the Longest Valid Substring",
+        "link": "https://leetcode.com/problems/length-of-the-longest-valid-substring"
+    },
+    {
+        "title": "Faulty Keyboard",
+        "link": "https://leetcode.com/problems/faulty-keyboard"
+    },
+    {
+        "title": "Sort Vowels in a String",
+        "link": "https://leetcode.com/problems/sort-vowels-in-a-string"
+    },
+    {
+        "title": "Count Substrings Without Repeating Character",
+        "link": "https://leetcode.com/problems/count-substrings-without-repeating-character"
+    },
+    {
+        "title": "Count Stepping Numbers in Range",
+        "link": "https://leetcode.com/problems/count-stepping-numbers-in-range"
+    },
+    {
+        "title": "Check if a String Is an Acronym of Words",
+        "link": "https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words"
+    },
+    {
+        "title": "Check if Strings Can be Made Equal With Operations II",
+        "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii"
+    },
+    {
+        "title": "Check if Strings Can be Made Equal With Operations I",
+        "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i"
+    },
+    {
+        "title": "Make String a Subsequence Using Cyclic Increments",
+        "link": "https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments"
+    },
+    {
+        "title": "Furthest Point From Origin",
+        "link": "https://leetcode.com/problems/furthest-point-from-origin"
+    },
+    {
+        "title": "String Transformation",
+        "link": "https://leetcode.com/problems/string-transformation"
+    },
+    {
+        "title": "Find The K-th Lucky Number",
+        "link": "https://leetcode.com/problems/find-the-k-th-lucky-number"
+    },
+    {
+        "title": "Apply Operations to Make Two Strings Equal",
+        "link": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal"
+    },
+    {
+        "title": "Minimum Operations to Make a Special Number",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-a-special-number"
+    },
+    {
+        "title": "Maximum Odd Binary Number",
+        "link": "https://leetcode.com/problems/maximum-odd-binary-number"
+    },
+    {
+        "title": "Count K-Subsequences of a String With Maximum Beauty",
+        "link": "https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty"
+    },
+    {
+        "title": "Longest Unequal Adjacent Groups Subsequence II",
+        "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii"
+    },
+    {
+        "title": "Longest Unequal Adjacent Groups Subsequence I",
+        "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i"
+    },
+    {
+        "title": "Shortest and Lexicographically Smallest Beautiful String",
+        "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string"
+    },
+    {
+        "title": "The Wording Game",
+        "link": "https://leetcode.com/problems/the-wording-game"
+    },
+    {
+        "title": "Minimum Number of Changes to Make Binary String Beautiful",
+        "link": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful"
+    },
+    {
+        "title": "Find Words Containing Character",
+        "link": "https://leetcode.com/problems/find-words-containing-character"
+    },
+    {
+        "title": "Separate Black and White Balls",
+        "link": "https://leetcode.com/problems/separate-black-and-white-balls"
+    },
+    {
+        "title": "High-Access Employees",
+        "link": "https://leetcode.com/problems/high-access-employees"
+    },
+    {
+        "title": "Palindrome Rearrangement Queries",
+        "link": "https://leetcode.com/problems/palindrome-rearrangement-queries"
+    },
+    {
+        "title": "Make Three Strings Equal",
+        "link": "https://leetcode.com/problems/make-three-strings-equal"
+    },
+    {
+        "title": "Count Beautiful Substrings II",
+        "link": "https://leetcode.com/problems/count-beautiful-substrings-ii"
+    },
+    {
+        "title": "Count Beautiful Substrings I",
+        "link": "https://leetcode.com/problems/count-beautiful-substrings-i"
+    },
+    {
+        "title": "Count Complete Substrings",
+        "link": "https://leetcode.com/problems/count-complete-substrings"
+    },
+    {
+        "title": "Remove Adjacent Almost-Equal Characters",
+        "link": "https://leetcode.com/problems/remove-adjacent-almost-equal-characters"
+    },
+    {
+        "title": "Maximize the Number of Partitions After Operations",
+        "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations"
+    },
+    {
+        "title": "Minimum Cost to Convert String I",
+        "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-i"
+    },
+    {
+        "title": "Number of Divisible Substrings",
+        "link": "https://leetcode.com/problems/number-of-divisible-substrings"
+    },
+    {
+        "title": "Minimum Cost to Convert String II",
+        "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii"
+    },
+    {
+        "title": "Count the Number of Powerful Integers",
+        "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers"
+    },
+    {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i"
+    },
+    {
+        "title": "Number of Same-End Substrings",
+        "link": "https://leetcode.com/problems/number-of-same-end-substrings"
+    },
+    {
+        "title": "Find Longest Special Substring That Occurs Thrice II",
+        "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii"
+    },
+    {
+        "title": "Find Longest Special Substring That Occurs Thrice I",
+        "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i"
+    },
+    {
+        "title": "Minimum Number of Pushes to Type Word I",
+        "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i"
+    },
+    {
+        "title": "Minimum Number of Pushes to Type Word II",
+        "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii"
+    },
+    {
+        "title": "Minimum Time to Revert Word to Initial State II",
+        "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii"
+    },
+    {
+        "title": "Minimum Time to Revert Word to Initial State I",
+        "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i"
+    },
+    {
+        "title": "Find Beautiful Indices in the Given Array II",
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii"
+    },
+    {
+        "title": "Count Prefix and Suffix Pairs II",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii"
+    },
+    {
+        "title": "Count Prefix and Suffix Pairs I",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i"
+    },
+    {
+        "title": "Number of Changing Keys",
+        "link": "https://leetcode.com/problems/number-of-changing-keys"
+    },
+    {
+        "title": "Maximum Palindromes After Operations",
+        "link": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+    },
+    {
+        "title": "Find the Length of the Longest Common Prefix",
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+    },
+    {
+        "title": "Count Substrings Starting and Ending with Given Character",
+        "link": "https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character"
+    },
+    {
+        "title": "Lexicographically Smallest String After Operations With Constraint",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint"
+    },
+    {
+        "title": "Maximum Length Substring With Two Occurrences",
+        "link": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences"
+    },
+    {
+        "title": "Existence of a Substring in a String and Its Reverse",
+        "link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse"
+    },
+    {
+        "title": "Replace Question Marks in String to Minimize Its Value",
+        "link": "https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value"
+    },
+    {
+        "title": "Shortest Uncommon Substring in an Array",
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+    },
+    {
+        "title": "Minimum Deletions to Make String K-Special",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special"
+    },
+    {
+        "title": "Latest Time You Can Obtain After Replacing Characters",
+        "link": "https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters"
+    },
+    {
+        "title": "Longest Common Suffix Queries",
+        "link": "https://leetcode.com/problems/longest-common-suffix-queries"
+    },
+    {
+        "title": "Score of a String",
+        "link": "https://leetcode.com/problems/score-of-a-string"
+    },
+    {
+        "title": "Minimum Number of Operations to Make Word K-Periodic",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic"
+    },
+    {
+        "title": "Match Alphanumerical Pattern in Matrix I",
+        "link": "https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i"
+    },
+    {
+        "title": "Make String Anti-palindrome",
+        "link": "https://leetcode.com/problems/make-string-anti-palindrome"
+    },
+    {
+        "title": "Minimum Length of Anagram Concatenation",
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation"
+    },
+    {
+        "title": "Valid Word",
+        "link": "https://leetcode.com/problems/valid-word"
+    },
+    {
+        "title": "Minimum Substring Partition of Equal Character Frequency",
+        "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency"
+    },
+    {
+        "title": "Count the Number of Special Characters II",
+        "link": "https://leetcode.com/problems/count-the-number-of-special-characters-ii"
+    },
+    {
+        "title": "Count the Number of Special Characters I",
+        "link": "https://leetcode.com/problems/count-the-number-of-special-characters-i"
+    },
+    {
+        "title": "Find Longest Self-Contained Substring",
+        "link": "https://leetcode.com/problems/find-longest-self-contained-substring"
+    },
+    {
+        "title": "Permutation Difference between Two Strings",
+        "link": "https://leetcode.com/problems/permutation-difference-between-two-strings"
+    },
+    {
+        "title": "Maximum Points Inside the Square",
+        "link": "https://leetcode.com/problems/maximum-points-inside-the-square"
+    },
+    {
+        "title": "Maximum Number of Potholes That Can Be Fixed",
+        "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed"
+    },
+    {
+        "title": "Minimum Number of Chairs in a Waiting Room",
+        "link": "https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room"
+    },
+    {
+        "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+        "link": "https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero"
+    },
+    {
+        "title": "Equalize Strings by Adding or Removing Characters at Ends",
+        "link": "https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends"
+    },
+    {
+        "title": "Lexicographically Minimum String After Removing Stars",
+        "link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars"
+    },
+    {
+        "title": "Clear Digits",
+        "link": "https://leetcode.com/problems/clear-digits"
+    },
+    {
+        "title": "String Compression III",
+        "link": "https://leetcode.com/problems/string-compression-iii"
+    },
+    {
+        "title": "Generate Binary Strings Without Adjacent Zeros",
+        "link": "https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros"
+    },
+    {
+        "title": "Minimum Length of String After Operations",
+        "link": "https://leetcode.com/problems/minimum-length-of-string-after-operations"
+    },
+    {
+        "title": "Vowels Game in a String",
+        "link": "https://leetcode.com/problems/vowels-game-in-a-string"
+    },
+    {
+        "title": "Find the Encrypted String",
+        "link": "https://leetcode.com/problems/find-the-encrypted-string"
+    },
+    {
+        "title": "Better Compression of String",
+        "link": "https://leetcode.com/problems/better-compression-of-string"
+    },
+    {
+        "title": "Count the Number of Substrings With Dominant Ones",
+        "link": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones"
+    },
+    {
+        "title": "Construct String with Minimum Cost",
+        "link": "https://leetcode.com/problems/construct-string-with-minimum-cost"
+    },
+    {
+        "title": "Lexicographically Smallest String After a Swap",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap"
+    },
+    {
+        "title": "Maximum Number of Operations to Move Ones to the End",
+        "link": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end"
+    },
+    {
+        "title": "Snake in Matrix",
+        "link": "https://leetcode.com/problems/snake-in-matrix"
+    }
+]

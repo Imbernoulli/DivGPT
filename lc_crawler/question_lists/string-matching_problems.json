@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Find the Index of the First Occurrence in a String",
+        "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+        "title": "Shortest Palindrome",
+        "link": "https://leetcode.com/problems/shortest-palindrome"
+    },
+    {
+        "title": "Repeated Substring Pattern",
+        "link": "https://leetcode.com/problems/repeated-substring-pattern"
+    },
+    {
+        "title": "Subtree of Another Tree",
+        "link": "https://leetcode.com/problems/subtree-of-another-tree"
+    },
+    {
+        "title": "Add Bold Tag in String",
+        "link": "https://leetcode.com/problems/add-bold-tag-in-string"
+    },
+    {
+        "title": "Repeated String Match",
+        "link": "https://leetcode.com/problems/repeated-string-match"
+    },
+    {
+        "title": "Bold Words in String",
+        "link": "https://leetcode.com/problems/bold-words-in-string"
+    },
+    {
+        "title": "Rotate String",
+        "link": "https://leetcode.com/problems/rotate-string"
+    },
+    {
+        "title": "Camelcase Matching",
+        "link": "https://leetcode.com/problems/camelcase-matching"
+    },
+    {
+        "title": "Longest Happy Prefix",
+        "link": "https://leetcode.com/problems/longest-happy-prefix"
+    },
+    {
+        "title": "Find All Good Strings",
+        "link": "https://leetcode.com/problems/find-all-good-strings"
+    },
+    {
+        "title": "String Matching in an Array",
+        "link": "https://leetcode.com/problems/string-matching-in-an-array"
+    },
+    {
+        "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+        "link": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
+    },
+    {
+        "title": "Maximum Repeating Substring",
+        "link": "https://leetcode.com/problems/maximum-repeating-substring"
+    },
+    {
+        "title": "Form Array by Concatenating Subarrays of Another Array",
+        "link": "https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array"
+    },
+    {
+        "title": "Counting Words With a Given Prefix",
+        "link": "https://leetcode.com/problems/counting-words-with-a-given-prefix"
+    },
+    {
+        "title": "Sum of Scores of Built Strings",
+        "link": "https://leetcode.com/problems/sum-of-scores-of-built-strings"
+    },
+    {
+        "title": "Match Substring After Replacement",
+        "link": "https://leetcode.com/problems/match-substring-after-replacement"
+    },
+    {
+        "title": "Maximum Deletions on a String",
+        "link": "https://leetcode.com/problems/maximum-deletions-on-a-string"
+    },
+    {
+        "title": "String Transformation",
+        "link": "https://leetcode.com/problems/string-transformation"
+    },
+    {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i"
+    },
+    {
+        "title": "Number of Subarrays That Match a Pattern I",
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i"
+    },
+    {
+        "title": "Number of Subarrays That Match a Pattern II",
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii"
+    },
+    {
+        "title": "Minimum Time to Revert Word to Initial State II",
+        "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii"
+    },
+    {
+        "title": "Minimum Time to Revert Word to Initial State I",
+        "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i"
+    },
+    {
+        "title": "Find Beautiful Indices in the Given Array II",
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii"
+    },
+    {
+        "title": "Count Prefix and Suffix Pairs II",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii"
+    },
+    {
+        "title": "Count Prefix and Suffix Pairs I",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i"
+    },
+    {
+        "title": "Find Pattern in Infinite Stream I",
+        "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-i"
+    },
+    {
+        "title": "Find Pattern in Infinite Stream II",
+        "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-ii"
+    }
+]

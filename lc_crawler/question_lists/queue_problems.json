@@ -1,0 +1,186 @@
+[
+    {
+        "title": "Implement Stack using Queues",
+        "link": "https://leetcode.com/problems/implement-stack-using-queues"
+    },
+    {
+        "title": "Implement Queue using Stacks",
+        "link": "https://leetcode.com/problems/implement-queue-using-stacks"
+    },
+    {
+        "title": "Sliding Window Maximum",
+        "link": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+        "title": "Zigzag Iterator",
+        "link": "https://leetcode.com/problems/zigzag-iterator"
+    },
+    {
+        "title": "Flatten Nested List Iterator",
+        "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+    },
+    {
+        "title": "Moving Average from Data Stream",
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream"
+    },
+    {
+        "title": "Design Snake Game",
+        "link": "https://leetcode.com/problems/design-snake-game"
+    },
+    {
+        "title": "Design Hit Counter",
+        "link": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+        "title": "Design Phone Directory",
+        "link": "https://leetcode.com/problems/design-phone-directory"
+    },
+    {
+        "title": "First Unique Character in a String",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+    },
+    {
+        "title": "Dota2 Senate",
+        "link": "https://leetcode.com/problems/dota2-senate"
+    },
+    {
+        "title": "K Empty Slots",
+        "link": "https://leetcode.com/problems/k-empty-slots"
+    },
+    {
+        "title": "Design Circular Deque",
+        "link": "https://leetcode.com/problems/design-circular-deque"
+    },
+    {
+        "title": "Design Circular Queue",
+        "link": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+        "title": "Shortest Subarray with Sum at Least K",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k"
+    },
+    {
+        "title": "Maximum Sum Circular Subarray",
+        "link": "https://leetcode.com/problems/maximum-sum-circular-subarray"
+    },
+    {
+        "title": "Number of Recent Calls",
+        "link": "https://leetcode.com/problems/number-of-recent-calls"
+    },
+    {
+        "title": "Stamping The Sequence",
+        "link": "https://leetcode.com/problems/stamping-the-sequence"
+    },
+    {
+        "title": "Reveal Cards In Increasing Order",
+        "link": "https://leetcode.com/problems/reveal-cards-in-increasing-order"
+    },
+    {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "link": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips"
+    },
+    {
+        "title": "Constrained Subsequence Sum",
+        "link": "https://leetcode.com/problems/constrained-subsequence-sum"
+    },
+    {
+        "title": "First Unique Number",
+        "link": "https://leetcode.com/problems/first-unique-number"
+    },
+    {
+        "title": "Product of the Last K Numbers",
+        "link": "https://leetcode.com/problems/product-of-the-last-k-numbers"
+    },
+    {
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+    },
+    {
+        "title": "Max Value of Equation",
+        "link": "https://leetcode.com/problems/max-value-of-equation"
+    },
+    {
+        "title": "Design Front Middle Back Queue",
+        "link": "https://leetcode.com/problems/design-front-middle-back-queue"
+    },
+    {
+        "title": "Delivering Boxes from Storage to Ports",
+        "link": "https://leetcode.com/problems/delivering-boxes-from-storage-to-ports"
+    },
+    {
+        "title": "Number of Students Unable to Eat Lunch",
+        "link": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch"
+    },
+    {
+        "title": "Jump Game VI",
+        "link": "https://leetcode.com/problems/jump-game-vi"
+    },
+    {
+        "title": "Find the Winner of the Circular Game",
+        "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game"
+    },
+    {
+        "title": "Finding MK Average",
+        "link": "https://leetcode.com/problems/finding-mk-average"
+    },
+    {
+        "title": "Maximum Number of Tasks You Can Assign",
+        "link": "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign"
+    },
+    {
+        "title": "Time Needed to Buy Tickets",
+        "link": "https://leetcode.com/problems/time-needed-to-buy-tickets"
+    },
+    {
+        "title": "Number of People Aware of a Secret",
+        "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret"
+    },
+    {
+        "title": "Maximum Number of Robots Within Budget",
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget"
+    },
+    {
+        "title": "Longest Increasing Subsequence II",
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence-ii"
+    },
+    {
+        "title": "Count Subarrays With Fixed Bounds",
+        "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+    },
+    {
+        "title": "Time Taken to Cross the Door",
+        "link": "https://leetcode.com/problems/time-taken-to-cross-the-door"
+    },
+    {
+        "title": "Maximize the Minimum Powered City",
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+    },
+    {
+        "title": "Find Consecutive Integers from a Data Stream",
+        "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream"
+    },
+    {
+        "title": "Continuous Subarrays",
+        "link": "https://leetcode.com/problems/continuous-subarrays"
+    },
+    {
+        "title": "Minimum Number of Coins for Fruits",
+        "link": "https://leetcode.com/problems/minimum-number-of-coins-for-fruits"
+    },
+    {
+        "title": "Find Maximum Non-decreasing Array Length",
+        "link": "https://leetcode.com/problems/find-maximum-non-decreasing-array-length"
+    },
+    {
+        "title": "Minimum Number of Coins for Fruits II",
+        "link": "https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii"
+    },
+    {
+        "title": "Minimum Sum of Values by Dividing Array",
+        "link": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array"
+    },
+    {
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Android Unlock Patterns",
+        "link": "https://leetcode.com/problems/android-unlock-patterns"
+    },
+    {
+        "title": "Can I Win",
+        "link": "https://leetcode.com/problems/can-i-win"
+    },
+    {
+        "title": "Optimal Account Balancing",
+        "link": "https://leetcode.com/problems/optimal-account-balancing"
+    },
+    {
+        "title": "Matchsticks to Square",
+        "link": "https://leetcode.com/problems/matchsticks-to-square"
+    },
+    {
+        "title": "Beautiful Arrangement",
+        "link": "https://leetcode.com/problems/beautiful-arrangement"
+    },
+    {
+        "title": "Shopping Offers",
+        "link": "https://leetcode.com/problems/shopping-offers"
+    },
+    {
+        "title": "Stickers to Spell Word",
+        "link": "https://leetcode.com/problems/stickers-to-spell-word"
+    },
+    {
+        "title": "Partition to K Equal Sum Subsets",
+        "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets"
+    },
+    {
+        "title": "Split Array With Same Average",
+        "link": "https://leetcode.com/problems/split-array-with-same-average"
+    },
+    {
+        "title": "Shortest Path Visiting All Nodes",
+        "link": "https://leetcode.com/problems/shortest-path-visiting-all-nodes"
+    },
+    {
+        "title": "Find the Shortest Superstring",
+        "link": "https://leetcode.com/problems/find-the-shortest-superstring"
+    },
+    {
+        "title": "Number of Squareful Arrays",
+        "link": "https://leetcode.com/problems/number-of-squareful-arrays"
+    },
+    {
+        "title": "Campus Bikes II",
+        "link": "https://leetcode.com/problems/campus-bikes-ii"
+    },
+    {
+        "title": "Smallest Sufficient Team",
+        "link": "https://leetcode.com/problems/smallest-sufficient-team"
+    },
+    {
+        "title": "Maximum Score Words Formed by Letters",
+        "link": "https://leetcode.com/problems/maximum-score-words-formed-by-letters"
+    },
+    {
+        "title": "Fair Distribution of Cookies",
+        "link": "https://leetcode.com/problems/fair-distribution-of-cookies"
+    },
+    {
+        "title": "Maximum Students Taking Exam",
+        "link": "https://leetcode.com/problems/maximum-students-taking-exam"
+    },
+    {
+        "title": "Number of Ways to Wear Different Hats to Each Other",
+        "link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other"
+    },
+    {
+        "title": "Parallel Courses II",
+        "link": "https://leetcode.com/problems/parallel-courses-ii"
+    },
+    {
+        "title": "Minimum Cost to Connect Two Groups of Points",
+        "link": "https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points"
+    },
+    {
+        "title": "Count Subtrees With Max Distance Between Cities",
+        "link": "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities"
+    },
+    {
+        "title": "Distribute Repeating Integers",
+        "link": "https://leetcode.com/problems/distribute-repeating-integers"
+    },
+    {
+        "title": "Maximize Grid Happiness",
+        "link": "https://leetcode.com/problems/maximize-grid-happiness"
+    },
+    {
+        "title": "Minimum Incompatibility",
+        "link": "https://leetcode.com/problems/minimum-incompatibility"
+    },
+    {
+        "title": "Find Minimum Time to Finish All Jobs",
+        "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs"
+    },
+    {
+        "title": "Closest Subsequence Sum",
+        "link": "https://leetcode.com/problems/closest-subsequence-sum"
+    },
+    {
+        "title": "Maximize Score After N Operations",
+        "link": "https://leetcode.com/problems/maximize-score-after-n-operations"
+    },
+    {
+        "title": "Maximum Number of Groups Getting Fresh Donuts",
+        "link": "https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts"
+    },
+    {
+        "title": "Minimum XOR Sum of Two Arrays",
+        "link": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays"
+    },
+    {
+        "title": "Maximum Cost of Trip With K Highways",
+        "link": "https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways"
+    },
+    {
+        "title": "Maximum Compatibility Score Sum",
+        "link": "https://leetcode.com/problems/maximum-compatibility-score-sum"
+    },
+    {
+        "title": "The Number of Good Subsets",
+        "link": "https://leetcode.com/problems/the-number-of-good-subsets"
+    },
+    {
+        "title": "Minimum Number of Work Sessions to Finish the Tasks",
+        "link": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks"
+    },
+    {
+        "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences"
+    },
+    {
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference"
+    },
+    {
+        "title": "Minimum Number of Lines to Cover Points",
+        "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points"
+    },
+    {
+        "title": "Maximum AND Sum of Array",
+        "link": "https://leetcode.com/problems/maximum-and-sum-of-array"
+    },
+    {
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall"
+    },
+    {
+        "title": "Minimum Time to Kill All Monsters",
+        "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters"
+    },
+    {
+        "title": "Count the Number of Square-Free Subsets",
+        "link": "https://leetcode.com/problems/count-the-number-of-square-free-subsets"
+    },
+    {
+        "title": "Special Permutations",
+        "link": "https://leetcode.com/problems/special-permutations"
+    },
+    {
+        "title": "Count Paths That Can Form a Palindrome in a Tree",
+        "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree"
+    },
+    {
+        "title": "Maximize the Number of Partitions After Operations",
+        "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations"
+    },
+    {
+        "title": "Number of Self-Divisible Permutations",
+        "link": "https://leetcode.com/problems/number-of-self-divisible-permutations"
+    },
+    {
+        "title": "Find the Minimum Cost Array Permutation",
+        "link": "https://leetcode.com/problems/find-the-minimum-cost-array-permutation"
+    }
+]

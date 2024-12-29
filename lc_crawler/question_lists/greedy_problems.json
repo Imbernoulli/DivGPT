@@ -1,0 +1,1498 @@
+[
+    {
+        "title": "Container With Most Water",
+        "link": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+        "title": "Wildcard Matching",
+        "link": "https://leetcode.com/problems/wildcard-matching"
+    },
+    {
+        "title": "Jump Game II",
+        "link": "https://leetcode.com/problems/jump-game-ii"
+    },
+    {
+        "title": "Jump Game",
+        "link": "https://leetcode.com/problems/jump-game"
+    },
+    {
+        "title": "Best Time to Buy and Sell Stock II",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+        "title": "Gas Station",
+        "link": "https://leetcode.com/problems/gas-station"
+    },
+    {
+        "title": "Candy",
+        "link": "https://leetcode.com/problems/candy"
+    },
+    {
+        "title": "Largest Number",
+        "link": "https://leetcode.com/problems/largest-number"
+    },
+    {
+        "title": "Meeting Rooms II",
+        "link": "https://leetcode.com/problems/meeting-rooms-ii"
+    },
+    {
+        "title": "Wiggle Sort",
+        "link": "https://leetcode.com/problems/wiggle-sort"
+    },
+    {
+        "title": "Remove Duplicate Letters",
+        "link": "https://leetcode.com/problems/remove-duplicate-letters"
+    },
+    {
+        "title": "Create Maximum Number",
+        "link": "https://leetcode.com/problems/create-maximum-number"
+    },
+    {
+        "title": "Wiggle Sort II",
+        "link": "https://leetcode.com/problems/wiggle-sort-ii"
+    },
+    {
+        "title": "Patching Array",
+        "link": "https://leetcode.com/problems/patching-array"
+    },
+    {
+        "title": "Increasing Triplet Subsequence",
+        "link": "https://leetcode.com/problems/increasing-triplet-subsequence"
+    },
+    {
+        "title": "Rearrange String k Distance Apart",
+        "link": "https://leetcode.com/problems/rearrange-string-k-distance-apart"
+    },
+    {
+        "title": "Wiggle Subsequence",
+        "link": "https://leetcode.com/problems/wiggle-subsequence"
+    },
+    {
+        "title": "Integer Replacement",
+        "link": "https://leetcode.com/problems/integer-replacement"
+    },
+    {
+        "title": "Remove K Digits",
+        "link": "https://leetcode.com/problems/remove-k-digits"
+    },
+    {
+        "title": "Longest Palindrome",
+        "link": "https://leetcode.com/problems/longest-palindrome"
+    },
+    {
+        "title": "Split Array Largest Sum",
+        "link": "https://leetcode.com/problems/split-array-largest-sum"
+    },
+    {
+        "title": "Strong Password Checker",
+        "link": "https://leetcode.com/problems/strong-password-checker"
+    },
+    {
+        "title": "Non-overlapping Intervals",
+        "link": "https://leetcode.com/problems/non-overlapping-intervals"
+    },
+    {
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons"
+    },
+    {
+        "title": "Assign Cookies",
+        "link": "https://leetcode.com/problems/assign-cookies"
+    },
+    {
+        "title": "Find Permutation",
+        "link": "https://leetcode.com/problems/find-permutation"
+    },
+    {
+        "title": "IPO",
+        "link": "https://leetcode.com/problems/ipo"
+    },
+    {
+        "title": "Super Washing Machines",
+        "link": "https://leetcode.com/problems/super-washing-machines"
+    },
+    {
+        "title": "Word Abbreviation",
+        "link": "https://leetcode.com/problems/word-abbreviation"
+    },
+    {
+        "title": "Split Concatenated Strings",
+        "link": "https://leetcode.com/problems/split-concatenated-strings"
+    },
+    {
+        "title": "Array Partition",
+        "link": "https://leetcode.com/problems/array-partition"
+    },
+    {
+        "title": "Shortest Unsorted Continuous Subarray",
+        "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray"
+    },
+    {
+        "title": "Can Place Flowers",
+        "link": "https://leetcode.com/problems/can-place-flowers"
+    },
+    {
+        "title": "Valid Triangle Number",
+        "link": "https://leetcode.com/problems/valid-triangle-number"
+    },
+    {
+        "title": "Task Scheduler",
+        "link": "https://leetcode.com/problems/task-scheduler"
+    },
+    {
+        "title": "Maximum Distance in Arrays",
+        "link": "https://leetcode.com/problems/maximum-distance-in-arrays"
+    },
+    {
+        "title": "Minimum Factorization",
+        "link": "https://leetcode.com/problems/minimum-factorization"
+    },
+    {
+        "title": "Course Schedule III",
+        "link": "https://leetcode.com/problems/course-schedule-iii"
+    },
+    {
+        "title": "Smallest Range Covering Elements from K Lists",
+        "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists"
+    },
+    {
+        "title": "Maximum Length of Pair Chain",
+        "link": "https://leetcode.com/problems/maximum-length-of-pair-chain"
+    },
+    {
+        "title": "Dota2 Senate",
+        "link": "https://leetcode.com/problems/dota2-senate"
+    },
+    {
+        "title": "Split Array into Consecutive Subsequences",
+        "link": "https://leetcode.com/problems/split-array-into-consecutive-subsequences"
+    },
+    {
+        "title": "Maximum Swap",
+        "link": "https://leetcode.com/problems/maximum-swap"
+    },
+    {
+        "title": "Valid Parenthesis String",
+        "link": "https://leetcode.com/problems/valid-parenthesis-string"
+    },
+    {
+        "title": "Valid Palindrome II",
+        "link": "https://leetcode.com/problems/valid-palindrome-ii"
+    },
+    {
+        "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee"
+    },
+    {
+        "title": "Monotone Increasing Digits",
+        "link": "https://leetcode.com/problems/monotone-increasing-digits"
+    },
+    {
+        "title": "Set Intersection Size At Least Two",
+        "link": "https://leetcode.com/problems/set-intersection-size-at-least-two"
+    },
+    {
+        "title": "Partition Labels",
+        "link": "https://leetcode.com/problems/partition-labels"
+    },
+    {
+        "title": "Couples Holding Hands",
+        "link": "https://leetcode.com/problems/couples-holding-hands"
+    },
+    {
+        "title": "Reorganize String",
+        "link": "https://leetcode.com/problems/reorganize-string"
+    },
+    {
+        "title": "Max Chunks To Make Sorted II",
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii"
+    },
+    {
+        "title": "Max Chunks To Make Sorted",
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted"
+    },
+    {
+        "title": "Rabbits in Forest",
+        "link": "https://leetcode.com/problems/rabbits-in-forest"
+    },
+    {
+        "title": "Max Increase to Keep City Skyline",
+        "link": "https://leetcode.com/problems/max-increase-to-keep-city-skyline"
+    },
+    {
+        "title": "Most Profit Assigning Work",
+        "link": "https://leetcode.com/problems/most-profit-assigning-work"
+    },
+    {
+        "title": "Hand of Straights",
+        "link": "https://leetcode.com/problems/hand-of-straights"
+    },
+    {
+        "title": "Minimum Cost to Hire K Workers",
+        "link": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers"
+    },
+    {
+        "title": "Lemonade Change",
+        "link": "https://leetcode.com/problems/lemonade-change"
+    },
+    {
+        "title": "Score After Flipping Matrix",
+        "link": "https://leetcode.com/problems/score-after-flipping-matrix"
+    },
+    {
+        "title": "Advantage Shuffle",
+        "link": "https://leetcode.com/problems/advantage-shuffle"
+    },
+    {
+        "title": "Minimum Number of Refueling Stops",
+        "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops"
+    },
+    {
+        "title": "Boats to Save People",
+        "link": "https://leetcode.com/problems/boats-to-save-people"
+    },
+    {
+        "title": "Smallest Range II",
+        "link": "https://leetcode.com/problems/smallest-range-ii"
+    },
+    {
+        "title": "Minimum Add to Make Parentheses Valid",
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid"
+    },
+    {
+        "title": "Stamping The Sequence",
+        "link": "https://leetcode.com/problems/stamping-the-sequence"
+    },
+    {
+        "title": "DI String Match",
+        "link": "https://leetcode.com/problems/di-string-match"
+    },
+    {
+        "title": "Minimum Increment to Make Array Unique",
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+    },
+    {
+        "title": "Bag of Tokens",
+        "link": "https://leetcode.com/problems/bag-of-tokens"
+    },
+    {
+        "title": "Array of Doubled Pairs",
+        "link": "https://leetcode.com/problems/array-of-doubled-pairs"
+    },
+    {
+        "title": "Delete Columns to Make Sorted II",
+        "link": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii"
+    },
+    {
+        "title": "Pancake Sorting",
+        "link": "https://leetcode.com/problems/pancake-sorting"
+    },
+    {
+        "title": "Largest Perimeter Triangle",
+        "link": "https://leetcode.com/problems/largest-perimeter-triangle"
+    },
+    {
+        "title": "String Without AAA or BBB",
+        "link": "https://leetcode.com/problems/string-without-aaa-or-bbb"
+    },
+    {
+        "title": "Broken Calculator",
+        "link": "https://leetcode.com/problems/broken-calculator"
+    },
+    {
+        "title": "Maximize Sum Of Array After K Negations",
+        "link": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations"
+    },
+    {
+        "title": "Minimum Domino Rotations For Equal Row",
+        "link": "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row"
+    },
+    {
+        "title": "Shortest Way to Form String",
+        "link": "https://leetcode.com/problems/shortest-way-to-form-string"
+    },
+    {
+        "title": "Campus Bikes",
+        "link": "https://leetcode.com/problems/campus-bikes"
+    },
+    {
+        "title": "Minimize Rounding Error to Meet Target",
+        "link": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target"
+    },
+    {
+        "title": "Partition Array Into Three Parts With Equal Sum",
+        "link": "https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum"
+    },
+    {
+        "title": "Video Stitching",
+        "link": "https://leetcode.com/problems/video-stitching"
+    },
+    {
+        "title": "Two City Scheduling",
+        "link": "https://leetcode.com/problems/two-city-scheduling"
+    },
+    {
+        "title": "Minimum Cost to Connect Sticks",
+        "link": "https://leetcode.com/problems/minimum-cost-to-connect-sticks"
+    },
+    {
+        "title": "Previous Permutation With One Swap",
+        "link": "https://leetcode.com/problems/previous-permutation-with-one-swap"
+    },
+    {
+        "title": "Distant Barcodes",
+        "link": "https://leetcode.com/problems/distant-barcodes"
+    },
+    {
+        "title": "How Many Apples Can You Put into the Basket",
+        "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket"
+    },
+    {
+        "title": "Maximum Number of Ones",
+        "link": "https://leetcode.com/problems/maximum-number-of-ones"
+    },
+    {
+        "title": "Smallest Subsequence of Distinct Characters",
+        "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
+    },
+    {
+        "title": "Minimum Time to Build Blocks",
+        "link": "https://leetcode.com/problems/minimum-time-to-build-blocks"
+    },
+    {
+        "title": "Largest Values From Labels",
+        "link": "https://leetcode.com/problems/largest-values-from-labels"
+    },
+    {
+        "title": "Minimum Cost Tree From Leaf Values",
+        "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
+    },
+    {
+        "title": "Decrease Elements To Make Array Zigzag",
+        "link": "https://leetcode.com/problems/decrease-elements-to-make-array-zigzag"
+    },
+    {
+        "title": "Longest Chunked Palindrome Decomposition",
+        "link": "https://leetcode.com/problems/longest-chunked-palindrome-decomposition"
+    },
+    {
+        "title": "Break a Palindrome",
+        "link": "https://leetcode.com/problems/break-a-palindrome"
+    },
+    {
+        "title": "Reverse Subarray To Maximize Array Value",
+        "link": "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value"
+    },
+    {
+        "title": "Largest Multiple of Three",
+        "link": "https://leetcode.com/problems/largest-multiple-of-three"
+    },
+    {
+        "title": "Balance a Binary Search Tree",
+        "link": "https://leetcode.com/problems/balance-a-binary-search-tree"
+    },
+    {
+        "title": "Minimum Moves to Reach Target Score",
+        "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-score"
+    },
+    {
+        "title": "Longest Happy String",
+        "link": "https://leetcode.com/problems/longest-happy-string"
+    },
+    {
+        "title": "Minimum Cost to Move Chips to The Same Position",
+        "link": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position"
+    },
+    {
+        "title": "Sum of Numbers With Units Digit K",
+        "link": "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k"
+    },
+    {
+        "title": "Split a String in Balanced Strings",
+        "link": "https://leetcode.com/problems/split-a-string-in-balanced-strings"
+    },
+    {
+        "title": "Maximize the Topmost Element After K Moves",
+        "link": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves"
+    },
+    {
+        "title": "Minimum Deletions to Make Array Beautiful",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful"
+    },
+    {
+        "title": "Minimum Number of Moves to Make Palindrome",
+        "link": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome"
+    },
+    {
+        "title": "Minimum Swaps to Make Strings Equal",
+        "link": "https://leetcode.com/problems/minimum-swaps-to-make-strings-equal"
+    },
+    {
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix"
+    },
+    {
+        "title": "Greatest Sum Divisible by Three",
+        "link": "https://leetcode.com/problems/greatest-sum-divisible-by-three"
+    },
+    {
+        "title": "Make Array Non-decreasing or Non-increasing",
+        "link": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing"
+    },
+    {
+        "title": "Divide Array in Sets of K Consecutive Numbers",
+        "link": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers"
+    },
+    {
+        "title": "Maximum 69 Number",
+        "link": "https://leetcode.com/problems/maximum-69-number"
+    },
+    {
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+    },
+    {
+        "title": "Reduce Array Size to The Half",
+        "link": "https://leetcode.com/problems/reduce-array-size-to-the-half"
+    },
+    {
+        "title": "Maximum Number of Events That Can Be Attended",
+        "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended"
+    },
+    {
+        "title": "Cinema Seat Allocation",
+        "link": "https://leetcode.com/problems/cinema-seat-allocation"
+    },
+    {
+        "title": "Pizza With 3n Slices",
+        "link": "https://leetcode.com/problems/pizza-with-3n-slices"
+    },
+    {
+        "title": "Maximum Performance of a Team",
+        "link": "https://leetcode.com/problems/maximum-performance-of-a-team"
+    },
+    {
+        "title": "Construct K Palindrome Strings",
+        "link": "https://leetcode.com/problems/construct-k-palindrome-strings"
+    },
+    {
+        "title": "Reducing Dishes",
+        "link": "https://leetcode.com/problems/reducing-dishes"
+    },
+    {
+        "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+        "link": "https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k"
+    },
+    {
+        "title": "Minimum Subsequence in Non-Increasing Order",
+        "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order"
+    },
+    {
+        "title": "Max Difference You Can Get From Changing an Integer",
+        "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer"
+    },
+    {
+        "title": "Check If a String Can Break Another String",
+        "link": "https://leetcode.com/problems/check-if-a-string-can-break-another-string"
+    },
+    {
+        "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+        "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts"
+    },
+    {
+        "title": "Least Number of Unique Integers after K Removals",
+        "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals"
+    },
+    {
+        "title": "Avoid Flood in The City",
+        "link": "https://leetcode.com/problems/avoid-flood-in-the-city"
+    },
+    {
+        "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+        "link": "https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves"
+    },
+    {
+        "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+        "link": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits"
+    },
+    {
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+    },
+    {
+        "title": "Maximum Number of Non-Overlapping Substrings",
+        "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings"
+    },
+    {
+        "title": "Minimum Insertions to Balance a Parentheses String",
+        "link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string"
+    },
+    {
+        "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+        "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target"
+    },
+    {
+        "title": "Minimum Suffix Flips",
+        "link": "https://leetcode.com/problems/minimum-suffix-flips"
+    },
+    {
+        "title": "Minimum Swaps to Arrange a Binary Grid",
+        "link": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid"
+    },
+    {
+        "title": "Get the Maximum Score",
+        "link": "https://leetcode.com/problems/get-the-maximum-score"
+    },
+    {
+        "title": "Minimum Numbers of Function Calls to Make Target Array",
+        "link": "https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array"
+    },
+    {
+        "title": "Maximum Number of Coins You Can Get",
+        "link": "https://leetcode.com/problems/maximum-number-of-coins-you-can-get"
+    },
+    {
+        "title": "Maximum Length of Subarray With Positive Product",
+        "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product"
+    },
+    {
+        "title": "Maximum Sum Obtained of Any Permutation",
+        "link": "https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation"
+    },
+    {
+        "title": "Minimum Time to Make Rope Colorful",
+        "link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful"
+    },
+    {
+        "title": "Put Boxes Into the Warehouse I",
+        "link": "https://leetcode.com/problems/put-boxes-into-the-warehouse-i"
+    },
+    {
+        "title": "Check If String Is Transformable With Substring Sort Operations",
+        "link": "https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations"
+    },
+    {
+        "title": "Find Servers That Handled Most Number of Requests",
+        "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests"
+    },
+    {
+        "title": "Find Valid Matrix Given Row and Column Sums",
+        "link": "https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums"
+    },
+    {
+        "title": "Put Boxes Into the Warehouse II",
+        "link": "https://leetcode.com/problems/put-boxes-into-the-warehouse-ii"
+    },
+    {
+        "title": "Furthest Building You Can Reach",
+        "link": "https://leetcode.com/problems/furthest-building-you-can-reach"
+    },
+    {
+        "title": "Minimum Number of Removals to Make Mountain Array",
+        "link": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array"
+    },
+    {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique"
+    },
+    {
+        "title": "Sell Diminishing-Valued Colored Balls",
+        "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls"
+    },
+    {
+        "title": "Smallest String With A Given Numeric Value",
+        "link": "https://leetcode.com/problems/smallest-string-with-a-given-numeric-value"
+    },
+    {
+        "title": "Minimum Initial Energy to Finish Tasks",
+        "link": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks"
+    },
+    {
+        "title": "Stone Game VI",
+        "link": "https://leetcode.com/problems/stone-game-vi"
+    },
+    {
+        "title": "Find the Most Competitive Subsequence",
+        "link": "https://leetcode.com/problems/find-the-most-competitive-subsequence"
+    },
+    {
+        "title": "Minimize Deviation in Array",
+        "link": "https://leetcode.com/problems/minimize-deviation-in-array"
+    },
+    {
+        "title": "Maximum Binary String After Change",
+        "link": "https://leetcode.com/problems/maximum-binary-string-after-change"
+    },
+    {
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "link": "https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones"
+    },
+    {
+        "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+        "link": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers"
+    },
+    {
+        "title": "Maximum Score From Removing Substrings",
+        "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+    },
+    {
+        "title": "Maximum Number of Eaten Apples",
+        "link": "https://leetcode.com/problems/maximum-number-of-eaten-apples"
+    },
+    {
+        "title": "Maximum Units on a Truck",
+        "link": "https://leetcode.com/problems/maximum-units-on-a-truck"
+    },
+    {
+        "title": "Minimum Operations to Make a Subsequence",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-a-subsequence"
+    },
+    {
+        "title": "Minimum Number of People to Teach",
+        "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach"
+    },
+    {
+        "title": "Largest Submatrix With Rearrangements",
+        "link": "https://leetcode.com/problems/largest-submatrix-with-rearrangements"
+    },
+    {
+        "title": "Largest Subarray Length K",
+        "link": "https://leetcode.com/problems/largest-subarray-length-k"
+    },
+    {
+        "title": "Latest Time by Replacing Hidden Digits",
+        "link": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits"
+    },
+    {
+        "title": "Building Boxes",
+        "link": "https://leetcode.com/problems/building-boxes"
+    },
+    {
+        "title": "Form Array by Concatenating Subarrays of Another Array",
+        "link": "https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array"
+    },
+    {
+        "title": "Maximum Score From Removing Stones",
+        "link": "https://leetcode.com/problems/maximum-score-from-removing-stones"
+    },
+    {
+        "title": "Largest Merge Of Two Strings",
+        "link": "https://leetcode.com/problems/largest-merge-of-two-strings"
+    },
+    {
+        "title": "Equal Sum Arrays With Minimum Number of Operations",
+        "link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations"
+    },
+    {
+        "title": "Minimum Elements to Add to Form a Given Sum",
+        "link": "https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum"
+    },
+    {
+        "title": "Maximum Average Pass Ratio",
+        "link": "https://leetcode.com/problems/maximum-average-pass-ratio"
+    },
+    {
+        "title": "Maximum Value at a Given Index in a Bounded Array",
+        "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array"
+    },
+    {
+        "title": "Maximum Number of Consecutive Values You Can Make",
+        "link": "https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make"
+    },
+    {
+        "title": "Maximize the Beauty of the Garden",
+        "link": "https://leetcode.com/problems/maximize-the-beauty-of-the-garden"
+    },
+    {
+        "title": "Minimum Operations to Make the Array Increasing",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing"
+    },
+    {
+        "title": "Count Pairs of Equal Substrings With Minimum Difference",
+        "link": "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference"
+    },
+    {
+        "title": "Minimum Sideway Jumps",
+        "link": "https://leetcode.com/problems/minimum-sideway-jumps"
+    },
+    {
+        "title": "Maximum Element After Decreasing and Rearranging",
+        "link": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging"
+    },
+    {
+        "title": "Maximum Ice Cream Bars",
+        "link": "https://leetcode.com/problems/maximum-ice-cream-bars"
+    },
+    {
+        "title": "Frequency of the Most Frequent Element",
+        "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element"
+    },
+    {
+        "title": "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+        "link": "https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number"
+    },
+    {
+        "title": "Maximum Number of People That Can Be Caught in Tag",
+        "link": "https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag"
+    },
+    {
+        "title": "Minimize Maximum Pair Sum in Array",
+        "link": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array"
+    },
+    {
+        "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating"
+    },
+    {
+        "title": "Maximum Value after Insertion",
+        "link": "https://leetcode.com/problems/maximum-value-after-insertion"
+    },
+    {
+        "title": "Minimum Number of Flips to Make the Binary String Alternating",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating"
+    },
+    {
+        "title": "Merge Triplets to Form Target Triplet",
+        "link": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet"
+    },
+    {
+        "title": "Minimize Product Sum of Two Arrays",
+        "link": "https://leetcode.com/problems/minimize-product-sum-of-two-arrays"
+    },
+    {
+        "title": "Largest Odd Number in String",
+        "link": "https://leetcode.com/problems/largest-odd-number-in-string"
+    },
+    {
+        "title": "Sum Game",
+        "link": "https://leetcode.com/problems/sum-game"
+    },
+    {
+        "title": "Eliminate Maximum Number of Monsters",
+        "link": "https://leetcode.com/problems/eliminate-maximum-number-of-monsters"
+    },
+    {
+        "title": "Add Minimum Number of Rungs",
+        "link": "https://leetcode.com/problems/add-minimum-number-of-rungs"
+    },
+    {
+        "title": "Largest Number After Mutating Substring",
+        "link": "https://leetcode.com/problems/largest-number-after-mutating-substring"
+    },
+    {
+        "title": "Maximum Number of Weeks for Which You Can Work",
+        "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work"
+    },
+    {
+        "title": "Array With Elements Not Equal to Average of Neighbors",
+        "link": "https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors"
+    },
+    {
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter"
+    },
+    {
+        "title": "Maximum Matrix Sum",
+        "link": "https://leetcode.com/problems/maximum-matrix-sum"
+    },
+    {
+        "title": "Remove Stones to Minimize the Total",
+        "link": "https://leetcode.com/problems/remove-stones-to-minimize-the-total"
+    },
+    {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced"
+    },
+    {
+        "title": "Minimum Non-Zero Product of the Array Elements",
+        "link": "https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements"
+    },
+    {
+        "title": "Find Original Array From Doubled Array",
+        "link": "https://leetcode.com/problems/find-original-array-from-doubled-array"
+    },
+    {
+        "title": "The Number of Weak Characters in the Game",
+        "link": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game"
+    },
+    {
+        "title": "Longest Subsequence Repeated k Times",
+        "link": "https://leetcode.com/problems/longest-subsequence-repeated-k-times"
+    },
+    {
+        "title": "Average Height of Buildings in Each Segment",
+        "link": "https://leetcode.com/problems/average-height-of-buildings-in-each-segment"
+    },
+    {
+        "title": "Minimum Number of Moves to Seat Everyone",
+        "link": "https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone"
+    },
+    {
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+    },
+    {
+        "title": "Minimum Moves to Convert String",
+        "link": "https://leetcode.com/problems/minimum-moves-to-convert-string"
+    },
+    {
+        "title": "Stone Game IX",
+        "link": "https://leetcode.com/problems/stone-game-ix"
+    },
+    {
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter"
+    },
+    {
+        "title": "Maximum Number of Tasks You Can Assign",
+        "link": "https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign"
+    },
+    {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters"
+    },
+    {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+    },
+    {
+        "title": "Two Furthest Houses With Different Colors",
+        "link": "https://leetcode.com/problems/two-furthest-houses-with-different-colors"
+    },
+    {
+        "title": "Stamping the Grid",
+        "link": "https://leetcode.com/problems/stamping-the-grid"
+    },
+    {
+        "title": "Removing Minimum and Maximum From Array",
+        "link": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array"
+    },
+    {
+        "title": "Check if a Parentheses String Can Be Valid",
+        "link": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid"
+    },
+    {
+        "title": "Longest Palindrome by Concatenating Two Letter Words",
+        "link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words"
+    },
+    {
+        "title": "Subsequence of Size K With the Largest Even Sum",
+        "link": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum"
+    },
+    {
+        "title": "Destroying Asteroids",
+        "link": "https://leetcode.com/problems/destroying-asteroids"
+    },
+    {
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount"
+    },
+    {
+        "title": "Earliest Possible Day of Full Bloom",
+        "link": "https://leetcode.com/problems/earliest-possible-day-of-full-bloom"
+    },
+    {
+        "title": "Maximum Running Time of N Computers",
+        "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers"
+    },
+    {
+        "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+        "link": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits"
+    },
+    {
+        "title": "Maximum Split of Positive Even Integers",
+        "link": "https://leetcode.com/problems/maximum-split-of-positive-even-integers"
+    },
+    {
+        "title": "Minimum Operations to Make the Array Alternating",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating"
+    },
+    {
+        "title": "Removing Minimum Number of Magic Beans",
+        "link": "https://leetcode.com/problems/removing-minimum-number-of-magic-beans"
+    },
+    {
+        "title": "Construct String With Repeat Limit",
+        "link": "https://leetcode.com/problems/construct-string-with-repeat-limit"
+    },
+    {
+        "title": "Append K Integers With Minimal Sum",
+        "link": "https://leetcode.com/problems/append-k-integers-with-minimal-sum"
+    },
+    {
+        "title": "Maximize Number of Subsequences in a String",
+        "link": "https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string"
+    },
+    {
+        "title": "Minimum Operations to Halve Array Sum",
+        "link": "https://leetcode.com/problems/minimum-operations-to-halve-array-sum"
+    },
+    {
+        "title": "Maximum Product After K Increments",
+        "link": "https://leetcode.com/problems/maximum-product-after-k-increments"
+    },
+    {
+        "title": "Maximum Total Beauty of the Gardens",
+        "link": "https://leetcode.com/problems/maximum-total-beauty-of-the-gardens"
+    },
+    {
+        "title": "Remove Digit From Number to Maximize Result",
+        "link": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result"
+    },
+    {
+        "title": "Minimum Number of Operations to Convert Time",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-convert-time"
+    },
+    {
+        "title": "Design an ATM Machine",
+        "link": "https://leetcode.com/problems/design-an-atm-machine"
+    },
+    {
+        "title": "Minimum Health to Beat Game",
+        "link": "https://leetcode.com/problems/minimum-health-to-beat-game"
+    },
+    {
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet"
+    },
+    {
+        "title": "Minimum Rounds to Complete All Tasks",
+        "link": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks"
+    },
+    {
+        "title": "Maximum Bags With Full Capacity of Rocks",
+        "link": "https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks"
+    },
+    {
+        "title": "Maximum Total Importance of Roads",
+        "link": "https://leetcode.com/problems/maximum-total-importance-of-roads"
+    },
+    {
+        "title": "Partition Array Such That Maximum Difference Is K",
+        "link": "https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k"
+    },
+    {
+        "title": "Longest Binary Subsequence Less Than or Equal to K",
+        "link": "https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k"
+    },
+    {
+        "title": "Minimum Number of Keypresses",
+        "link": "https://leetcode.com/problems/minimum-number-of-keypresses"
+    },
+    {
+        "title": "Minimum Amount of Time to Fill Cups",
+        "link": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups"
+    },
+    {
+        "title": "Shortest Impossible Sequence of Rolls",
+        "link": "https://leetcode.com/problems/shortest-impossible-sequence-of-rolls"
+    },
+    {
+        "title": "Make Array Zero by Subtracting Equal Amounts",
+        "link": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts"
+    },
+    {
+        "title": "Maximum Number of Groups Entering a Competition",
+        "link": "https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition"
+    },
+    {
+        "title": "Minimum Replacements to Sort the Array",
+        "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+    },
+    {
+        "title": "Construct Smallest Number From DI String",
+        "link": "https://leetcode.com/problems/construct-smallest-number-from-di-string"
+    },
+    {
+        "title": "Find Minimum Time to Finish All Jobs II",
+        "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii"
+    },
+    {
+        "title": "Minimum Hours of Training to Win a Competition",
+        "link": "https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition"
+    },
+    {
+        "title": "Longest Subsequence With Limited Sum",
+        "link": "https://leetcode.com/problems/longest-subsequence-with-limited-sum"
+    },
+    {
+        "title": "Minimum Adjacent Swaps to Make a Valid Array",
+        "link": "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array"
+    },
+    {
+        "title": "Largest Palindromic Number",
+        "link": "https://leetcode.com/problems/largest-palindromic-number"
+    },
+    {
+        "title": "Optimal Partition of String",
+        "link": "https://leetcode.com/problems/optimal-partition-of-string"
+    },
+    {
+        "title": "Divide Intervals Into Minimum Number of Groups",
+        "link": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups"
+    },
+    {
+        "title": "Sort Array by Moving Items to Empty Space",
+        "link": "https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space"
+    },
+    {
+        "title": "Maximum Matching of Players With Trainers",
+        "link": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers"
+    },
+    {
+        "title": "Minimum Money Required Before Transactions",
+        "link": "https://leetcode.com/problems/minimum-money-required-before-transactions"
+    },
+    {
+        "title": "Minimize XOR",
+        "link": "https://leetcode.com/problems/minimize-xor"
+    },
+    {
+        "title": "Partition String Into Substrings With Values at Most K",
+        "link": "https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k"
+    },
+    {
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+    },
+    {
+        "title": "Minimize Maximum of Array",
+        "link": "https://leetcode.com/problems/minimize-maximum-of-array"
+    },
+    {
+        "title": "Minimum Cost to Make Array Equal",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal"
+    },
+    {
+        "title": "Minimum Number of Operations to Make Arrays Similar",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar"
+    },
+    {
+        "title": "Minimum Addition to Make Integer Beautiful",
+        "link": "https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful"
+    },
+    {
+        "title": "Merge Operations to Turn Array Into a Palindrome",
+        "link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome"
+    },
+    {
+        "title": "Append Characters to String to Make Subsequence",
+        "link": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence"
+    },
+    {
+        "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+        "link": "https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one"
+    },
+    {
+        "title": "Maximum Star Sum of a Graph",
+        "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph"
+    },
+    {
+        "title": "Frog Jump II",
+        "link": "https://leetcode.com/problems/frog-jump-ii"
+    },
+    {
+        "title": "Minimum Total Cost to Make Arrays Unequal",
+        "link": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal"
+    },
+    {
+        "title": "Maximum Tastiness of Candy Basket",
+        "link": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket"
+    },
+    {
+        "title": "Minimum Operations to Make Array Equal II",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii"
+    },
+    {
+        "title": "Maximal Score After Applying K Operations",
+        "link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations"
+    },
+    {
+        "title": "Maximize the Minimum Powered City",
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+    },
+    {
+        "title": "Maximum Subsequence Score",
+        "link": "https://leetcode.com/problems/maximum-subsequence-score"
+    },
+    {
+        "title": "Maximum Number of Integers to Choose From a Range I",
+        "link": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i"
+    },
+    {
+        "title": "Split With Minimum Sum",
+        "link": "https://leetcode.com/problems/split-with-minimum-sum"
+    },
+    {
+        "title": "Rearrange Array to Maximize Prefix Score",
+        "link": "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score"
+    },
+    {
+        "title": "Minimum Time to Complete All Tasks",
+        "link": "https://leetcode.com/problems/minimum-time-to-complete-all-tasks"
+    },
+    {
+        "title": "Smallest Missing Non-negative Integer After Operations",
+        "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations"
+    },
+    {
+        "title": "Distribute Money to Maximum Children",
+        "link": "https://leetcode.com/problems/distribute-money-to-maximum-children"
+    },
+    {
+        "title": "Maximize Greatness of an Array",
+        "link": "https://leetcode.com/problems/maximize-greatness-of-an-array"
+    },
+    {
+        "title": "Make the Prefix Sum Non-negative",
+        "link": "https://leetcode.com/problems/make-the-prefix-sum-non-negative"
+    },
+    {
+        "title": "Put Marbles in Bags",
+        "link": "https://leetcode.com/problems/put-marbles-in-bags"
+    },
+    {
+        "title": "Lexicographically Smallest Beautiful String",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string"
+    },
+    {
+        "title": "Rearranging Fruits",
+        "link": "https://leetcode.com/problems/rearranging-fruits"
+    },
+    {
+        "title": "Maximum Price to Fill a Bag",
+        "link": "https://leetcode.com/problems/maximum-price-to-fill-a-bag"
+    },
+    {
+        "title": "Maximum Number of Integers to Choose From a Range II",
+        "link": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii"
+    },
+    {
+        "title": "Maximum Difference by Remapping a Digit",
+        "link": "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit"
+    },
+    {
+        "title": "Minimum Score by Changing Two Elements",
+        "link": "https://leetcode.com/problems/minimum-score-by-changing-two-elements"
+    },
+    {
+        "title": "Find the String with LCP",
+        "link": "https://leetcode.com/problems/find-the-string-with-lcp"
+    },
+    {
+        "title": "Minimum Operations to Reduce an Integer to 0",
+        "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0"
+    },
+    {
+        "title": "Find the Maximum Number of Marked Indices",
+        "link": "https://leetcode.com/problems/find-the-maximum-number-of-marked-indices"
+    },
+    {
+        "title": "K Items With the Maximum Sum",
+        "link": "https://leetcode.com/problems/k-items-with-the-maximum-sum"
+    },
+    {
+        "title": "Prime Subtraction Operation",
+        "link": "https://leetcode.com/problems/prime-subtraction-operation"
+    },
+    {
+        "title": "Minimize the Maximum Difference of Pairs",
+        "link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs"
+    },
+    {
+        "title": "Mice and Cheese",
+        "link": "https://leetcode.com/problems/mice-and-cheese"
+    },
+    {
+        "title": "Maximum OR",
+        "link": "https://leetcode.com/problems/maximum-or"
+    },
+    {
+        "title": "Minimum Additions to Make Valid String",
+        "link": "https://leetcode.com/problems/minimum-additions-to-make-valid-string"
+    },
+    {
+        "title": "Maximum Strength of a Group",
+        "link": "https://leetcode.com/problems/maximum-strength-of-a-group"
+    },
+    {
+        "title": "Make Array Empty",
+        "link": "https://leetcode.com/problems/make-array-empty"
+    },
+    {
+        "title": "Maximum Sum With Exactly K Elements",
+        "link": "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements"
+    },
+    {
+        "title": "Make Costs of Paths Equal in a Binary Tree",
+        "link": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree"
+    },
+    {
+        "title": "Determine the Minimum Sum of a k-avoiding Array",
+        "link": "https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array"
+    },
+    {
+        "title": "Lexicographically Smallest Palindrome",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-palindrome"
+    },
+    {
+        "title": "Minimum Cost to Make All Characters Equal",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal"
+    },
+    {
+        "title": "Lexicographically Smallest String After Substring Operation",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation"
+    },
+    {
+        "title": "Construct the Longest New String",
+        "link": "https://leetcode.com/problems/construct-the-longest-new-string"
+    },
+    {
+        "title": "Largest Element in an Array after Merge Operations",
+        "link": "https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations"
+    },
+    {
+        "title": "Shortest String That Contains Three Strings",
+        "link": "https://leetcode.com/problems/shortest-string-that-contains-three-strings"
+    },
+    {
+        "title": "Maximum Elegance of a K-Length Subsequence",
+        "link": "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence"
+    },
+    {
+        "title": "Check if it is Possible to Split Array",
+        "link": "https://leetcode.com/problems/check-if-it-is-possible-to-split-array"
+    },
+    {
+        "title": "Maximum Number of Groups With Increasing Length",
+        "link": "https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length"
+    },
+    {
+        "title": "Apply Operations to Maximize Score",
+        "link": "https://leetcode.com/problems/apply-operations-to-maximize-score"
+    },
+    {
+        "title": "Minimum Operations to Form Subsequence With Target Sum",
+        "link": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum"
+    },
+    {
+        "title": "Find the Minimum Possible Sum of a Beautiful Array",
+        "link": "https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array"
+    },
+    {
+        "title": "Minimum Operations to Make a Special Number",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-a-special-number"
+    },
+    {
+        "title": "Maximum Odd Binary Number",
+        "link": "https://leetcode.com/problems/maximum-odd-binary-number"
+    },
+    {
+        "title": "Count K-Subsequences of a String With Maximum Beauty",
+        "link": "https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty"
+    },
+    {
+        "title": "Split Array Into Maximum Number of Subarrays",
+        "link": "https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays"
+    },
+    {
+        "title": "Minimum Array Length After Pair Removals",
+        "link": "https://leetcode.com/problems/minimum-array-length-after-pair-removals"
+    },
+    {
+        "title": "Minimum Number of Operations to Make Array Empty",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty"
+    },
+    {
+        "title": "Maximum Spending After Buying Items",
+        "link": "https://leetcode.com/problems/maximum-spending-after-buying-items"
+    },
+    {
+        "title": "Smallest Number With Given Digit Product",
+        "link": "https://leetcode.com/problems/smallest-number-with-given-digit-product"
+    },
+    {
+        "title": "Longest Unequal Adjacent Groups Subsequence I",
+        "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i"
+    },
+    {
+        "title": "Minimum Processing Time",
+        "link": "https://leetcode.com/problems/minimum-processing-time"
+    },
+    {
+        "title": "Apply Operations on Array to Maximize Sum of Squares",
+        "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares"
+    },
+    {
+        "title": "Minimum Number of Groups to Create a Valid Assignment",
+        "link": "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment"
+    },
+    {
+        "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+        "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+    },
+    {
+        "title": "Minimizing Array After Replacing Pairs With Their Product",
+        "link": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product"
+    },
+    {
+        "title": "Maximum Xor Product",
+        "link": "https://leetcode.com/problems/maximum-xor-product"
+    },
+    {
+        "title": "Separate Black and White Balls",
+        "link": "https://leetcode.com/problems/separate-black-and-white-balls"
+    },
+    {
+        "title": "Maximum Size of a Set After Removals",
+        "link": "https://leetcode.com/problems/maximum-size-of-a-set-after-removals"
+    },
+    {
+        "title": "Minimum Cost to Make Array Equalindromic",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic"
+    },
+    {
+        "title": "Remove Adjacent Almost-Equal Characters",
+        "link": "https://leetcode.com/problems/remove-adjacent-almost-equal-characters"
+    },
+    {
+        "title": "Minimum Number of Coins to be Added",
+        "link": "https://leetcode.com/problems/minimum-number-of-coins-to-be-added"
+    },
+    {
+        "title": "Divide Array Into Arrays With Max Difference",
+        "link": "https://leetcode.com/problems/divide-array-into-arrays-with-max-difference"
+    },
+    {
+        "title": "Minimize Length of Array Using Operations",
+        "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations"
+    },
+    {
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations"
+    },
+    {
+        "title": "Find Polygon With the Largest Perimeter",
+        "link": "https://leetcode.com/problems/find-polygon-with-the-largest-perimeter"
+    },
+    {
+        "title": "Maximum Points After Enemy Battles",
+        "link": "https://leetcode.com/problems/maximum-points-after-enemy-battles"
+    },
+    {
+        "title": "Minimum Number of Pushes to Type Word I",
+        "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i"
+    },
+    {
+        "title": "Minimum Number of Pushes to Type Word II",
+        "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii"
+    },
+    {
+        "title": "Earliest Second to Mark Indices II",
+        "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii"
+    },
+    {
+        "title": "Find the Maximum Sum of Node Values",
+        "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values"
+    },
+    {
+        "title": "Maximum Palindromes After Operations",
+        "link": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+    },
+    {
+        "title": "Minimum Moves to Pick K Ones",
+        "link": "https://leetcode.com/problems/minimum-moves-to-pick-k-ones"
+    },
+    {
+        "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k"
+    },
+    {
+        "title": "Apple Redistribution into Boxes",
+        "link": "https://leetcode.com/problems/apple-redistribution-into-boxes"
+    },
+    {
+        "title": "Lexicographically Smallest String After Operations With Constraint",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint"
+    },
+    {
+        "title": "Maximize Happiness of Selected Children",
+        "link": "https://leetcode.com/problems/maximize-happiness-of-selected-children"
+    },
+    {
+        "title": "Replace Question Marks in String to Minimize Its Value",
+        "link": "https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value"
+    },
+    {
+        "title": "Minimum Deletions to Make String K-Special",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special"
+    },
+    {
+        "title": "Minimum Operations to Make Median of Array Equal to K",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k"
+    },
+    {
+        "title": "Minimum Rectangles to Cover Points",
+        "link": "https://leetcode.com/problems/minimum-rectangles-to-cover-points"
+    },
+    {
+        "title": "Make String Anti-palindrome",
+        "link": "https://leetcode.com/problems/make-string-anti-palindrome"
+    },
+    {
+        "title": "Minimum Cost to Equalize Array",
+        "link": "https://leetcode.com/problems/minimum-cost-to-equalize-array"
+    },
+    {
+        "title": "Maximum Number of Potholes That Can Be Fixed",
+        "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed"
+    },
+    {
+        "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+        "link": "https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero"
+    },
+    {
+        "title": "Lexicographically Minimum String After Removing Stars",
+        "link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars"
+    },
+    {
+        "title": "Minimum Operations to Make Array Equal to Target",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target"
+    },
+    {
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii"
+    },
+    {
+        "title": "Lexicographically Smallest String After a Swap",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap"
+    },
+    {
+        "title": "Maximum Number of Operations to Move Ones to the End",
+        "link": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end"
+    },
+    {
+        "title": "Minimum Cost for Cutting Cake I",
+        "link": "https://leetcode.com/problems/minimum-cost-for-cutting-cake-i"
+    },
+    {
+        "title": "Minimum Cost for Cutting Cake II",
+        "link": "https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii"
+    },
+    {
+        "title": "Minimum Moves to Get a Peaceful Board",
+        "link": "https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board"
+    },
+    {
+        "title": "Maximum Array Hopping Score I",
+        "link": "https://leetcode.com/problems/maximum-array-hopping-score-i"
+    },
+    {
+        "title": "Shortest Distance After Road Addition Queries II",
+        "link": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii"
+    },
+    {
+        "title": "Maximum Array Hopping Score II",
+        "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii"
+    }
+]
